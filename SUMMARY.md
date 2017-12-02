@@ -1,7 +1,7 @@
 # Summary
 
 * [A short history of Dominions](01_A_SHORT_HISTORY_OF_DOMINIONS.md)
-* [The making of Dominions 5](02_THE_MAKING_OF_DOMINIONS_5.md)
+* [Some words about the creation of Dominion 4](02A_SOME_WORDS_ABOUT_THE_CREATION_OF_DOMINIONS_4.md)
 * [Notable changes from previous Dominions games](03_NOTABLE_CHANGES_FROM_PREVIOUS_DOMINIONS_GAMES.md)
 * [The Dominions random number](04_THE_DOMINIONS_RANDOM_NUMBER.md)
 * [Interface](05_INTERFACE.md)
