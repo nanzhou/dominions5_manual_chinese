@@ -1,12 +1,31 @@
-After completing Dominions 3 we were a bit tired of making Dominions, so starting with Dominions 5 then was out of the question. Also, Johan got a new full-time job at Sony Ericsson then and got his programming needs fulfilled there. Many Dominions 3 patches and a long break later we got inspiration for making a new game again, but we wanted something different from our earlier projects. So we started with Trade & Taint.
-Trade & Taint was just a preliminary name, but we never figured out a better one. It was a real time multiplayer online game, like a MMORPG, but not massive and with no 3d characters. The game took a lot of inspiration from Star Sonata, a great little game by the way.
-The concept was to buy a party of soldiers and donkeys and then transport goods between villages, making money by buying cheap and selling were the demand was high. After a while you would be rich enough to start your own colonies and create mines there if the place is mineral-rich or maybe plant fields and sell oats. It was still an Illwinter game, so we had magic and horrors, too. When you had a colony you could create a wizard's tower and have your mages perform magic rituals, craft items, and enchant your surroundings. We had global rituals too, like meteor storms that made a meteor crash down on the world every minute or so. The meteor storms looked very apocalyptic and were devastating for everyone but the horrors. Performing magic made the world more tainted and enough taint resulted in horrors appearing. First came a few, then came some more, and finally there was an apocalypse of horrors that destroyed settlements, player colonies, and eventually the entire world.
-It was, however, a bit too ambitious and it felt impossible to finish, so it got laid aside. Instead, we decided to make something easier and that was to create a modern Conquest of Elysium, because we have always enjoyed that little game. And now we had some cool horrors from Trade and Taint to put into Conquest of Elysium as well.
-After Conquest of Elysium 3 was finished, working on Dominions sounded like a fun idea again, so we started to plan a Dominions 4. We had a few really major changes that we wanted to see: one was the 3D world map from Trade and Taint. Here you would get line of sight for armies and movement speed would be meters per day with exact distances between cities. Also, you would have changing terrain and line-of-sight for magic rituals. Another idea was real-time battles, with everyone moving at once and spells having different casting times. The third idea was team play with a team consisting of one god and his disciples.
-Then we made a list of all the little changes we also wanted to make and it got very long. So long that we thought it was enough with that list to make a new game. So we scrapped some of the major ideas that had the potential of making Dominions 4 a worse game than its predecessor. Thus, we decided against the 3D map and the real-time battles. We have experienced a few games that got worse with their updates and we didn't want that with Dominions 4. Maybe with a Dominions 5. We kept the team play idea though, because it fits well with the current Dominions system. Also we really enjoyed the team play in the War of the Ring board game and wanted the same feeling in Dominions. For those who haven't played it, there are fixed teams: Sauron and his ally Saruman on one side, and all the good ones on the other.
-When development of Dominions 4 started, the GUI system from CoE3 was imported. Then the network system, random map generation and some 3D stuff from Trade & Taint was imported too. Sprites were imported from both games, so we got some new horrors and new item pictures from Trade & Taint, where there are sprites for every mundane weapon and piece of armor in the game. Some monsters like the gelatinous cube from CoE3 were also imported. In an effort to get the sprites sorted in a more logical way as well as redrawing the ugly ones, Kristoffer decided to rearrange all the sprites in the game. So for a long time almost all nations had what looked like random sprites for its units, making it somewhat difficult to play.
-Our first test game took place right after we got the team play working. Many units still looked funny and you had to tell Kristoffer that "my scout looks like an elephant with a red cross on it," to have him prioritize that.
-During development a multitude of new ideas popped up. Some were small and easy to implement, others had more impact on the game. The Thrones of Ascension was one such later development that we just had to add, once we came up with the idea. Some ideas were discarded and others lie around and might be added in future patches.
-Now, a bare month before release and almost 3000 posts in our beta forum, the game is working well, random sprites are quite rare and bugs tend to be easy to fix.
-We hope that you find Dominions 5 entertaining, regardless of whether you are new to the series or if you are a long-time player of our games.
-/Johan & Kristoffer, August 2013
+#神域4创作简话
+
+在完成神域3之后我们都有点厌倦做神域系列了，所以开始做神域4并不在考虑范围内。而且，Johan得到了一个在索尼爱立信的新全职工作，在那里满足了自己的编程需求。很多神域3补丁和一个长时间的休息之后，我们又有了做一个新游戏的启发，但我们想做点和之前的项目都不一样的东西。于是我们开始制作贸易与腐化（Trade & Taint）。
+
+贸易与腐化只是一个暂时的名字，但我们一直没想到一个更好的。它是一个实时多玩家在线的游戏，就像个MMORPG，但既不大型也没有3D角色。这个游戏从Star Sonata得到了很多启发，顺便一提是一个很棒的小游戏。
+
+[图]
+
+游戏主题是买一队士兵和驴子，然后在村庄之间运输货物，通过低买然后在有需求时高卖赚钱。一段时间后你会有足够的资金去建设你自己的聚居地，要是该地多矿能开矿，或者种地然后卖燕麦。这依然是一个Illwinter的游戏，所以我们也有魔法和惊惧魔。你有了一个聚居地之后可以建设一个法师塔，让你的法师进行魔法仪式，打造物品，以及附魔你的周边地区。我们也有全球仪式，像流星风暴会让流星每过一两分钟就落下一颗轰击这个世界。流星风暴看上去十分有末日景象，对除了惊惧魔的所有人都伤害巨大。释放魔法让这个世界更为腐化，而腐化度达到一定程度就会造成惊惧魔出现。一开始只来几只，然后再来更多，最终会有惊惧魔末日来临摧毁定居点，玩家聚居地，以及最终这整个世界。
+
+然而，这游戏显得有些野心太大，让人觉得永远也无法完成，所以被放到了一边。取而代之的是我们决定做点简单的东西，那就是做一个现代的乐园征服（Conquest of Elysium），因为我们一直很喜欢那个小游戏。现在我们也有了一些来自贸易与腐化的酷炫惊惧魔可以放进乐园征服里。
+
+在乐园征服3完成之后，做神域系列又听起来是个有趣的主意了，所以我们开始计划神域的第四代。我们有几个想见到的主要改动：一个是从贸易和腐化来的3D世界地图。在这你会获得部队的视野系统，以及行动速度会成为每天多少米，同时用城市之间实际的距离。而且你会有法术仪式来改变地形和视野。另一个想法是实时战斗，所有人同时进行行动，而法术有不同的释放用时。第三个想法是团队游戏，每队包括一个神和他的几大信徒。
+
+然后我们列了个表来包括所有我们想要做的小改动，结果它变得很长。长到我们认为足够用那个表来做一个新游戏。于是我们放弃了一些有可能会把神域4变为一个不如其前作的游戏的主要设想。因此我们决定不要3D地图和实时战斗。我们有见过一些游戏随着更新而变差，不想神域4也那样。或许神域5再说。不过我们保留了团队游戏，因为它与目前的神域系统的契合度很好。而且我们非常享受魔戒圣战桌面游戏的团队游戏，想要在神域中有同样的体验。为没有玩过的大家解释下，那里面的团队是固定的。索伦和他的盟友萨鲁曼为一方，善良阵营的角色在另一方。
+
+神域4开发开始的时候，我们引入了CoE3的GUI系统。然后引入了贸易和腐化的网络连接系统、随机地图生成和一些3D素材。引入了两个游戏的一些点阵图，这样我们得到了些贸易和腐化的新惊惧魔和新物品图，因为在里面对游戏里每种寻常的武器和护甲部分都有点阵图。一些例如CoE3的胶状立方体的怪物也引入了进来。为了能够以更有逻辑的方式排序这些点阵图，同时重新画那些比较丑的，Kristoffer决定重排游戏中的点阵图。于是在很长一段时间所有的国家的单位的点阵图看起来都像是随机的，让人觉得有些没法玩。
+
+我们的第一局测试游戏在我们将团队游戏可运行后进行。很多单位依然看起来很可笑，你得跟Kristoffer说“我的探子看起来像一头身上有个大红叉的大象”，来让他提高修复这个的优先级。
+
+在开发过程中很多新想法冒了出来。有些是小改动很容易执行，其他的对游戏有更深远的影响。升神王座是其中一个很后期的设计，但我们在有了想法之后就觉得必须加进游戏。有些想法被放弃，还有一些其他的放在了一边，可能会在以后的补丁中加入。
+
+现在，据发售只有一个月了，在测试论坛已经有将近3000个帖子，游戏运行良好，莫名的随机点阵图已经很少出现，而发现的缺陷也比较容易修复了。
+
+我们希望，无论您是系列的新玩家，或者是我们游戏的忠实爱好者，都能在神域4的世界中找到乐趣。
+
+/Johan和Kristoffer，2013年8月
+
+
+
+
