@@ -1,20 +1,40 @@
-The world of Dominions took its first insecure steps in 1997 on the road to Santiago de Compostela. We had finished Conquest of Elysium, a simple yet addictive fantasy game with a great deal of Nethack-ish unfairness and a multitude of monsters (a trademark of ours). We were working on a space empire game, but decided that Master of Orion 2 had much of what we liked in such a game, so we quit that project. Then I went to France and Spain for the summer for a 1,000-mile walk. It took 72 days and I had a lot of thinking to do. Several ideas came up, including a bug war with ants, wasps and other bugs armed with cybernetics and guns. Some ideas from earlier in the spring evolved, and rudiments of Pythium, C'tis, Man and Lareaux (a conglomerate of Ulm and Marignon) came to life. 
-When I returned from Santiago, we began working on the bug wars, but soon got bored and decided to make a tactical fantasy game where you bought an army and pitted it against your opponent’s army. 
-Statistics, battle mechanics, and morale are from this era. The tactical engine was much based upon board games where commanders give orders to squads. SPQR, Age of Chivalry and Warhammer Fantasy Battle were inspirational sources. Morale loss and rout is a feature in all of these. At first you monitored every single unit, but soon you only moved your commanders and told them what orders to give to what squads. 
-WFB gave us the idea that heroes are fun, but we didn't want heroes to be as important as they are in WFB. At that time there were no magic items, spells or monsters, apart from the hydra. 
-After a while, fighting was becoming boring, and if the output is boring, you quit. At this time we were inspired by VGA-Planets and decided that we wanted a strategic PBEM game with tactical battles. We started to think about how to place the tactical engine in a strategic game and still have a game that was playable by mail. Control over battles was the solution. 
-The move from a purely tactical to a strategic game made the world much more important. Some earlier ideas of an Ars Magica-like game of magical research and politics were remade. Random content and magical sites in the provinces would increase replayability. Mages of the Order of Hermes were replaced by competing gods. The magical and divine auras of Ars Magica gave us the idea of a dual war of armies and dominions. Mythological and historical paraphrases came naturally as I have a great interest in the history of religions. 
-Several nations had been thought up in the process of making the tactical engine, but they evolved and changed over time. Pythium was split into Pythium and Arcoscephale; Lareaux into Ulm and Marignon. 
-Magic and research were incorporated in the game. The eight paths and several dozen spells were there from the beginning, but research was strange and boring. The idea of the magic schools made research an important choice, not just a matter of how rich you were. Global enchantments were a later add-on inspired by Ars Magica and Master of Magic. 
-Since 1997 the game has undergone many changes, but some things are as they were in the beginning. We still have old papers from 1997 that tells us how many resources a plate cuirass costs, and what a mage should cost at a given skill level. Even though we scribbled down new stats as the numbers were altered, the papers remained the same, until work began on Dominions 3 in 2004 and we remade the armor protection mechanics. 
-Dominions: Priests, Prophets and Pretenders was released 2001. It got some Usenet attention and we were glad to get some input. Bugs and imperfections were pointed out and we tried to fix most of them. After a half year or so we decided that we wanted to make a new game instead of making small changes to Dominions. 
-We started on several ideas, including a strange 3D version of Dominions. After a while we returned to Dominions and decided to make what is now Dominions II. Our primary goal was to remake the user interface. Much was the same, but many ideas that were difficult to incorporate into Dominions: PPP were now possible to implement. We had as much time as we wished, no schedule, and no expectations. 
-During Christmas 2001 I visited my parents and had some spare days. I accidentally made a board game map and system inspired by Dominions, but never managed to finish it. I still have a bunch of papers, a wooden map, and a little box filled with some hundred wood pieces that needs painting. Johan Karlsson (the programmer and co-designer) is more of a finisher than I am. We later scanned the map and used it as our first Dominions II map (The Sundering). 
-Dominions II was released, and we started working on the first patch. The first patch included new themes as well lots of small changes and bugfixes. The game and the community grew and we got positive feedback and inspiration from fans all over the world. Maps, mods and other contributions made by fans kept the community―as well as us―active. 
-New content was added in a number of patches. We still had many ideas regarding the world, the game, and the future. At first, we were content with patching the game, but after a while we decided that there were things that could not be fixed unless major changes were made to the game engine. We decided to start on a third version of Dominions. 
-I had plenty of ideas regarding nations and themes. The first was Oceania, an underwater nation similar to Pangaea. An early version of Oceania was included in one of the last patches for Dominions II. Sauromatia, inspired by the Scythians, Amazons and Androphags of Herodotus, and Bandar Log, a nation inspired by ancient India and Hindu myth, were two nations I had been dreaming about. Soon, the numbers of nations increased and we decided to divided the nations chronologically and alter the theme structure. Themes were replaced by three ages with somewhat different characteristics. The concept of Awakening, an old idea, was relaunched. 
-Then work slowed down for a while. Work, social life and other computer games ate up part of our time. We didn't have a deadline, nor any clear direction, apart from adding fun stuff and making the game more user-friendly. After a rather long period of random adding of content and bug fixes, we decided that it was time to start the beta. In February 2006, the Dominions 3 beta forum was started, and almost 7,000 posts later, Dominions 3 – The Awakening was finished. 
-That’s about it, I think. 
-―Kristoffer Osterman Sweden, summer 2006 
+#神域简史
+
+1997年，神域的世界在通往Santiago de Compostela（一西班牙城市）的路上开始了蹒跚学步。当时我们已经完成了一个简单却迷人的奇幻游戏Conquest of Elysium，其中充溢着NetHack似的不公平性和我们标志性的众多怪物。之前我们忙于设计一个太空帝国背景的游戏，但最后因为觉得Master of Orion 2已经满足了我们在太空游戏中想做的，所以放弃了那个项目。然后在那个夏天，我徒步一千英里去了法国和西班牙。总共用了72天，路上我思考了很多。想出了几个点子，包括一个虫子战争类的游戏：蚂蚁、黄蜂和其他各种虫子，装备着控制设备和枪炮。一些在春天早些时候的设想得到了发展，出现了Pythium、C'tis、Man和Lareaux（Ulm和Marignon的综合体）的初步设想。
+
+当我从Santiago回来，我们就开始着手于虫子战争，但很快就厌了，转而决定制作一个战术奇幻游戏，里面你带领一支部队对抗对手的部队。
+
+数据，战斗系统和士气设定都来自于这段时间。战术引擎大体是源自将领下令给小队的桌面游戏。SPQR、Age of Chivalry和Warhammer Fantasy Battle（WFB）都是灵感的来源。士气下降和溃败都是这些游戏里的基础要素。一开始你掌控所有的单位，但很快你就只移动你的将领然后告诉他们给什么小队下什么命令。
+
+WFB让我们觉得英雄很有趣，但我们并不想让英雄像他们在WFB里面一样重要。在那时还没有魔法物品、法术或者怪兽，除了九头蛇。 
+
+一段时间后，战斗开始变得无聊，而如果结果是无聊的，你会想要放弃。在那时我们得到了VGA Planets的启发，决定要做一个有战术层战斗的策略PBEM游戏。我们开始考虑如何把战术引擎放到一个战略游戏里的同时依然可以用email玩。解决办法就是对战斗的控制。
+
+从一个纯粹的战术游戏到一个战略游戏的转变使这个世界更为重要。一些做类似Ars Magica的魔法研究和政治游戏的早期想法被重新发掘。随机要素和省份里的魔法遗迹可以提高可重玩性。赫尔墨斯学派法师们被互相竞争的神祗们替代。Ars Magica里的魔法和神圣光环给了我们军队和神域两个战线上的战争的想法。神话和历史的重新演绎随之自然而来，因为我对各宗教的历史有很大兴趣。
+
+有几个国家在制作战术引擎的过程中就有了构想，但它们都随着时间有了演变。Pythium分成了Pythium和Arcoscephale，Lareaux变成了Ulm和Marignon。
+
+魔法和研究被结合进了游戏。八大路系和几十个法术在一开始就有，但研究系统起初是比较古怪而无聊。魔法学派的设想让研究成了重要的选择，而不仅仅根据你有多富有。全球结界是后来受Ars Magica和Master of Magic的启发加上的。
+
+从1997年开始这游戏经历了很多改变，但有些东西是自始至终的。我们现在还有1997年的旧资料告诉我们一件板胸甲耗多少资源，以及一个特定技能等级的法师值多少。虽然当数字变化时我们会潦草地写下新数值，但我们还是在用这些资料，直到2004年开始做神域3时重做了护甲保护的算法。
+
+2001年，《神域：牧师，先知和伪神》发行。它得到了一些Usenet的关注，我们很开心得到了一些建议。有人指出了Bug和不足，我们努力试图修复其中大部分。半年后我们决定要制作一个全新的游戏而不是对神域1做小改小闹。 
+
+我们从一些点子开始入手，包括一个怪异的3D版本的神域。一段时间后，我们回到了神域1，决定去制作现在的神域2。我们的首先目标是重制用户界面。许多东西还是一样，但很多当初很难融入神域1的想法现在已经可以实现。我们有随心所欲的时间，没有固定的计划，没有过多的期望。
+
+2001年圣诞期间我去探望父母，有了一些空闲时间。我无意中做起了一个受神域启发的桌面游戏地图和系统，但一直没能完成。我依然还有一些草稿，一个木制地图，和一个满是几百个没上色的木制部件的小盒。Johan Karlsson（另一个设计者和程序员）比我更能真正地完成事情，我们后来扫描了那张地图，把它作为了我们的第一张神域2地图（<The Sundering>）。
+
+神域2发行了，我们开始制作第一个补丁。第一个补丁包括新国家主题，许多小改动和bug修复。玩家社区随着游戏一起发展，我们也获得了来自全世界粉丝的好评和灵感。地图、mod和其他来自粉丝的贡献让这个社区——也让我们——维持活跃。
+
+一系列补丁加入了新内容。我们依然对这个世界，这个游戏和未来有很多想法。起初，我们满足于制作补丁，但一段时间后我们认定了有些东西没法修复，除非游戏引擎有大改变。于是我们决定开始做第三个版本的神域。
+
+关于国家和国家主题我有许多新想法。首先是Oceania，一个和Pangaea相似的水下国家。神域2的后期补丁中包含一个早期版本的Oceania。Sauromatia受到了希罗多德书中的斯基泰人、亚马逊人和昂多罗帕哥人的启发；还有Bandar Log，源自古印度和印度教神话，这是两个我梦想中的国家。不久，国家总数增加了，我们决定按时间把它们分类，改变了此前主题的结构。主题被替代为三个有些许不同特征的时代。神的觉醒的概念，一个老想法，也再次被启用。
+
+之后制作慢下来了一阵。工作，社交，还有其他电脑游戏吃掉了我们的部分时间。我们没有一个最后期限，也没有任何明确的方向，只是在加入有意思的东西和让游戏更加方便玩家。在一段相当长的时间里随意加入内容和修补错误后，我们觉得是时候进行beta测试了。二月，神域3的beta测试论坛开放，而现在，大概7000个帖子后，《神域3：觉醒》完成了。
+
+就说这些吧。
+
+——Kristoffer Osterman
+瑞典，2006年夏
 
 
