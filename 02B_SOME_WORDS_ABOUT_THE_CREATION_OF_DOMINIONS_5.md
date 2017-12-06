@@ -1,12 +1,34 @@
-After finishing Dominions 4 and making quite a few patches too we once again got a bit tired of working on Dominions. When thinking about what kind of game we wanted to work on, we decided it had to be something different and we began to work on a space game. It was going to be a game where you mined and transported minerals in order to build space ships to defeat your enemies with. It was inspired by the good old vga-planets game.
-The game got random planets and some nice mineral surveys, but it never got far before we abandoned it in favor of a new version of Conquest of Elysium. We had some good ideas for CoE like an inferno plane that contained the demon lords and if you summoned them they would actually be summoned from that plane. It would then be possible (just) to kill them permanently by going down there and slaying them on their home plane. We also had ideas for random rituals, inaccurate monster descriptions and new combat mechanics. After about one and a half years and many additional planes, Conquest of Elysium 4 was released.
-After CoE4 we started to play and develop Trade and Taint again just for the fun of it. It is a game that we did not intend to finish, so we could play and experiment as much as we liked.
-After a while we wanted to make a game we could finish again, but we wanted it to be something different from CoE and Dominions. We have played many roguelike games back in the times, and recently we had played Tales of Maj’Eyal too and we had many ideas on how to make a better roguelike. So we started to make our own roguelike game called Dungeons of Elysium. It had the same aggressive wildlife that can be found in Elysium. It also took advantage of the terrain drawing engine in Elysium that turned out to be really good at drawing dungeons too.
-DoE had a similar class system to TaT where you start on a random career e.g. a footpad and then the footpad can advance to smuggler, burglar or grave robber depending on what trainer you encounter.
-We created a few stories, a fun abstract travel system, and a dungeon editor. Actually, the dungeon editor turned out to be very useful at creating nice looking encounter maps for our own pen and paper role playing campaigns. After canceling DoE we later made the map editor a bit more user-friendly and released it as Illwinter's Floorplan Generator, a tool to help pen and paper role-players.
-After a few months of DoE we also started to work on our old 4x space strategy game again. The planets and minerals were already in place, so this time we added production, space combat and ground combat. Combat was automatic like in Dominions, but more colorful with lasers and photon torpedoes in space.
-Production was a bit different from most other games, you had to create factories for specific spaceship models in order to produce it efficiently. So you were encouraged to not redesign your spaceship models too frequently as you would have to build new factories for them as well.
-By now many years had passed since we released Dominions 4 and we felt inspired to do a Dominions 5. Realtime combat was going to be the major change for the new Dominions, but we had a quite a few other ideas too. One idea that didn't make it was The Council of Immortals, where you got to vote for divine laws and titles and got influence from your claimed thrones. Another idea was for mounts to have separate stats, so you could kill either the mount or the rider. Kristoffer had ideas for a ton of new nations as usual, some of them made it into Dominions 5 and hopefully a few more will make it in future updates to the game.
-When the development of Dominions 5 started we imported the GUI system from CoE4 that gets rid of the fuzzy looking font and the 3D engine was updated to use the one from Trade and Taint. After many years of incremental updates the 3D world in Trade and Taint was both faster and better looking than the one in Dominions 4, so it would be stupid not to use that one instead. At first we also used the particle effects on magic items that we had in TaT and that made the items sparkle or burn with blue flames. But it didn't feel right in Dominions and it was removed.
-When writing this the 3D castles are still not finished, some units of Rus only looks like a few red letters and many descriptions remain to be written. But the game plays well and it feels realistic that it will be finished in a month when it is supposed to be released.
-We hope you will enjoy the game! /Johan & Kristoffer, October 2017
+#神域5创作简话
+
+在完成神域4而且制作了数个补丁后，我们再一次地厌倦了做神域游戏。我们在考虑想要做什么类型的游戏时，觉得必须得是一个不一样的类型，所以我们开始制作一个太空游戏。设计初衷是一个游戏里面你采矿，并运输矿石来建造太空船去击败你的敌人。这个游戏的启发是经典的老游戏VGA Planets。
+
+在游戏里有随机的星球和一些有趣的矿产调查活动，但它没有很多的进展就被我们放弃了而转去做一个新版本的乐园征服。我们给CoE准备了一些不错的想法，比如一个地狱位面，其中包括恶魔领主们，而你如果召唤它们，它们会真正地从地狱位面被召唤出来。然后你就会有机会（极小）能够通过下到它们老家的位面去永远的杀掉它们。我们同时还有加入一些随机性的仪式、不准确的怪物描述以及新战斗机制的想法。在大约一年半和许多新加入的位面之后，乐园征服4发售了。
+
+在CoE4之后我们又开始自娱自乐地玩和开发贸易和腐化。这不是一个我们打算做完的游戏，所以我们能按我们的想法去任意地游戏和实验。
+
+过了一段时间后我们再次想要做一个我们能够完成的游戏，但我们想要完全不同于CoE和神域的题材。在许久之前我们玩过很多roguelike游戏，而最近我们又玩了Tales of Maj‘Eyal，有了很多如何做一个更好的roguelike的想法。于是我们开始做我们自己的roguelike游戏，叫乐园地城Dungeons of Elysium。这里面有和CoE里同样具侵略性的野生动物。它同时利用了CoE的地形绘画引擎，因为发现这引擎画地城也是一把好手。
+
+[图]
+
+乐园地城有和贸易和腐化类似的职业系统，你从一个随机的初始职业开始，比如一个拦路贼，然后拦路贼可以升级成走私贩、强盗或者盗墓者，这取决于你遇到什么样的训练师。
+
+我们设计了一些剧情，一个有趣且简约的移动系统和一个地城编辑器。其实，这地称编辑器最后变得对我们自己的纸上角色扮演战役很有用，可以帮我们制作出很好看的遭遇地图。在我们取消了DoE之后我们把地图编辑器做的更加面向用户了一点，然后定名为Illwinter的地城平面图生成器Illwinter’s Floorplan Generator，一个帮助纸上角色扮演游戏玩家的工具来进行发售。
+
+在花了几个月开发乐园地城后我们也再一次地开始开发我们之前的4x太空策略游戏。星球和矿产已经就位了，所以这次我们加入了生产、太空战斗和地面战斗。战斗和神域一样是自动的，但更多彩，因为有太空的激光和中子鱼雷。
+
+[图]
+
+生产和大多数其他游戏不大一样，你需要建造特定太空船样式的工厂才能去有效率的生产。所以鼓励你不要去太经常地重新设计你的太空船样式，因为你还得为它们再建造新的工厂。
+
+到了这个时候距我们发售神域4已经过了好几年，而我们感到有了做神域5的启发。实时战斗将是神域新作的主要变动，但我们还有不少其他的想法。有一个我们最后砍掉的想法是不朽者议院，在其中你可以投票通过神圣法令和头衔并从你已占据的王座获得影响力。另一个设想是坐骑会有单独的数值，这样你既可以杀掉坐骑或者骑手。Kristoffer还和往常一样有一堆新国家的想法，其中有些做到了神域5里面，并期望还有更多几个会在今后的更新中加入。
+
+在神域5开始开发时我们把CoE4的GUI系统引入了进来，去掉了之前模糊的字体，并更新了3D引擎到了贸易和腐化所用的。在许多年积累的更新后贸易和腐化的3D世界已经既比神域4的有了更快的速度，也有了更佳的视觉效果，所以傻瓜才不用新的。起初我们还和我们在贸易和腐化里一样，在魔法物品上加了颗粒效果，物品会闪光或者燃烧着带着蓝色火焰。但在神域里感觉不是很适合所以我们去掉了。
+
+在写本文的时候3D城堡还没有完成，有些Rus的单位看起来还只像是些红字，还有很多描述等着我们去写。但游戏运行良好，感觉是能够按我们所计划的一样在一个月内完成并发售。
+
+我们希望您会享受这款游戏！
+
+/Johan和Kristoffer，2017年10月
+
+
+
