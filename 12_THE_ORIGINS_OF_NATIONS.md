@@ -1,155 +1,291 @@
-The world of Dominions is very much the story of certain nations over the ages. In Dominions 2, nations could have various "themes" which gave them certain characteristics. In Dominions 3, this was altered somewhat by formally separating the nations into ages and their histories are reflected to some extent in the progression from one age to the next. Kristoffer Osterman, the co-designer of the Dominions series, describes the thematic inspiration and influences for each nation in Dominions 5.
-
-Abysia
-Abysia does not have any clear inspirational sources. Malign devil-worshiping empires of the fantasy genre combined with some ancient Middle Eastern concepts, perhaps. Think of great temple ziggurats adorned with ever-burning braziers fed with still-beating hearts in pompous ceremonies, witnessed by a cowed populace of slaves and smoldering Abysian rulers. Imagine magma-lit caverns filled with screams, roars, and fleeting shadows. With blood sacrifices being part of the official state cult it might be considered an evil nation, but it is sprung from elemental forces, and only under infernal influence‒ and ignorance‒does the kingdom turn to evil. It is a tragic nation with a proud heritage, and dilution of their magic - perhaps due to temptation by infernal forces - leads it to embrace blood sacrifice.
-
-Agartha
-Agartha is inspired by fantasy RPG's in general, and an Earth Dawn setting of my brother's imagination, ripe with mummified ancestors entombed in ancient cavern halls, in particular. Old ideas of a race of pale, cave-dwelling humanoids from my ideas of the game “Shepherds of Creation” completed the conglomerate. Think of opulent halls adorned with riches of the deeper earth in which reside ancient bloated oracles with pallid skins ruling their kin with increasing desperation; desperation because their proud race is dying. Agartha is perhaps the most tragic of the nations in Dominions. Surviving oracles cling to memories of a glorious past unable to stop the unavoidable disappearance of their ancient race. I wanted a sense of loss to permeate the nation.
-
-Arcoscephale
-Arcoscephale is together with Pythium the first nation conceived in the creation of Dominions. After having played GMT's Great Battles of Alexander and S.P.Q.R. I got fascinated by ancient warfare, and the hoplites were among the first units to appear in Dominions. At first the two nations were one, with a troop rooster of ancient units, while Man and later on Ulm had troop roosters with a more medieval touch. Soon, however, it became clear that Pythium and Arcoscephale should be two distinct nations.
-Arcoscephale is heavily influenced by ancient Greek city states and Hellas. The Golden Age is influenced by the mythical past and the archaic age. Later ages boast Hellenic and Mesopotamian influences: elephants, mysteries and Chaldean astrologers.
-
-Asphodel
-If you have walked in a forest with trees covered in ivy and stumbled across the carcass of a dead animal, partly covered by leaves and vines, your imagination might give life to the vines and the roots of the nearby plants. The carrion jerks and twitches as the roots gives life to the dead animal. It opens its jaws and lets out a silent hiss.
-Asphodel is a nation of the vengeful wild. Panii and halfmen of Pangaea have revolted against their brethren and unleashed the powers of a dark and hungry god upon the living world. Vines and roots turn into slithering and growing entities strangling the living in their sleep and reanimating their corpses as marionettes of vines and bones. These marionettes are known as manikin.
-The first carrion beasts appeared in one of my Ars Magica campaigns. There was a manikin in the bestiary that sparked my imagination and resulted in animal carcasses reanimated by vines. The concept has always been something I liked, and I suspect is has sneaked into other RPG campaigns of mine from time to time.
-Asphodel as a Dominions nation has a history similar to Lemuria. The nation was once a theme in Dominions 2 that was removed and made into a global spell available to primarily late age Pangaea. Unfortunately, this made the whole setting of the Carrion Woods rare, and that was a pity. We decided to remake the old theme into a new Pangaean splinter nation.
-
-Bandar Log, Kailasa, Lanka and Patala
-Bandar Log, the nation of the monkey people, is inspired by Hindu myths, ancient India and Rudyard Kipling. The Vanara comes from the Ramayana, an epic in which the monkey people aid prince Rama in his struggle against the demon king Ravana. The hierarchical division of the different species of monkeys has parallels in the Hindu caste system. I wanted the Bandar to use the alleged colors of the Indo-Aryan castes: white for priests, red for nobles and black for commoners. Markatas are exempt from the hierarchy and society at large and might be seen as untouchables of earlier times, although I imagine them less vulnerable. Important to the development of the Bandar Log were the semi-divine beings of Hindu myth. With a slight breath of 2001: A Space Odyssey, the Yavanas and Devatas became lords of the monkey people. When these beings left the world the monkey people found themselves in control, until the emergence of another divine race, the Nagas. As Kaa hypnotized the monkeys in Kipling's Jungle Book, the Nagas mesmerized the Bandar and Vanaras and claimed rulership over the nation.
-The latest addition to the monkey business was Lanka, the mythical kingdom of Ravana. The nation is in many ways similar to Kailasa, but rakshasas of various forms replace the yakshas and yavanas, and blood magic and cannibalism is prevalent. I confess to having a weakness for great ape sorcerers and necromancers in semi-civilized apparel, preferably raging and howling with gory mouths.
-Hindu myth is rich and you could probably make a Dominions game based entirely on Hindu nations, beings and gods.
-
-Berytos
-Berytos exists only in the early era. It is the Phoenix Empire that was destroyed and reemerged in numerous coastal city states. It is a cultural melting pot influenced by several other nations.
-The nation is heavily inspired by Mediterranean seafaring peoples and the Phoenicians in particular. The sea peoples of Canaan and Egypt, combined with Greek migrational hypotheses, Phoenicians and their Carthaginian/Punic extension have been important sources. The Canaanite/Phoenician cities of Byblos, Tyros, Sidon and Carthage inspired the ideas of a seafaring nation and led to the Berytian dependency on coastal forts.
-The legendary founding of Carthage by Dido/Elissa and her marriage with the high priest of Melqart combined with the biblical concept of Canaanite Ba'al worship laid the ground for the concept of Berytian Melqart worship. This enabled some intertwining of Hinnomite and Berytian backstories.
-I also wanted a deeper mythical backstory and found that the Telchines, Dactyls and other Greek mythological island-peoples combined with the Greek migration hypothesis fit the role. I liked that the nation had an arcane legacy free from influences from Hinnom.
-When I remembered the slightly bizarre Ars Magica supplement "South of the Sun" by Atlas Games, where there are Carthaginian descendants dabbling in dark magic I figured the great men and queens of of Machaka would fit a niche as exile queens and leaders of the cult of the Melqarts.
-Berytos has been one of the most fun nations to develop, probably because it involves and expands the backstories of several other nations and concepts. It also has several unique mechanics designed primarily for them.
-
-Bogarus, Vanarus, and Rus
-Imagine cold winters, princes in sable-rimmed cloaks, opulent halls where sinister old men practice vile magics or seduce their masters' wives. Think of Rasputin. Think of orthodox patriarchs and bizarre sect- like movements of religious fanatics living in hiding. Imagine the monsters, heroes and bogatyrs of Russian fairy tales.
-When Bogarus was added to Dominions 3, I already had some ideas about the predecessors. My imagination was influenced by Kievan Rus' when the nation was given Vanir ancestors. I wanted priests and an institutionalized religion that brings the Russian Orthodox Church to mind and some sectarian movements on top of that. I did some research and I was quite happy when I found the skoptsy, the "castrated ones," and other strange religious movements.
-Vanarus was partly conceived during the development of Dominions 3. Hints were included in the descriptions of Bogarus, but I never got around to finishing it.
-Vanarus is the predecessor of Bogarus. It is a nation of ruling Vanir that have subjugated and intermingled themselves with the previous rulers of the land. Kievan Rus' is one of the sources here, but I've also used the Chuds, a people that appears in the myths of various peoples from the eastern Baltic seaboard. I haven't found very much on the Chuds, so they are mostly my creation. The "Pine of Skulls,"
-shape-shifting and shamanic bear cult practices fit the nation. These features, as well as the Thunder Priests mentioned in the descriptions of the nation appear in Rus, the early version of the nation.
-I wanted the national troops of the nation to reflect the change from the earlier era to the late Bogarus. Versatile Vanarusian sages are slowly replacing the mighty Vanir and will eventually develop into the Starets and mages of the late era.
-I never got around to finish my ideas on Rus for Dominions 4. Instead it became the second of the new nations for Dominions 5. Baltic mythology, Latvian in particular, became an inspirational source for the nation.
-
-Caelum
-Caelum was originally a purely fictional nation of winged humanoids living atop the coldest mountain peaks. Later development has gifted them with Zoroastrian traits. The background of the Bandar Log and the Eagle Kings made the early Caelian history self-evident and a lot more interesting. The Yazatas, and the Spentas in particular, are Zoroastrian in origin, but the Caelian society at large is not.
-
-C'tis
-C'tis is a nation of lizardmen under Egyptian and to some extent Mesopotamian influence. Sacred priest kings, pyramids, swamps, and flooding rivers surrounded by deserts are all elements of these cultures. Sacred priest kings celebrating hieros-gamos with hierodules atop temple ziggurats, with high priests chanting and swaying in procession under the glare of sacred serpents depicted on murals on the great walls have to me a more Mesopotamian feel than Egyptian. On the other hand, the Desert Tombs of the late age is influenced by Egyptian concepts of the dead and modern fiction on Egypt, and the lizard king might as well be a Pharaoh as a Lugal. The connection between C'tis and Ermor suggests that C'tis is more Egyptian than Mesopotamian. The sauromancers' initiation rituals are inspired by Oriental cults of the late Roman Empire, such as that of Isis and Sarapis/Osiris.
-In Dominions 4 another influence was added to C'tis: the Sobeks of Trade & Taint. They were initially a T&T version of C'tis and Pythium, with theurgs, legionaires and necromancers as possible career options. Part of the Sobek lore and inspiration from T&T were put into middle age C'tis, and I might expand these thoughts at a later date.
-
-Eriu
-With the development of Tir na n'Og it became evident that I wanted another nation of Irish stock to accommodate human heroes such as Cu Chulainn. The legacy of Tir na n'Og was split between Eriu and Man and the remaining Sidhe became to Eriu what the Vanir were to Vanheim in later ages, a blessed ruling race with human subjects.
-
-Ermor and its legacy
-Ermor was initially a conglomerate of the Roman Empire and undead nations of general
-fantasy stock. With time, it has received a history that begins as something like the early
-Roman republic, with military units of that age and priests and diviners inspired by Roman religious officials. The New Faith replaces the old state cult of the Numina, as Christianity eventually replaced the old Roman state cult. With the turn of the age, the mistake of the Augurs becomes apparent, and the nation is brought into darkness.
-Ermor is one of the first conceived nations in the Dominions universe. In the first Dominions, the Ermorian backstory influenced many of the other nations. When the eras were introduced in Dominions 3, the undead empire ended up in the late age and the Dominions history lost some of its coherency. With Dominions 4, I tried to straighten things up and once more placed the Ashen Empire of Ermor in the middle age where its antagonists and splinter empires can be found.
-The backstories of Sceleria, Pythium, Marignon and Ulm are all influenced by Ermor. Several other nations have interacted with the nation or its shadow. It would be difficult to imagine the Dominions setting without Ermor.
-
-Hinnom, Ashdod and Gath
-Hinnom, Ashdod and Gath are heavily influenced by ancient Israelite, Canaanite and Philistine concepts. I have always been intrigued and fascinated by biblical mythology, and had long I wanted to include the Nephilim and biblical Genesis myths into the game. However, I was worried that I would not do the sources justice, so it took a while before I finally got down to finish the nations. The Bible, the Book of Enoch, the Dead Sea scrolls and the Ras Shamra texts of Ugarit and interpretations of these texts are the main sources of the nations.
-Hinnom draws more heavily on the biblical and Enochian tradition, while the veneration of the deified dead kings of Ashdod draws inspiration from the Ras Shamra and Canaanite/Ugaritic concepts of the dead. The rephaim/r'p'm of the Ugaritic texts are ghosts or deified dead rather than giants, so Ashdod turned out a bit different than I first intended, with death magic replacing blood. The shift from blood to death gave the nation a different and interesting mood.
-I have looked a bit at Sumerian and Babylonian history when designing Hinnom and Ashdod. Gath, on the other hand draws more heavily from Israelite and Philistine concepts. Early Israelite religion and history with a centralized cult at the temple and Israelite tribes, combined with the legends of David and Goliath of Gath are obvious sources for the late iteration of the nation.
-I wanted the nation to be an abomination, slowly becoming more civilized throughout the ages. Hinnom is perhaps more than any other nation in the game an evil nation. I'm not very fond of the concept of evil, but it would be difficult to claim that the cannibalistic giants of Hinnom are anything but.
-
-Fomoria and Tir na n'Og
-These nations are the predecessors of Man and Eriu. They are both heavily influenced by "The Book of
-Invasions" and Celtic myths and folk lore. The wars and conflicts between Fomorians, Nemedians, Fir
-Bolg and Tuatha was used to create a common backstory for the nations. The Fomorian ideas were combined with some ideas of sailing storm giants, inhuman goat-headed giants and some concepts of Fomorians as keepers of the watery dead that struck my imagination.
-
-Machaka
-Machaka is a nation inspired by African kingdoms and the Shona in particular. The king, a sacred figure, reigns, but does not rule. He is served by vassal chiefs, and his priests, the Eyes, Ears and Mouth, keep constant surveillance over sub-chiefs and serve as a link between the people and the temple. The Shilluk concept of regicide and other unspecified ideas from African cultures have also made their way into the nation. Modern Oriental concepts and fantasy clichés can be found in the black sorcerers of the God Mountain, and the spiders. I admit to some obscure influences from the comic The Phantom as well.
-The Machaka of the early age is influenced by the old pen and paper RPG Powers and Perils. In the fantastic campaign setting of this game there was a nation of African stock led by great men that were released from a great sleeping city. The notion of a released race of superior men was attractive.
-Various myths, tales, films and "African" fantasy concepts have been mashed together and mixed with the middle age Machaka ideas. My first idea of clans based on body parts like liver, heart, hand, head and leg, did not feel right and was replaced with animals, more fitting with the spiders of the middle age.
-The nation evolved side by side with Berytos, but it took a bit longer to finish. Creating two nations together and intertwining their history gave them both additional life. It is probably something I want to do with more new nations in the future.
-
-Man
-Man is one of the first nations conceived in the Dominions universe. The nation is a conglomerate of medieval English and Arthurian concepts spiced with some fantasy elements from Ars Magica and the books of Robert Jordan. The Irish/Northumbrian monastic tradition, Anglo-Saxon society, and Welsh longbowmen are all inspirational sources. Later on, the nation turns towards scholarship paired with dark tidings. The mood in the movie Sleepy Hollow is a nice comparison.
-In Dominions 4 steps has been taken to accentuate the influence of invading barbarians reminiscent of the Angles and Saxons. It is not difficult to see an early Ulm or a similar nation in the Logrian backstory.
-
-Marignon
-Marignon is a late medieval nation of inquisitors and religious fanatics. Prudent – or perhaps paranoid – priests search for vice and heresy throughout the land, putting men and women to the pyre with fiery justice. Imagine the soldiers wearing fancy and colorful Renaissance clothing, while religious and arcane officials wear red or black robes and severe miens. In the late era the Spanish influence is heavier than the Albigensian. Later Gothic concepts of occultism and devil worship are incorporated along with seafaring and missions abroad.
-
-Marverni
-Marverni is a nation inspired by Celtic Gaul. Gutuaters, vergobrets, druid astrologers, and blood sacrifices are all heavily influenced by the accounts of Caesar and Roman historians. Bare-chested warriors or nobles dressed in newly invented chain mail fight side-by-side with their chieftains to prove their worth. Bronze horns in the image of various animals are also images to keep in mind. Further inspiration was probably found in Asterix, a remarkably good comic by the way.
-
-Mictlan
-Mictlan is a nation mainly inspired by the Aztecs and their practice of blood sacrifices. The name is that of the realm of the dead in Aztec mythology. Tenochtitlan was build on a swamp, and so is the Mictlan capital, but Mictlan, particularly in the late era, is also a nation of the rainforest, closer in resemblance to the Maya. Toads are common on mural motives, but the Slann of White Wolf's Warhammer is probably an equally important source of influence on the Atlantian remaking of the Mictlan nation in the late era.
-Quetzalcouatl, the Lawgiver, figures in most of the Mesoamerican cultures as a returning savior figure. One could not paraphrase a Mesoamerican nation without having at least a fleeting reference to him.
-Mictlan is also supposed to be a backwards nation reminding us of the arrival of the technologically (and perhaps virally) advanced Europeans in the Americas.
-
-Nazca
-When Nazca was released in a patch for Dominions 4 it had already been on the drawing board for a long time. I really like the necrocratic concept where mummified ancestors have a position of influence in society. A kingdom forced to expand with every generation as previous kings and nobles keeps their conquered lands even after death. A kingdom slowly going bankrupt as stipends to dead ancestors keeps piling up.
-The first ideas on Nazca were just speculations how I wanted a Caelian splinter kingdom to be, but when I got the idea of an Inca setting for the new nation it stuck. I started to research Andean concepts and cultural history and was intrigued by mummy bundles, moieties, geoglyphs and necrocratic practices. I have no clear idea of the end of the Nazca saga, so there is room for a possible late era version in a future iteration of Dominions.
-
-Oceania, Pelagia, and Erytheia
-Oceania and Pelagia are nations inspired by medieval bestiaries abundant with creatures of the sea corresponding to beings living on land. As most of these creatures are half-men and fish-beasts, Oceania as a nation became quite similar to Pangaea. The development of the Triton Kings incorporated modern concepts and imagery of mermen, and in Dominions 4, Pelagia was made a nation of its own, less Pangaean in style. Knights armed in mother-of-pearl armor, Triton Kings on hippocampoii-drawn sea- shell chariots, and golden tridents are all part of the Pelagia setting.
-With the release of the Dominions 4 UW-patch the backstory of Pelagia was developed. It became intermingled with Berytos and my first ideas on later developments for the nation emerged. I prefer if nations are primarily culturally defined, and secondarily racially defined. Pelagia always felt more like a race thing and less like a kingdom with its own cultural setting. The changes in the patch was a step in this direction, although I find the new nation Erytheia more interesting.
-Erytheia is the late era development of Pelagia. It is a nation heavily inspired by Ptolemaic Egypt. Like Ptolemaic Egypt, it is a nation of foreign conquerors adopting local traditions forming an isolated kingdom desperate to keep its royal blood lines and avoid foreign influence. I wanted the Ptolemaic practices of royal sibling marriages represented in the game and this led to some new mechanics developed for Erytheia. I also wanted Erytheia to be more of a contender for the closed realm, Pelagia's name for dry land. The idea of a merman kingdom of both worlds started to take form when I worked on the Dominions 4 UW-patch. The pairing with Ptolemaic concepts fit well and Erytheia became a nation quite different in feel from previous underwater nations.
-
-Pangaea
-Pangaea is a nation of wild half-men of Greek myth, as they could have developed if
-exposed to a vast and technologically superior humanity: Iron or skin. Adapt or die. As in
-most cultures exposed to so-called civilization, some inhabitants cling to traditions, or current perceptions of them; while others adapt to the circumstances, with loss or gain in influence. The loss of ancient magic and traditions over the ages is quite apparent in this nation, but in the late era the centaurs have found new paths of magic, giving hope to the nation.
-
-Pythium
-Pythium is based on the eastern Roman Empire and Byzantium. Its history and military
-bears a legacy of Ermor, as did Byzantium from Rome. The Theurgs and their ceremonial
-magic are influenced by the lavish liturgy of the Orthodox Church. The Cathedral of the
-Spheres is filled with chanting, the fragrance of incense, and processions of Theurgs robed in gold and silver. Ritual magic is a public and religious affair. The serpent-and-emerald part of the nation is more free-form fantasy fiction, and comes from the name I think.
-In the late era the nation is influenced by the mystery cults and religious worshipers of subjugated lands, much as the late Roman empire became a melting pot of imported religious beliefs and faiths. The mystery cults of Isis/Sarapis, Mithra, Dionysos and Euleusis gave Pythium in the late era a new and interesting flavor. The serpent priests are more of a fictional addition, and probably came about as a result of the sacred serpent cataphracts and hydras. Since the mystery cults were inspired by the cult of Isis, a serpent priest with a C'tissian legacy felt fitting. I'm personally quite fond of late era Pythium, since my thesis was about the Roman Isis/Sarapis cult.
-
-Ragha
-Ragha was added in the Caelum patch for Dominions 4. I had played with ideas on a dual Caelian/Abysian nation earlier on, but it wasn't until I started to remake Caelum that those ideas bore fruit. Of the Caelian nations it is probably the one most heavily influenced by history and myth. Since the nation was developed with Zoroastrianism in mind the mage-priests of the nation, dasturs and athravans, became an integral part of the nation and not something that was added ad hoc. The heat/cold preferences of the nation made it a bit difficult to evaluate and balance, but I'm very fond of the concept thematically. The fact that the nation is based on centuries of Persian history and two different dominions nations, gives it more traits than most nations.
-
-R'lyeh and Atlantis
-These two nations are heavily influenced by H.P. Lovecraft. While R'lyeh is closer to the Cthulhu mythos with Starspawns and strange beings from the stellar void, Atlantis is a nation of deep ones native to the depths. The early era is more heavily Lovecraftian, while the middle era is more influenced by fantasy concepts and ideas. Atlantis is another nation devastated in the end of the second era. Late Atlantis incorporates Inuit concepts apart from the earlier Lovecraftian elements.
-R'lyeh is the other nation heavily influenced by the fiction of H.P. Lovecraft. While Atlantis represents the more tellurian aspects of the Cthulhu mythos, R'lyeh represents the stranger aspects and beings of the Lovecraftian universe. Starspawns, strange openings and beings of the Void are mixed with a bit of fantasy role-playing game clichés. The nation progresses from a D&D-ish nation of Aboleths to an insane nation of dreaming madmen, mutated lunatics and mind-defying void beasts. F’tagn.
-
-Sauromatia
-Sauromatia is a nation based on Herodotus' accounts of the Scythian peoples in The Histories. Here Scythians, Amazons, Sarmatians, and Androphags are described with their strange traditions and unsavory practices, and the book is a splendid source for any modder seeking inspiration for a new nation. Grave goods, archaeological findings and Osprey military books have given the nation further life. Finally, Witch Kings and elements of the Pythian predecession (serpents, swamps and hydras) were added to the Androphags to make the nation more sinister and Dominion-esque.
-
-Sceleria and Lemuria
-Sceleria is the daughter of Ermor and sister of Pythium. In Dominions 3, the nation was the middle era Ermor, but with the cleanup of the history, that which was Ermor in the middle era had to be rewritten.
-Sceleria became a splinter empire that together with Pythium broke free from Ermor before the cataclysm. Sceleria, as Pythium, is of course influenced by the Romans. Fantasy concepts of sinister nations with undead workers and soldiers walking side-by-side with the living population are not uncommon.
-Lemuria is a reprise of the Dominions 2 Ermor theme "Soul Gates." With Dominions 3, the Soul Gate and the Carrion Wood mechanics were remade into global spells. This change practically removed them from the game. We wanted them back and with the rewriting of the history the new nation of Lemuria followed in the wake of Sceleria.
-Lemuria is an undead nation of ghosts and immaterial undead instead of skeletons and zombies. Think of grey lands of ash and dust. Imagine spectral hordes marching forth under banners swaying in a wind you cannot feel. Stand still and you might hear the clamor of ancient weaponry when the ghost legions pass you by. At the horizon a great darkness is spreading as shadows pour forth from the Soul Gate.
-
-T'ien Ch'i
-T'ien Ch'i is obviously influenced by China. I couldn't even resist the name Spring and Autumn, from the period of the same name in Chinese history. Chinese history is rich and there is plenty to draw upon. Daoism and its five elements, inner alchemy, and quest for longevity inspired the Masters of the Way as did the T'ien Shih—celestial master—of institutional Daoism convert into the Celestial Master of T'ien Ch'i. Heroes come in plenty in the Chinese tales and the Seven Immortals are all interesting figures. Sun Wukong and his friends are perhaps even more so. There is plenty of stuff to expand on should I or a merry modder find the time. Finally, T'ien Ch'i has been inspired movies from Hong Kong, China, and Korea.
-
-Ulm
-Ulm is a nation that goes through major changes with the eras. In early times it is a barbarian nation. Think Conan! Or at least, think of the first five minutes of Conan, the Barbarian, when Conan's family is slaughtered by Thulsa Doom and the young boy is brought to slavery. Think of fur-dressed shamen and warrior smiths speaking of the Enigma of Steel. Then think of the German tribes described by Caesar in The Gallic Wars, the Roman disaster of the Teutoburger Forest, and the pagan temple at Irminsul. Ulm in the early era is an Ulm before the arrival civilization.
-Ulm of the later eras is inspired by, amongst others, Teutonic Knights and German Landsknechts. Late Ulm is an intended shift of style towards central and eastern Europe, southern Germany/Bavaria, and Transylvania. One of the classic ingredients of gothic novels is tainted bloodlines. Another feature common amongst the traditional, Anglo-Saxon and Protestant, gothic novel is that it takes place in some part of Catholic Europe, so making a Goethicized fantasy “Bavarian” Ulm is a natural step, I think.
-
-Ur and Uruk
-Ur came to be as a result of Trade & Taint, an earlier unfinished Illwinter project. I made the first Enkidus and Sobeks for that game. Shame, bone readers and reavers were some of the possible career paths for the Enkidu race. In Dominions 5 the Enkidus were given a nation influenced by Mesopotamian history. They had it in Trade & Taint as well, but in Dominions 4 it became more pronounced. After Dominions 4 was released we took up work on Trade & Taint again and ideas on the enkidus were developed. Last summer I found myself reading more on sumerian cities and culture. The transferal of religious and temporal importance from Eridu to other cities during Sumerian times is an interesting process. Thus Uruk became the first new nation added in Dominions 5.
-Hinnom is to some extent Sumerian, but I wanted the backstory of Ur to have a more Sumerian feel. I like the concept of a single center of civilization surrounded by lands inhabited by wild men roaming around tending goats and hunting game.
-This led to the development of the mechanic where some of a nations units are recruitable, not in their home or fortresses, but in their surrounding lands. It gave the nation a troop rooster that accentuated the backstory of the nation. And of course they had to have sirrushes, the wingless dragons of the Ishtar Gate.
-The nations' shamans and bone readers are also influenced by some shamanistic concepts, Caananite ideas on veneration of the dead and probably a dose of some old RPG's.
-Ur develops into Uruk in the middle age and get access to armaments of iron. The Ensi priest king of Eridu will see his power diminished as civilization spreads and Ensis of other cities claim temporal and religious authority. In this new era the Entu of the Moon, inspired by En Hedu'anna, the daughter of Sargon the Great, becomes the unifying power of the kingdom and Uruk turns into a theocracy.
-
-Vanheim, Helheim, Niefelheim, Jotunheim, Midgård, and Utgård
-These are all nations sprung from old Norse myth. The Poetic Edda and some later tales, combined with general conceptions of Iron Age Scandinavia, are the main sources. Vanir, Aesir and Giants are ancient antagonists in these myths. The Aesir, being perceived as gods, have been made pretenders in Dominions. Not that Vanir weren't, but they seem less so than the Aesir in most instances. As with most nations of supernatural origin, it seems fitting that their magic fades with each passing age as humans become more and more numerous.
-Niefelheim, Jotunheim, and Utgård are part of the history of a single nation through the ages. Vanheim, Helheim and Midgård also share a common ancestry and development. In the middle era Helheim merges with Vanheim and disappears as an independent nation. Only the valkyries remain as reminders of the legacy of Helheim.
-
-Xibalba
-Xibalba is a nation inspired by Mayan mythological concepts as expressed in the Mayan texts Popol Vuh and Chilam Balam. The Popol Vuh describes the creation of the world and other mythological concepts. It also tells of the hero twins Hunahpú and Xbalanqué and their travels to Xibalba, the Mayan underworld, through which the sun travels during the night. Ever since high school, when I first came across the pen-and-paper RPG Chill, and found a creature named Camazotz, I've been intrigued by bat- gods and Mesoamerican myth. The bat-god was actually the first god made for Mictlan, when that nation appeared in Dominions 2. When I started to work on Xibalba it was clear from the beginning that it would be a Mayan nation of bat-people.
-In the middle era Xibalba is flooded and toad people take over. Toads are important in Mesoamerican iconography and I wanted them to have a role in a Mayan nation. I also liked the idea of a nation that goes through heavy changes during the eras. Mesoamerican flood myths and concepts of the Bacab were used in conjunction with a slightly rewritten Atlantian backstory to fit the concept of a flooded underworld inhabited by Atlantian refugees.
-Xibalba was also one of the first nations to get a national global spell based on its national backstory. The concept had been used when we remade the themes and carrion woods into a national spell, but we were never fond of how that worked out. The Xibalban Theft of the Sun along with the Agarthan Unleash Imprisoned Ones reintroduced the national global enchantments.
-
-Yomi, Shinuyama and Jomon
-These three nations heavily influenced by Japanese history, folklore, and myth. The first of the three nations is an uncivilized nation of demonic brutes enslaving and eating humans and other races. They are replaced by Bakemonos, ghostly goblins of Japanese folklore of similar outlook, and finally the humans take control. The beings of Shinuyama are quite heavily influenced by the old pen-and-paper RPG Bushido, although some other sources on mythological beings such as Tengus and Kitsune have been used. Modern myth, such as the western idea of the ninja, also has a place in the late nation of Jomon.
-In Dominions 5, I wanted to elaborate on Yomi and make the nation a bit more of a swarm-nation with demons entering this world in increasing numbers through demon gates raised by misled human priests.
- 
-Ys
-Ys is based on Breton myths of the sunken city of Ys/Kêr-Is and morgen water spirits. To expand the nation I added some Irish/Welsh ideas of the merrow as well as the Marverni tribe of Kernou to give the nation an opportunity to establish coastal forts with their own unique units. I initially intended to merge the Ysian backstory with Marignon and add a Melusine morgen hero for that nation, but never got around to finish my ideas. It is not unlikely that Melusine and some other Ys/Marignon connections appear in upcoming Dominions 5 patches.
+#国家
+
+《神域》的世界，在很大程度上是由各国在各时代发生的故事构成的。在《神域2》中，许多国家都有不同的“主题”，每个主题都有各自的特性。在《神域3》中，我们对此做出了一些改动，将各国分成了不同的时代；各国的时代更替在一定程度上反映了它们的历史。下面由《神域》系列的设计师之一Kristoffer Osterman讲解《神域5》中各个国家设定的灵感与借鉴来源。
+
+***
+
+**Abysia**
+
+Abysia没有明确的灵感来源。也许是奇幻设定中崇拜恶魔的帝国混上一点古代中东的元素，就成了Abysia。想象一下宏伟的金字塔形神殿上永不熄灭的火盆、盛大的宗教仪式、鲜血淋漓又未完全停跳的心脏、畏首畏尾的奴隶与阴郁的统治者。想象一下熔岩的火光在洞壁上投下的黑影和洞窟深处传出的惨叫与怒吼。Abysia也许会被看成是一个崇尚血祭宗教的邪恶国家，但它本是从元素之力中诞生的。是无知与恶魔的诱惑使它堕入邪道。这是一个有着高贵血统的悲剧王国。本国魔法的衰退也许是恶魔的诱惑所致，这才是Abysia转投血魔法的根源。
+
+***
+
+**Agartha**
+
+总体来说Agartha借鉴了许多奇幻RPG，尤其是我弟弟写的一个Earthdawn设定——古老的洞庭中，埋葬着无数祖先的木乃伊。最后再混上我以前设计的游戏《Shepherds of Creation》中的一个皮肤苍白的穴居种族，Agartha就诞生了。想象一下精致的殿堂、华美的装饰、来自地心深处的珍宝。想象一下殿堂中那些苍白而臃肿的古老先知。他们日渐绝望地统治着自己的族人；他们知道自己荣耀的民族即将消亡。Agartha也许是《神域》中最为悲哀的国家。仅存的先知们紧紧抓住过去的辉煌记忆，却又无力阻止自己的古老民族走向不可避免的消亡。我希望这个国家从上到下都弥漫着一种怅然若失的感觉。
+
+***
+
+**Arcoscephale**
+
+Arcoscephale和Pythium是我在创作《神域》时最早构思的国家。玩了GMT的桌游《Great Battles of Alexander》和《S.P.Q.R.》之后，我迷上了古代战争。Hoplites（古希腊重装步兵）是《神域》中最早出现的单位之一。刚开始的时候Arcoscephale和Pythium是一个国家，拥有各类古代部队，而Man和后来的Ulm的部队则更有中世纪风味。但不久之后我就意识到Arcoscephale和Pythium应该被分成两个独立的国家。
+
+古希腊城邦对Arcoscephale的设计有着深远的影响。“黄金时代”借鉴的是神话和古风时期，而后来的时代则加入了更多的希腊与美索不达米亚元素：象兵、神秘主义，还有迦勒底式的占星术。
+
+***
+
+**Asphodel**
+
+你可曾在行走于藤蔓丛生的森林里时不慎踩到被落叶和藤蔓掩盖住的动物尸体？如果你有过这种经历，周围的爬藤和草根也许会在你的想象中活过来。动物的尸体抽搐起来；植物的根茎使它重新开始活动。复活的怪物张开嘴，发出一阵无声的嘶鸣。
+
+Asphodel的核心是荒野的复仇。Pangaea的潘与半人族背弃了自己的同胞，将一位饥渴的黑暗之神释放到世间肆虐。藤蔓和根茎化作不断生长的长蛇，无声地扼杀着睡梦中的生物，将它们的尸骸变为藤蔓与白骨的傀儡。这些傀儡的名字叫做藤蔓怪（Manikin）。
+
+腐肉怪物的初次登场是在我带的一个Ars Magica团里。怪物图鉴里的一只藤蔓怪启发了我；我把它想象成了被藤蔓寄生而“活过来”的动物尸体。我一直挺喜欢这个点子——它可能在我带过的其他一些团里也出现过。
+
+作为《神域》中的一个国家，Asphodel的诞生过程与Lemuria十分相似。它原本是《神域2》中Pangaea的一个主题，后来被改成了一个全球结界，主要供LA Pangaea使用。这么做的结果是腐肉森林的出场率变得极低。这很不幸，也很可惜，所以我们决定将以前的主题重制成一个新的Pangaea分支国家。
+
+***
+
+**Bandar Log, Kailasa, Lanka 与 Patala**
+
+猿猴王国——Bandar Log的灵感来源于印度教神话、古印度文明和拉迪亚德·吉卜林的作品。猴国婆那罗（Vanara）出自印度史诗《罗摩衍那》。《罗摩衍那》讲述的是罗摩王子在猴国帮助下打败魔王罗波那的故事。不同种猿猴间的阶级划分则对应了印度教的种姓系统。我的想法是让班达尔（Bandar）猿猴的毛色对应印度雅利安人社会中种姓与颜色的关系：白色是神职人员，红色是贵族，黑色则是平民。Markata小猴不属于任何阶级，而且也被整个社会排除在外。他们的地位也许类似于过去的不可接触者，不过我想他们的处境应该不会和现实中的贱民一样糟糕。印度神话中的半神们在Bandar Log的历史中扮演了相当重要的角色。首先使猴群称臣的是耶婆那（Yavana）和提婆多（Devata）。这一段剧情多少有点《2001：太空奥德赛》的影子。耶婆那和提婆多离开凡间之后，猴群自己统治了Bandar Log一段时间，直到一个新的神族出现：那伽。正如吉卜林《丛林奇谈》一书中的巨蟒卡阿催眠了猴群那样，那伽们魅惑了班达尔和婆那罗的猿猴，成为了这个国家的统治者。
+
+最新加入这群猴子的故事的国家是Lanka——神话中罗波那的王国。这个国家在很多方面与Kailasa十分相似，只是把Kailasa的夜叉和耶婆那换成了各种形态的罗刹，而且增添了血魔法和食人两大主题。我承认，我挺喜欢巨猿巫师和死灵法师披着原始服饰，张开血盆大口怒吼的形象。
+
+印度教神话极为庞大。也许我们只用印度教中的国家、生物和神祇就能做出一部完整的《神域》游戏。
+
+***
+
+**Berytos**
+
+Berytos只在EA出场。它就是曾无数次被毁灭，又无数次在沿海城邦再现的凤凰帝国。它是一个文化大熔炉，带有许多其他国家的影响。
+
+Berytos的灵感很大程度上来源于远古时期地中海的航海民族，尤其是腓尼基人。迦南与埃及的航海者、希腊人迁徙假说，以及腓尼基人还有后来衍生出的迦太基/布匿文明都是重要的灵感来源。迦南人和腓尼基人建立的城市——如比布鲁斯、泰罗斯、西顿和迦太基——给了我启发，最终导致了航海帝国Berytos的诞生。Berytos对海岸地区城堡的依赖也是来源于此。
+
+传说中狄多（伊莉莎）建造了迦太基城，并且与麦刻都（Melqart）的大祭司结婚。《圣经》中提到迦南人对巴力的崇拜。把这两种传说混在一起，一个崇拜麦刻都的Berytos便初现雏形。这使得Hinnom与Berytos的背景故事有了交汇点。
+
+我还想让Berytos的背景神话再多一点深度。忒尔喀涅斯人、达克堤利人、希腊神话里的其他海岛种族再加上希腊人迁徙假说，终于满足了我的要求。这样Berytos就有了一些无关于Hinnom的神秘历史背景；我对此十分满意。
+
+后来我又想起了《太阳之南》。这是Atlas Games出版的一本略为奇妙的Ars Magica扩展，其中出现了迦太基后人使用黑魔法的描写。我意识到强大的Machaka人和他们被流放的女王们正适合做麦刻都宗教的领导者。
+
+设计Berytos的过程十分有趣。这也许是因为它涉及到，并且扩充了其他一些国家的背景故事。此外，Berytos还拥有一些专门为它打造的专属游戏机制。
+
+***
+
+**Bogarus, Vanarus 与 Rus**
+
+想象一下漫长的寒冬和穿着黑貂皮边斗篷的王族。想象一下阴险的老人在豪华的宫殿中大施邪术或勾引君主的妻子。想象一下拉斯普京。想象一下东正教的牧首，还有隐藏在阴影之中、信仰各种奇异宗派的狂信者。想象一下俄罗斯童话中的怪物和英雄侠客。
+
+早在Bogarus加入《神域3》之前，我就有了一些关于这个国家的过去的想法。我受到基辅罗斯的启发，将华纳神族设定为Bogarus的祖先。我想要牧师，一个能让人联想到俄罗斯东正教的宗教制度，还有一些其他的宗派运动。我作了一些历史研究后找到了一些令我满意的奇异宗派——例如阉割派（Skoptsy）。
+
+Vanarus在《神域3》时期就已部分构思完成。Bogarus的描述就暗示了Vanarus的存在，但我一直腾不出时间做完这个国家。
+
+Vanarus是Bogarus的前身。这个国家的统治者是华纳神族——他们征服了这片土地原本的统治者，并与其混血、混居。基辅罗斯是一个灵感来源，但我从楚德人那里也取得了一些灵感。楚德人（Chud）在许多东波罗的海民族的神话传说中均有出现。但我找不到多少关于楚德人的文献记录，因此《神域》中的楚德人基本还是我自己想象出来的。“头骨之树”、变形术和萨满式的熊崇拜都很符合这个国家的风格。所有这些元素——以及Vanarus描述中提到的雷霆祭司——都在EA的Rus中出现了。
+
+我希望通过国有部队的设计表现出这个国家从早期版本到后期的Bogarus的变化过程。博学的Vanarus贤者逐渐取代了强大的华纳神族，并且最终发展为LA的长老（Staret）和法师。
+
+在《神域4》时期，我始终没有找到机会将我对于Rus的构思付诸实施。Rus最终成为了《神域5》中第二个添加的新国家，其灵感来源于波罗的海神话——尤其是拉脱维亚人的传说。
+
+***
+
+**Caelum**
+
+Caelum起先是一个纯粹的架空国家，其国民是一群长有翅膀的人形生物，居住在最寒冷的山峰之上。后来我给他们加入了一些拜火教的元素。Bandar Log与众鹰王的背景故事使Caelum早期的历史变得十分合理，而且也更加有趣。亚兹丹（Yazata）族——尤其是斯潘塔（Spenta）——来源于拜火教，但Caelum社会总体来说与拜火教并没有太大关联。
+
+***
+
+**C'tis**
+
+C'tis是一个蜥蜴人国家，带有埃及和美索不达米亚文化的元素，如神圣的祭司王、金字塔、沼泽地和沙漠中的泛滥河流。高阶祭司在壁画中圣蛇的注视下排成长列，边高唱圣歌边摇晃着前进，而神圣的祭司王则在金字塔神殿的顶端与神奴（hierodule）进行神婚仪式（Hieros Gamos）。在我看来，这样的场景更接近于美索不达米亚而不是埃及。另一方面，LA的“沙漠陵墓”则是来源于埃及人对于死亡的观念以及现代一些关于埃及的虚构作品。你可以把蜥蜴王当成埃及的法老，也可以把他们当成苏美尔的卢加尔（Lugal）。C'tis与Ermor的关联似乎意味着C'tis更接近埃及而非美索不达米亚。蜥灵法师的入门仪式来源于罗马帝国后期出现的东方系教派，例如伊西斯教派和塞拉匹斯/奥西里斯教派。
+
+到了《神域4》，C'tis又多了一个原型：《Trade & Taint》中的索贝克族（Sobek）。索贝克人原本是T&T版本的C'tis / Pythium，其职业选择中有神术师、军团兵和死灵法师。索贝克族的设定和灵感有一部分被放进了MA C'tis里。我以后也许还会再拓展一下这一方面。
+
+***
+
+**Eriu**
+
+随着Tir na n'Og的发展，我发现我还需要另一个爱尔兰风格的国家，以便我把诸如库胡林等人类英雄塞进去。Tir na n'Og残存的元素被分成两部分，一部分给了Man，另一部分给了Eriu。仅存的希泽仙族（Sidhe）在Eriu的地位类似于华纳神族在后期的Vanheim：一个受祝福的神圣种族，人类对其俯首帖耳。
+
+***
+
+**Ermor及其后来影响**
+
+最早的Ermor是将罗马帝国与奇幻中传统的死灵王国糅合的产物。后来Ermor的历史逐渐完整。它一开始是一个类似于罗马共和国初期的国家，其部队出自共和国时代，其祭司与预言家也是来源于罗马的神职人员。正如基督教逐渐取代了旧的罗马国教，Ermor的新信仰也取代了以前的国教——纽米纳教（Numina）。随着时间的推移，预言家们的错误逐渐显现；帝国堕入一片黑暗之中。
+
+Ermor是《神域》世界中最早构思的国家之一。在初代《神域》中，Ermor的背景故事与许多国家均有联系。当《神域3》引入时代的概念时，死灵帝国被放到了LA，这在一定程度上影响了《神域》世界观的连贯性。在《神域4》中，为了理清时间线，我把Ermor“灰烬帝国”放到了MA，让它可以再一次与自己的对手和分支帝国同台竞技。
+
+Ermor对于Sceleria、Pythium、Marignon和Ulm的背景故事均有深远影响。除此之外，还有数个国家曾与Ermor（或其残存部分）有过千丝万缕的关系。很难想象没有Ermor的《神域》设定会是什么样子。
+
+***
+
+**Hinnom, Ashdod 与 Gath**
+
+Hinnom、Ashdod和Gath的灵感主要出自古代以色列人、迦南人和非利士人的文化。一直以来，我对《圣经》的神话故事十分着迷。我其实早就想把拿非利人和《圣经》中的创世神话加入到游戏中，但我担心自己对这些原材料不够了解，做出来的成果恐怕会不理想，所以这几个国家直到很久之后才制作完成。主要的灵感来源是《圣经》、《以诺书》、《死海古卷》、乌加里特的拉斯沙姆拉古经，以及后人对这些经书的解读。
+
+Hinnom主要改编自《圣经》和《以诺书》中的传说，而Ashdod将死去国王神化并加以崇拜的做法则是源于迦南人/乌加里特人的死亡观。由于乌加里特古经中的利乏音人（r'p'm）是幽灵或被神化的死者而非巨人，因此Ashdod的最终形态和我起先的构思有些差距。死亡魔法取代了血魔法，让Ashdod有了一种不同于Hinnom但同样有趣的整体氛围。
+
+Hinnom和Ashdod的设计有一些地方参考了苏美尔和巴比伦的历史，而Gath则更多地源于以色列和非力士的传说。以色列的早期宗教历史、神庙和以色列部族中的集权宗教、大卫与迦特的歌利亚的传说均是Gath的灵感来源。
+
+在我的想法中，这个国家是一个可憎的怪物，随着时间的推移慢慢变得文明起来。Hinnom也许比游戏里任何一个国家都更配得上“邪恶”的标签。我个人对“邪恶”的概念并不十分感冒，但你恐怕很难找到更合适的词形容Hinnom的食人巨人。
+
+***
+
+**Fomoria 与 Tir na n'Og**
+
+这两个国家是Man和Eriu的前身。爱尔兰史诗《征服志》（The Book of Invasions）和凯尔特民间神话传说对这两个国家的创作有重大影响。我以弗莫人（Fomorian）、尼米德人（Nemedian）、菲波哥人（Fir Bolg）和图哈人（Tuatha）之间的冲突与战争为灵感，为这两个国家创造了一个共同的背景故事。此外，一些激发了我的想象力的点子也混进了Fomoria中，例如风暴巨人驾船航海、不似人形的山羊头巨人，还有一些认为弗莫人负责守卫溺死者的说法。
+
+***
+
+**Machaka**
+
+Machaka来源于非洲王国，尤其是绍纳人。国王是一个神圣的人物；他是王国的最高元首，但却并不行使统治权。部族首领是国王手下的诸侯。祭司们则是国王的眼、耳、口，他们监视着部族首领，同时也扮演着连接民众与宗教的角色。此外，希卢克人对于弑君的观点以及其他一些来源于非洲文化的元素也出现在Machaka中。在神山的黑巫师和蜘蛛中可以找到一些来源于东方的现代概念以及老掉牙的奇幻元素。另外，我承认漫画《The Phantom》对于Machaka也有一些隐晦的影响。
+
+EA Machaka灵感源于一个古老的TRPG《Powers and Perils》。在这个游戏奇妙的战役设定中有一个非洲风的国家，其领导者是一群被从沉睡的巨城中解放出来的强大人类。我觉得“一个重获自由的高等民族”这个点子还挺有吸引力的。MA Machaka则掺杂了许多神话、传说、电影和“非洲风”的奇幻概念。我最初构思的部族是以身体部位为基础，如肝族、心族、手族、头族和腿族。但我觉得这样不对劲，于是就将图腾换成了各种动物，这样也更贴近MA的蜘蛛主题。
+
+这个国家的开发是和Berytos同时进行的，不过花的时间比Berytos多了一点。我同时制作了两个国家，并且让它们的历史交结在一起，使两国都显得更加生动。也许我将来设计新国家时也会采用同样的做法。
+
+***
+
+**Man**
+
+Man是《神域》世界中最早构思的国家之一。这个国家有许多中世纪英格兰和亚瑟王传说的元素，还混合了一些来自Ars Magica的奇幻元素以及罗伯特·乔丹的作品。爱尔兰/诺森伯兰风格的修道传统、盎格鲁-撒克逊人的社会和威尔士的长弓兵都是我创作这个国家时的灵感来源。后期的Man则转向了黑暗的学术——可以参考电影《断头谷》中的氛围。
+
+在《神域4》中，Man的历史更加强调蛮族（风格类似盎格鲁/撒克逊人）入侵造成的影响。从这个国家的背景故事中不难勾勒出一个类似早期Ulm的国家。
+
+***
+
+**Marignon**
+
+Marignon是一个中世纪晚期的国家，以宗教审判和狂热信徒为主题。严谨——也许该说是神经质——的祭司们在全国上下四处搜寻罪人和异端，将一群群男女推上火刑柱以实行炽烈的正义。想象一下身穿色彩鲜艳的中世纪服饰的士兵，以及身着红黑色长袍、面容冷峻的牧师与法师。后期Marignon的西班牙元素多于阿尔比元素。后来又加入了神秘学、恶魔崇拜等哥特要素，还有航海及海外远征。
+
+***
+
+**Marveni**
+
+Marveni的灵感源于凯尔特高卢人。古图特祭司（Gutuater）、高卢大法官（Vergobret）、占星德鲁伊和血祭均出自恺撒和罗马史官的记录。裸露胸膛的战士、穿着刚刚发明的链甲的贵族与自己的酋长并肩作战，以证明自己的价值。刻有动物图像的号角也是一个重要的元素。《阿斯泰利克斯历险记》大概也有一些影响。顺便说一句，这漫画挺好看的。
+
+***
+
+**Mictlan**
+
+Mictlan的灵感主要来自阿兹特克人的血祭仪式。阿兹特克神话中死者国度的名称正是Mictlan。特诺奇提特兰城建造在沼地之上，Mictlan的首都也是如此。但Mictlan同样是一个雨林之国——类似于玛雅。（在后期尤其如此。）蟾蜍在阿兹特克人的壁画中常有出现，不过白狼出品游戏《战锤》中的史兰蟾（Slann）同样是LA中Atlantis对于Mictlan的改造的一个重要参考。
+
+立法者奎兹柯阿特——羽蛇神——在大多数中美洲文化中均有出现，其形象是一位将回归世间的救世主。你不太可能在创作一个中美洲国家的时候完全不提到它。
+
+此外，Mictlan的科技落后意在让人联想到欧洲人踏上美洲土地时拥有的科技优势（也许还有病菌优势）。
+
+***
+
+**Nazca**
+
+早在《神域4》补丁推出Nazca之前很久我就有了一些关于这个国家的想法。我很喜欢这样的一个点子：古人死去并被做成木乃伊后依然拥有社会上的影响力。过去的王侯贵族即使在死后依然保有自己的领地，于是这个王国不得不不断地开疆拓土；亡者的俸禄不断增加，于是这个王国的国库逐渐空虚。
+
+Nazca最初只是起源于我对于Caelum的分支国家的一些想法，后来我才想到给这个国家使用印加风格的设定。于是我开始研究安第斯山脉居民的文化，并且对于木乃伊、种族混居、地画和死者统治等概念产生了兴趣。我目前对于Nazca的故事如何收场并没有明确的想法，因此以后在续作中出现Nazca的LA版本也是有可能的。
+
+***
+
+**Oceania, Pelagia 与 Erytheia**
+
+Oceania与Pelagia出自中世纪魔怪传说中与陆上动物相对应的海中生物。这些生物大多是半人半兽，因此Oceania的风格与Pangaea十分相似。“特里同王”引入了一些现代化的鱼人元素。然后，在《神域4》中，Pelagia成为了一个独立国家，其Pangaea风格也随之减弱。黄金制成的三叉戟、身着珍珠母铠甲的骑士、载着特里同鱼人之王，由海马拉着的贝壳战车——这些都属于Pelagia的设定。
+
+随着《神域4》的水国补丁发布，Pelagia的背景故事得到了挖掘，混入了一些Berytos的元素。这时，对于这个国家后来的发展，我开始有了一些想法。我认为，一个国家的特征应主要是它的文化，其次才是它的民族；但此前的Pelagia却更多地只是一个种族，而不太像是拥有自己文化的王国。水国补丁针对这一问题做了些许调整，不过我觉得更加有趣的是新增的这个国家：Erytheia。
+
+Erytheia是LA的Pelagia。这个国家的原型是托勒密时代的埃及。外来的征服者们归入了当地人的文化传统，创建了一个对外封闭的王国；统治者们抗拒外来势力的影响，竭力维持着王室血脉的延续。为了在游戏里表现出托勒密王朝那种王室近亲结婚的习俗，我还给Erytheia设计了一些新的机制。
+
+我认为Erytheia应该是争夺“穹顶之国”（Pelagia人对于陆地的称呼）的势力之一。这个想法是我在制作《神域4》水国补丁时萌生的：我想做一个横跨水陆的鱼人国家。后来配上托勒密的埃及，感觉也十分合适。Erytheia最终成为了一个风格与众不同的水下国家。
+
+***
+
+**Pangaea**
+
+当希腊神话中狂野的半兽人遇见数量庞大且科技发达的人类文明，他们将会如何应对？Pangaea就是这样的一个国家。要么是钢盔铁甲，要么是血肉之躯；要么适应变化，要么就只有消亡。就像大部分遭遇所谓“文明世界”的文化圈一样，有些Pangaea人坚守他们眼中的传统，另一些则选择与时俱进——不论这会加强还是削弱他们的影响力。随着时代更替，Pangaea的古老魔法与传统出现了非常显著的衰退。但LA的半人马们开拓出新的魔法之道，让这个古老的国家看到了新的希望。
+
+***
+
+**Pythium**
+
+Pythium是一个基于东罗马帝国与拜占庭的国家。它的历史与军队均带有Ermor遗风——正如拜占庭帝国与罗马帝国的关系。神术师们的仪式型魔法来源于东正教的盛大礼拜。天球教堂（Cathedral of the Spheres）中充满祷告之声、焚香之味，还有一排排身着金银长袍的神术师。关于蛇和翡翠的东西大概来源于Pythium这个名字。这一部分是我的自由发挥，奇幻味比较浓一点。
+
+到了后期，Pythium反过来受到它征服的地区中神秘教派和宗教信徒的影响。这就像晚期的罗马帝国变成一个外来宗教的大熔炉一样。伊西斯/塞拉匹斯派、密特拉派、狄奥尼索斯派、伊洛西斯派等神秘宗派赋予LA Pythium一种全新的趣味。圣蛇祭司则基本纯属虚构；它们多半是来源于那些神圣的蛇骑兵和九头蛇。Pythium的神秘宗派的灵感本来就源于伊西斯教派，因此加入一个C'tis风格的圣蛇祭司似乎挺合适的。我当年论文的题材就是罗马的伊西斯/塞拉匹斯教派，因此我个人是十分喜欢LA Pythium的。
+
+***
+
+**Ragha**
+
+Ragha初次出场是在《神域4》的Caelum补丁。我之前就有过制作Caelum/Abysia混合国家的想法，但直到我开始重做Caelum时这些想法才有了结果。Ragha应该是Caelum系国家中受历史、神话影响最深的一个。Ragha一开始就是一个拜火教风格的国家，因此它的法师和牧师——主祭（Dastur）与拜火祭司（Atharva）真正成为了国家的一部分，而不是后来才临时起意加入的东西。冷热机制的存在导致Ragha变得很难评价与平衡，但我对于这个想法本身是相当满意的。这个国家的基础是数百年的波斯历史以及两个截然不同的《神域》国家，因此它自然是丰富异常。
+
+***
+
+**R'lyeh 与 Atlantis**
+
+这两个国家的灵感主要来自H.P.洛夫克拉夫特的作品。R'lyeh更接近于克苏鲁神话，拥有星之眷族、来自虚渺星空的奇诡生物等元素，而Atlantis则是属于原生深海人的国家。EA Atlantis的洛夫克拉夫特风格更重一点，而MA版则带有较多的奇幻元素。Atlantis也是在MA末期遭到毁灭性打击的国家之一。到了LA，除了克苏鲁神话的东西，Atlantis还加入了一些因纽特元素。
+
+R'lyeh也是一个深受H.P.洛夫克拉夫特作品影响的国家。如果说Atlantis代表了克苏鲁神话中较“地球”的那一面，R'lyeh代表的就是克苏鲁宇宙中更为诡异的存在。这里有星之眷族、怪异之裂隙、来自虚空的存在，还有一点老套的奇幻RPG元素。EA的R'lyeh是一个属于魔鱼的D&D风格国家，而后来则发展为一个狂人的国度，遍布疯狂之梦、畸形怪人以及扭曲心智的虚空魔兽。 *F'tagn.*
+
+***
+
+**Sauromantia**
+
+Sauromantia的设计基于希罗多德《历史》中对西徐亚民族的描写。本书讲述了西徐亚人、亚马逊人、萨尔玛提亚人和安德罗费基人的奇异传统与野蛮行径。若你想要制作新的mod国家但却苦于无从下手，这本书会给你提供一些很好的灵感。古代陪葬品、考古研究和鱼鹰出版社的战争史书籍让这个国家更加生动。最后，我给安德罗费基人加上了巫王，还有巨蛇、沼泽及九头蛇等后来归入Pythium的元素。这样一来，这个国家就显得更加险恶，更加符合《神域》的风格。
+
+***
+
+**Sceleria 与 Lemuria**
+
+Sceleria是Ermor的孩子，亦是Pythium的姊妹。在《神域3》中，它就是MA的Ermor，但《神域4》修正历史之后，MA Ermor也非得整个重写一遍不可了。
+
+和Pythium一样，Sceleria在Ermor的大灾难爆发前夕分裂了出去，成为了分支帝国之一。不用说，它的灵感也是来源于古罗马。生者与亡灵并排而行的邪恶帝国——这样的奇幻元素在Sceleria随处可见。
+
+Lemuria是《神域2》中Ermor一个主题“灵魂之门”的重制版。在《神域3》中，我们把灵魂之门和腐肉森林改成了全球法术，但这实际上让这两个机制基本从游戏里消失了。我们一直很想让它们回归。于是，随着历史被重写，Lemuria作为一个全新的国家紧随Sceleria出现了。
+
+Lemuria是一个亡灵之国，但这里的亡灵并非骷髅与僵尸，而是幽灵与虚体的鬼魂。想象一下遍覆灰烬与尘埃的灰暗大地。想象一下大群的幽魂在军旗之下迈进。你感受不到有风，然而旗帜却在风中飘舞。当幽灵军团从你身边走过，你若屏息聆听，将会听到古老武具的声响。在远方，阴影自灵魂之门漫溢而出，将地平线染成一片漆黑。
+
+***
+
+**T'ien Ch'i**
+
+T'ien Ch'i显然是来源于中国。我对“春秋”这个名字实在是毫无抵抗力。中国历史源远流长，可以提供大量灵感。我以道教五行、修仙之说和对长生不老的追求为参考，创造了道学大师（Master of the Way），而道教中的天师也成了T'ien Ch'i的天师。中国有许多英雄传说。七仙都是很有趣的人物，不过也许还是比不上孙悟空和他的朋友们。只要我（或mod作者）能抽出时间，可以加入的东西还有很多很多。最后说一句，香港、中国和韩国的电影也对T'ien Ch'i有一些影响。
+
+***
+
+**Ulm**
+
+Ulm是随着时代更替发生巨大变化的国家之一。EA的Ulm是一个野蛮人的国度。想象一下《野蛮人科南》！至少想想电影版《野蛮人科南》中前五分钟的情节：科南一家惨遭图尔萨·杜姆残杀，年幼的科南被卖作奴隶。想象一下身着毛皮服装的萨满、武士与铁匠讲述着钢铁之谜。再想象一下恺撒《高卢战记》中描写的日耳曼部族、罗马军队在条顿堡森林的惨败，还有异教神庙中的巨木。EA的Ulm处于未开化的时代。
+
+后来的Ulm灵感主要出自条顿骑士团和日耳曼的雇佣步兵（Landsknechts）。我有意让后期Ulm的风格更接近中欧/东欧、日耳曼/巴伐利亚南部，以及特兰西瓦尼亚。血脉的腐化在哥特小说中是一个经典的概念。典型的哥特小说是由信奉新教的盎格鲁-撒克逊人所著，而这些小说往往以天主教欧洲的某个地点为舞台。因此，我认为将Ulm塑造成一个哥特化的“奇幻巴伐利亚”是很自然的。
+
+***
+
+**Ur 与 Uruk**
+
+Ur是此前Illwinter一个未完成作品《Trade & Taint》的产物。恩奇都人（Enkidu）和索贝克人（Sobek）最早是在这个游戏里出场的。恩奇都人的可选职业中包括耻辱者、骨卦师和劫掠者。在《神域5》中，我给了恩奇都人一个源于美索不达米亚历史的国家。恩奇都人在《Trade & Taint》中就带有美索不达米亚的风格，到了《神域4》则变得更为明显。《神域4》发售之后我们又重启了《Trade & Taint》的开发工作，因此恩奇都人的国家也得到了更深的挖掘。今年夏天我阅读了很多关于苏美尔人城市和文化的文章。埃利都的宗教和世俗职能在苏美尔时期逐渐转移到其他城市，这一过程十分有趣。于是Uruk成为了《神域5》中加入的第一个新国家。
+
+Hinnom也有一定的苏美尔元素，但我希望Ur的背景故事有更重的苏美尔色彩。我很喜欢这样的点子：大片土地上只有一座孤城作为文明的中心，余下的土地都属于牧羊、狩猎的野人。
+
+于是就出现了这样的游戏机制：一些国有单位并非在本土城堡中出现，而是只有在周围地区才能招募。这么一来，Ur的部队名单就更能强调这个国家的背景。当然了，还有一样东西是Ur必须得有的：伊什塔尔城门浮雕中的无翼巨龙——怒蛇（Sirrush）。
+
+Ur的萨满和骨卦师灵感源于萨满教的一些概念和迦南人的死者崇拜，也许还有一点来自以前的RPG。
+
+到了MA，Ur发展为Uruk，并且获得制造钢铁武器的技术。随着文明的扩散，埃利都的祭司王（Ensi）的权力衰减了；其他城市的祭司王则获得了世俗与宗教方面的权威。在这个新的时代，月之祭司（Entu of the Moon，其灵感来源于萨尔贡大帝的女儿恩赫都安娜）成为了国家的中枢，于是Uruk变成了一个神权国家。
+
+***
+
+**Vanheim, Helheim, Niefelheim, Jotunheim, Midgard 与 Utgard**
+
+这些国家全部来源于北欧的古老神话。主要的灵感来源是《诗体埃达》和一些后来的传说故事，然后又配上了铁器时代斯堪的纳维亚半岛的整体形象。华纳神族、亚萨神族和巨人族是这些古老神话中的反派角色。由于亚萨神族被视为神明，因此他们在《神域》中作为伪神出场。当然了，华纳神族也是神，但大多数时候他们的“神性”似乎没有亚萨神族那么强。和大部分起源于超自然种族的国家一样，这些神族的魔力随着时代推进逐渐衰弱，而人类的数量则越来越多。
+
+Niefelheim、 Jotunheim和Utgard属于同一个国家的历史，只是时代不同。Vanheim、Helheim与Midgard同样有着共同的祖先和共同的发展历程。Helheim在MA并入Vanheim，不再作为独立国家出场。女武神就是Helheim留下的唯一痕迹。
+
+***
+
+**Xibalba**
+
+Xibalba来源于玛雅神话。更确切地说，是来源于玛雅经书《波波乌》（Popol Vuh）和“豹先知”（Chilam Balam）的预言书。《波波乌》讲述了创世故事，也包含一些其他的神话元素。书中还讲述了双胞胎英雄胡那普（Hunahpu）与希巴朗科（Xbalanque）在玛雅神话中的地下冥界——希泊巴（Xibalba）的历险故事。据说太阳会在夜间穿过希泊巴。我上高中时接触了一个名叫《Chill》的TRPG，并在其中发现了一个名叫卡玛佐兹（Camazotz）的怪物。自那之后，我便一直对蝠神和中美洲神话抱有浓厚的兴趣。实际上，当Mictlan在《神域2》中初次登场时，我给它制作的第一个神就是蝙蝠神。当我开始制作Xibalba时，我从一开始就知道这会是一个属于蝙蝠人的玛雅风国家。
+
+到了MA，希泊巴被洪水淹没，蟾蜍人占领了这里。蟾蜍在中美洲神话中有着重要的象征意义，因此我希望玛雅风国家中有它们的一席之地。此外，我对于一个国家随着时代变迁发生重大变化这一想法也非常中意。我将Atlantis的背景故事略微修改，再配上中美洲的洪水传说与巴卡布（Bacab）的传说。最终结果是一个被淹没的地底世界，其居民就是逃难的Atlantis人。
+
+此外，Xibalba是最早得到据其背景故事设计的全球法术的国家之一。此前我们就用过这个点子——那是在我们重做国家主题的时候，当时把“腐肉森林”改成了一个国有法术。但我们对于其结果并不满意。Xibalba的“窃日”和Agartha的“释放被囚禁者”则宣告了国有全球结界的回归。
+
+***
+
+**Yomi, Shinuyama 与 Jomon**
+
+这三个国家从日本的历史、神话和民间传说中汲取了大量灵感。Yomi是一个未开化的野蛮国家。在这里，残暴的魔鬼奴役了人类以及其他的种族，并将其作为食物。后来这群魔鬼被化物（Bakemono，日本民间传说中的小妖怪）取代，而最后是人类获得了统治权。有个叫《Bushido》的TRPG对Shinuyama的生物设计有重大影响，不过我也用上了一些其他的神话生物，例如天狗和妖狐。LA的Jomon还带有一些“现代神话”的元素，例如西方人对忍者的神化。
+
+到了《神域5》时，我想再挖掘一下Yomi。我想让它变成一个更多地采用鬼海战术的国家。误入歧途的人类祭司打开恶魔之门，成群的恶魔从中源源不断地涌出。
+
+***
+
+**Ys**
+
+Ys的来源是布列塔尼地区关于沉没之城伊苏（或称克尔-伊苏）的传说，还有莫甘鱼人。为了让Ys能够建造海岸堡垒及招募自己的独有部队，我又添加了爱尔兰/威尔士的麦洛鱼人的传说以及Marveni的Kernou一族。一开始我打算将Ys的背景故事与Marignon相融合，并给Marignon添加一个梅露馨（Melusine）美人鱼英雄，但一直没有机会完成这一构想。梅露馨很可能会出现在《神域5》今后的补丁中，并且Ys和Marignon可能会出现更多交汇。
