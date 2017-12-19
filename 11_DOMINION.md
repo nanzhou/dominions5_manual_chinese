@@ -39,7 +39,6 @@
 ```
 例子：在一个非组队游戏中（只有独立的玩家们），某个国家拥有8座神庙，其伪神初始神域是7。那么每回合，每座神庙有90%的概率增加该神的神域。如果这个国家再建造了两座神庙（合计10座），每座神庙的神域增长概率会增加到95%。
 ```
-
 这一“神庙检定”是游戏中神域增长的基本单位。利用这一术语，你的神域中心具有以下效果：
 
 伪神：**1次自动成功的**神庙检定外加**2次**神庙检定
@@ -129,6 +128,7 @@
 Arcoscephale会占卜其神域下的所有省份。通过这一方式取得的信息也会给予门徒玩家，并且这会比通常的侦查报告更准确。
 
 **Mictlan, Reign of Blood（早期）**
+
 **Mictlan, Blood and Rain（晚期）**
 
 可以血祭。并且有着垂死神域的特性，意味着其神域不会像其他国家一样通过神庙等传播。垂死神域的特性只影响这个国家本身，无论是门徒还是主神。
@@ -162,8 +162,11 @@ C'tis的神域会导致一连持续数月的大雨，令土地变为湿软的湿
 构装生物在这一神域中会获得生命值增加。只要有构装生物，这也会帮助门徒玩家以及敌人。
 
 **Caelum, Eagle Kings（早期）**
+
 **Caelum, Reign of the Seraphim（中期）**
+
 **Jotunheim, Iron Woods（中期）**
+
 **Niefelheim, Sons of Winter（早期）**
 
 （译注：不仅是神域内，）也对神域外相邻省传播寒冷。当前寒冷（cold）天平距离最大寒冷天平每差距1级，就有10%的概率变得更寒冷。对于（早期）Caelum和Jotunheim来说最大寒冷天平为1，对于（中期）Caelum为2，对于Niefelheim为3。最大寒冷天平也受到那个国家建立伪神时的寒冷等级限制。
@@ -171,21 +174,33 @@ C'tis的神域会导致一连持续数月的大雨，令土地变为湿软的湿
 当这个国家是主神时如常运作。
 
 **Abysia, Children of the Flame（早期）**
+
 **Abysia, Blood and Fire（中期）**
 
 （译注：不仅是神域内，）也对神域外相邻省传播炎热。当这个国家是主神时如常运作。当前炎热（heat）天平距离最大炎热天平每差距1级，就有10%的概率变得更炎热。对于（早期）Abysia来说最大炎热天平为3，对于（中期）Abysia为2。
 
 **Marverni, Time of Druids（早期）**
+
 **Sauromatia, Amazon Queens（早期）**
+
 **Abysia（所有时期）**
+
 **Pangaea, Age of Revelry（早期）**
+
 **Vanheim, Age of Vanir（早期）**
+
 **Vanheim, Arrival of Man（中期）**
+
 **Helheim, Dusk and Death（早期）**
+
 **Hinnom, Sons of the Fallen（早期）**
+
 **Berytos, Phoenix Empire（早期）**
+
 **Marignon, Conquerors of the Sea（晚期）**
+
 **Midgård, Age of Men（晚期）**
+
 **Gath, Last of the Giants（早期）**
 
 可以血祭来增加神域。这一能力不会传递给门徒国家。门徒国家如果有这一能力就仍然能够使用。这些国家*不具有*垂死神域。注意Marverni没有任何血法师，因此会很难找到血奴。
