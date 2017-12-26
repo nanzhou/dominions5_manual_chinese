@@ -1,183 +1,285 @@
-THE PRETENDER
-Dominions 5 is about the struggle between pretenders to ascend to godhood. Thus, the pretender is the embodiment of the spirit of the nation. But there are many was to aspire to godhood, and you have a lot of leeway to shape exactly what kind of pretender will lead your nation. The pretender will determine how much dominion you can have in a province, how fast your dominion spreads, what type of scales rule the land, and what bless effects your sacred units will have. Pretenders also have the ability to research and cast spells, and even forge magic items and fight in battle. Pretenders are the most important single aspect of any Dominions game.
-The important points to remember about pretenders are:
-● A pretender is a commander unit, and moves on the strategic map and battlefield
-● The magic paths chosen for the Pretender affect which spells he will be able to use
-● Magic paths chosen also determine what Bless effects, if any, you can choose for your nation’s Sacred units
-● The dominion scales you choose will determine what effects will be felt in provinces under your dominion
-● The dominion strength you choose will determine how easily your dominion spreads
-● When a pretender is killed, he or she can be brought back by priests of his nation using the Call God command. This may take some time. He or she will also lose some magic skill or a point of dominion.
-CREATING A PRETENDER
-Besides choosing a nation, creating a pretender is the most significant decision you’ll make in Dominions 5.
-Each nation starts out with 425 points to create a pretender god. These points are spent on the three categories below: physical form, magic, and dominion. A fourth category, The Awakening, is a way in which you can trade the later appearance of your pretender for more build points at the outset.
-Physical form
-A pretender must have a physical form, like a titan or giant squid, which you choose based on the ones available to the nation you have selected. Some nations have more choices, and some relatively fewer. Not all pretenders are available to all nations. This is because those pretenders did not exist for that nation historically.
-Each pretender has a different set of attributes, which can be examined by right-clicking on the pretender in the selection screen. Some are giants. Some are flying goddesses. Some are weird polyp things that can only live underwater. Others are guys just like you and me, only with three heads and magical powers. They all have various attributes just like regular units, while some have special attributes that merit further explanation. These are all attributes inherent to the physical form in question – they cannot be conferred or purchased separately.
-Many pretenders have an inherent point cost as part of their physical form. For example, the Allfather, a pretender based on the Norse god Odin (Wotan), costs 100 points. If you choose him, you will have 325 points left to spend on dominion and scales.
-Immortal Pretenders Some pretenders (Vampire Queen, various manner of liches, the Phoenix for obvious reasons, and others) are immortal. There are two kinds of immortality in Dominions 5: immortality and dominion immortality. Dominion immortality (example: Phoenix) means that if a pretender is killed while in a province with friendly dominion, it will simply re-appear in their nation’s home province. If they die in a province that does not contain friendly dominion, they are subject to Call God just like non-immortal pretenders. Immortality (example: the Lich) means that a pretender is fully immortal and can even die outside its dominion and still re-form. Reforming a pretender’s body (whether immortal or dominion immortal) takes some time, usually about three months, but is dependent on monster type. If the pretender is soul slain, reformation will take another three months. Reforming the body usually gets rid of most afflictions. Immortals do not heal afflictions otherwise.
-Immobile Pretenders Some pretenders (Monolith, Fountain of Blood, and others) cannot move. This means they have no inherent movement ability. They can still be transported by magical means (Teleport, Wind Ride). Designing a good immobile pretender can be a challenge, but they have their advantages. Most immobile pretenders have a low physical form cost. Some immobile pretenders (Monument) cannot be moved even by teleportation.
-Dragon Pretenders When players select a dragon for their pretender, a wizard shows up. This is not a bug. Research has shown again and again that dragon pretenders don’t change into dragon form until they are wounded. The pretender will be displayed as a wizard until he changes shape either by using the change shape order or by being wounded in combat. Prior to that, he remains in wizard form because it was easier to cast spells with hands instead of dragon claws.
-Magic
-Some pretenders begin with skills in magical paths – others don’t. This is listed in the character screen for that physical form. For example, the Great Mother begins with Nature 2 and Earth 1. Some pretenders don’t begin with any skills in magic paths. Regardless of starting abilities, magic skills can be purchased in the Magic screen. The cost is shown below:
-Cost 8 16 24 32 40 48 56 64 72 80
-These costs are cumulative, so that increasing a magical path from zero to 6 costs 168 points (or more, see * below).
-Note that this refers to the numbers of skills added by you in that path, not the actual total skill. In other words, since the Great Mother begins with Nature 2, and you want to bump her up to Nature 3, that only costs 8 points because that’s the first skill increase by you in that path. Thus, starting with a pretender who already has skills in paths you want can be a significant cost savings. Of course, this is partly accounted for in the point cost of that physical form.
-* If the first skill chosen is in a new path with no magic skill yet selected, the cost is the pretender’s “New Path Cost.”
-Skill chosen in path *1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th
-     Example: The Carrion Dragon begins with Death 1 and Nature 1. You decide you want to increase his skill to Death 4, Nature 4, and Fire 2. That means you need to select three skills in the same path (Death) for a cost of 48, three skills in the Nature path, for a further cost of 48 (you have now spent 96), and 2 skills in Fire. However, because the Carrion Dragon does not start with any Fire, selecting Fire is a new path purchase and thus the first skill in Fire costs 80 points, as listed in his character screen. To get him to Fire 2 costs another 16 points. The total cost of magic for this pretender is thus 192 points. Magic can be very expensive.
-               Bless Effects
-Each nation has a number of Sacred units, most of which can only be recruited in the nation’s home province, generally because there is a magic site there which permits their recruitment. Sacred units are specific to that nation: if another nation captures that province and magic site, it cannot recruit those units.
-The main advantage to sacred units is that they can be Blessed. Blessing is a level 1 holy spell, and thus can be cast by any priest. It is cast only on the battlefield. A blessed unit gains two advantages:
-● +1 morale
-● All the bless effects conferred by his nation’s pretender, chosen upon creation
-● All the bless effects conferred by any Thrones of Ascension claimed by the nation or disciple nations
-Bless effects become available when a pretender has a skill of 4 in any magic path. Unlike in previous versions of Dominions, these effects are chosen from a list upon creation of the pretender.
-In general, every skill level in a path equals one point of bless effect once you reach four. (Thus, an Air 2, Death 4, Nature 6 pretender receives 4 Death and 6 Nature bless points for allocation.) Some nations or pretenders may receive bless bonuses which translate into additional bless points. (For example, Marignon, Conquerors of the Sea receives +1 Fire, +1 Astral, and +1 Blood bless points, but only after reaching skill 4 in a given level.)
-     Bless Point Cost Bless Effect
-     Air 1 Air 1 Air 2 Air 2 Air 3 Air 4 Air 5 Air 6 Air 7
-Astral 1 Astral 1 Astral 1 Astral 2 Astral 3 Astral 3
-Death 1 Fire 1
-Minor Shock Resistance Precision
-Farshot
-Swiftness
-Major Shock Resistance Charged Bodies
-Wind Walker
-Air Shield
-Thunder Weapons
-Minor Magic Resistance Arcane Command
-Spirit Sight
-Magic Weapons
-Major Magic Resistance Solar Weapons
-     Astral 4
-Astral 4
-Astral 6
-Astral 7 Misfortune 1 Astral 8 Luck 1 Astral 10 Magic 3
-Blood 1 Blood 3 Blood 4 Blood 5 Blood 6 Blood 8
-Death 1 Death 1 Death 2 Death 4 Death 5 Death 7 Death 7 Death 8 Death 10
-Far Caster Arcane Finesse Twist Fate Fateweaving Luck Etherealness
-Strong Vitae Strength of the Flesh Blood Surge
-Blood Bond
-Unholy Weapons Blood V engeance
-Undying
-Undead Command Half Dead Withering Weapons Stygian Flesh Reanimators Reforming Flesh Death Weapons Fear
-Mountain Survival Reinvigoration Reconstruction Strength of the Earth Unbreakable
-Fire & Shock Resistance Larger
-Hard Skin
-Fortitude
-Superior Morale Minor Fire Resistance Major Fire Resistance Wasteland Survival Attack Skill Inspirational Presence Death Explosion
-Heat Aura
-Fire Shield
-Flaming Weapons Awe
-Resilient
-Low Light Vision
-                                Death 2
-                Earth 1 Earth 2 Earth 2 Earth 3 Earth 4 Earth 5 Earth 5 Earth 6 Earth 7
-Nature 3
-                    Fire 1 Fire 2 Fire 3 Fire 1 Fire 3 Fire 4 Fire 5 Fire 5 Fire 6 Fire 6 Fire 7
-Death 1
-                        Nature 1 Nature 1
-     Nature 1 Nature 2 Nature 2 Nature 3 Nature 4 Nature 5 Nature 5 Nature 6 Nature 7
-Water 1 Water 1 Water 1 Water 2 Water 3 Water 3 Water 5 Water 5 Water 7 Water 10
-Magic 1 Death 1
-Minor Poison Resistance Major Poison Resistance Forest Survival
-Unaging
-Poison Weapons Recuperation Berserker Barkskin Regeneration
-Minor Cold Resistance Winter’s Gift
-Swamp Survival Water Walking
-Major Cold Resistance Defense Skill
-Frost Weapons
-Chill Aura
-Water Breathing Quickness
-                      Cold 1
-Nature 1
-Cold 1
-                   Italicized effects are “incarnate only” which means that they only apply if the pretender is awake as well as alive. Bold requirements refer to Scales, not magic paths.
-When you are constructing your pretender, the Magic screen will list all of the bless effects to which your path selections have entitled you. Look at the bottom of the screen. The +1 morale effect is not listed because it is common to all pretenders.
-Pretenders also gain Indirect Magic bonuses (see the section entitled Magic). However, pretenders are not sacred units and cannot be blessed. Disciples, on the other hand, are the equivalent of prophets and are subject to bless effects.
-     Example: Your pretender is Neter of the Sun, which starts with Fire 2 and Astral 1. You decide to boost the magic paths to Fire 4 and Astral 4. You are playing Machaka, so you get no further bonuses and thus you have four Fire and four Astral points to spend on bless effects. You will be facing Ermor, so you choose Solar Weapons, which costs three Astral and one Fire, leaving you with one Astral and three Fire points. You spend the three Fire points on Attack Skill, and the one remaining Astral point on Arcane Command. Your blessed units will gain all three of these effects. In addition, all of your blessed units will have +1 morale, because this is an effect common to all bless spells.
-               Dominion
-Two separate things fall under the category of dominion: maximum dominion and dominion scales. For more information about dominion and its spread, see the section on Dominion.
-Cost 7 14 21 28 35 42 49 56 63 38
-Dominion candle 1st 2nd 3rd 4th 5th 6th 7th 8th 9th
-        
-The cost to add dominion strength is calculated for each additional candle chosen, above the pretender’s base dominion strength. Thus, a pretender who starts with dominion 3 would use 7 design points to increase to dominion 4, and 14 more to go to dominion 5. Every pretender starts with at least Dominion 1, and the maximum is 10, so you can only ever choose 9 new candles, and thus the table stops there.
-Scales
-Dominion scales are the representation of the effect that the belief in one’s pretender god affects not only the populace but the very fabric of a province. When creating a pretender, you choose the way in which your religious belief changes the cosmic forces in provinces where your dominion holds sway.
-Each scale has a favorable side and an unfavorable side. For example, Growth is the favorable side of the Growth/Death scale. You can guess which side Death is. For each tip of the scale, bonuses or penalties accrue to the province under the sway of that dominion.
-You can gain extra points for pretender creation by choosing unfavorable scales. Scales tip both ways, which is why they’re called scales.
-● Each left-click of a scale costs 40 points.
-● Each right-click of a scale gains you 40 points.
-Exception: Each click of the Heat/Cold scale (either way) away from a race's preferred scale gains you 40 points per click, but only for the first 3 clicks.
-Scales can be tipped a maximum of three to either side.
-
-From the tomes of the lore of Dominions
-The Arch Bishops of the Sacred Shroud are the highest ranking priests of the Awakening God. They wear holy replicas of the Sacred Shroud of the Prophet. This sacred piece of cloth gives them unsurpassed healing abilities. They have all but replaced the old Pontifices as religious magistrates of the Empire.
-     Example: Machaka is a race that prefers Heat 2 scales. When you start building a pretender for Machaka, the Dominion screen will automatically start at Heat 2. Each click of the scales (either way) will gain you points as you move to an unfavorable dominion scale. Either Heat 1 or Heat 3 will gain 40 points for Machaka, at the expense of decreasing tax revenues and supply (see table below). Some abilities like Ice Protection are dependent on Heat/Cold scales as well
-Dominion scales
-      Symbol
-  Scale
-    Effect
-    Order
-   Increases income by 2%. Recruitment +10%. Unrest reduction +1. 2% fewer random events.
-    Turmoil
-   Decreases income by 4%. Unrest reduction -1. 2% more random events.
-    Productivity
-   Increases resource production by 2% and income by 3%.
-      Sloth
- Decreases resource production by 2% and income by 2%.
-     Heat/Cold
-   Each step of heat/cold level away from a race's ideal level ...
-      decreases tax revenues by 5%.
-      decreases supplies by 10%.
-      In addition, Heat scales decreases province income by 5% per scale.
-    Growth
-   Increases population growth by 0.2% per month.
-      Increases supplies by 15%.
-      Increases income by 4%.
-      Death
- Decreases population growth by 0.2% per month.
-      Decreases supplies by 15%.
-      Decreases income by 3%
-    Fortune
-   5% more random events. Chance of a random event being good increased by 15%.
-      Misfortune
- 5% fewer random events. Chance of a random event being good decreased by 15%.
-    Magic
-   Makes spells harder to resist (-0.5 MR per scale rounded down, to all units in a province).
-      All spellcasting generates 10% less fatigue per scale.
-      Gives all friendly mages +1 research points per scale.
-      +50 points of starting research per scale.*
-    Drain
-   Makes spells easier to resist (+0.5 MR per scale rounded down, to all units in a province).
-      All spellcasting generates 10% more fatigue per scale.
-      Gives all mages -1 research points per scale.
-      -50 points of starting research per scale.*
-       *Note: default starting research at neutral scales is 150 points.
-                          The bonus/penalty listed above is per click. So clicking twice in the direction of Order gives you Order 2, and increases your income by a total of 4% while decreasing random events by 4%. Like in the magic screen, the scales screen displays the cumulative effect of your choices.
-     Example: The Carrion Dragon from the above example begins with dominion 1. Because the dragon costs 50 points for his physical form, and you spent 192 points on magic, that leaves you with 183 points for dominion and scales selection. Increasing dominion to 6 costs 105 points, leaving you with 78 points for scales. Because changing your scales costs 40 points for each click, you can only change one scale, and by only one click. You can gain more points for pretender design through The Awakening (see below), or reassign some of the points you used for magic or dominion to give yourself enough points for scales.
-               Some nations (see Nations list) prefer certain heat or cold settings. They suffer penalties when outside of their preferred environment, just like nations without a preferred temperature setting suffer penalties when the environment has heat/cold scales other than zero. In the past, these nations still extra points for tipping the scales one way or the other. Now, they only get extra points for tipping them away from their preferred scale setting.
-The scales in a province under your dominion will likely not initially exactly correspond to the scales you’ve chosen. This is because the dominion scales in a province change more slowly than the level of dominion. It may take several turns of strong dominion over a province to tip the scales to the settings
-you chose at the outset. If you have low dominion over a province, your scales will likely never ramp up to full value. The exact mechanics can be found in the Dominion section.
-Pretender hit points The hit points of pretenders (and prophets) are affected by the current dominion in their province. Pretenders and prophets in friendly dominion will have increased hit points, while in enemy dominion their hit points will be reduced. The greater the dominion, the greater the effect. They also get increased strength and magic resistance.
-For each level of friendly dominion in a province a prophet and/or pretender gains ● +1 strength,
-● +1⁄2 magic resistance point
-● +10% hit points
-For every level of enemy dominion in a province, a prophet and/or pretender loses ● –1 strength
-● –1⁄2 magic resistance point
-● –10% hit points
-Hit points cannot be reduced to zero.
-The Awakening
-This determines the time needed to pass before the pretender is actually summoned to this world. If you start the game with your pretender, your initial points for pretender construction are 350 (minus the cost of the physical form of your god). To have your pretender appear one year (10-13 turns) into the game (Dormant) gives you a 150-point bonus. If you wait three years (28-42 turns) you get an extra 350 points (Imprisoned). Note that while one turn is a month, and thus 12 turns equals one year, the time to the Awakening is not precise, and you may wait a little longer than (or not as long as) other nations in the same game.
-One you have assigned a Physical Form, Magic skills, Dominion strength and Scales, and Awakening to your pretender, you can give your pretender a name. If you leave the name blank the game will choose an appropriate name for a pretender of that nation based on the long history of the world of Dominions.
-Disciples will awaken in half the time of their pretender.
-Pretender death
-A pretender loses either one skill level in one path of magic or one point of dominion strength for each death suffered (unlike the global “one loss in each path” of previous Dominions games.) This does not affect bless effects, which remain what they were at the beginning of the game. The chance of losing magic is 50% + 10% per level of Nature magic that the pretender had when he died. If the pretender has no magic skills, it will always lose one point of dominion strength.
-The magic skill most likely to be lost will be Nature, and the least likely to be lost is Death. In fact, there is even a small chance of gaining knowledge in Death magic when dying. There is an even smaller chance of gaining skill in Astral or Blood magic after death as well. The lessons of the Underworld are unpredictable.
-No pretender can go below a dominion strength of 1, no matter how many times he/she/it dies.
-Call God
-If a pretender dies, he or she can be brought back by his nation’s priests. Each priest level assigned to the Call God order in a turn generates 1 point. Once a nation has accumulated around 50 points, the pretender returns to his or her home province. The total is not exactly 50 in order to add some uncertainty to the exact reappearance.
-Dominion immortal pretenders who die in a friendly dominion re-appear in their home after the reformation period, and do not suffer the magic skill or dominion strength loss. A dominion immortal pretender who dies outside a friendly dominion is subject to all the above rules. An immortal pretender does not lose any dominion or magic paths on death no matter where it dies. The nation of Ur in the Early Age has a special property which allows their god to be called back from the dead without losing any magic levels, whether immortal or not.
-
-From the tomes of the lore of Dominions
-Ermor was once a great empire that had conquered much of the known world. The realm crumbled as the great mages of the Empire studied dark magic under the Sauromancers of C’tis. Unaware of the dangers of dark sorcery, priests performed unholy rites in the capital city of Eldregate. But there were voices who demanded that the foul practices stop. Theurgs and Thaumaturgs foresaw the cataclysm and advised generals, governors, and consuls to revolt. When the Apostate Emperor marched on Ermor itself, the Augurs and Bishops of the Empire were forced to act in concert. In one cataclysmic event, Death was let loose and the empire was shattered. The Cataclysm attracted attention from an earlier God, a dark and hungry God. The vast power of this Awakening God erased the boundaries between the land of the living and the land of the dead. Ermor is now a cursed land of ashes and darkness where nothing grows. The bones of long-dead inhabitants reassemble to form legions of undead under the leadership of the cursed priests of the old Ermorian faith. Undead legions march forth to conquer a world once theirs. The Ermorian Dominion reanimates the dead without the aid of unholy priests. It also destroys the land, turning crops and forests into ashes, and people and livestock into bones. The Pretender God of Ermor will also be able to sense where any corpses are in provinces under his Dominion.
-     Example: The pretender of Vanarus has died. Because he had Nature 3 when he died, he has an 80% chance of losing one skill level in one magic path (not necessarily Nature) and if he does not, he will lose one point of dominion strength. On the following turn, Vanarus assigns three level 1 priests and a level 2 priest to Call God. If no other priests are assigned to this, it will take about ten turns for the pretender of Vanarus to return.
+# 伪神THE PRETENDER
+
+神域5是关于伪神之间互相征伐最终胜者登神的游戏，而伪神就是一个国家灵魂的具象化体现。登神之路不止一条，你可以自由设计伪神来领导你的国家。伪神决定了你的省份神域dominion上限，神域的传播速度，领地天平的特色，以及神圣单位的祝福效果。伪神也具有科研和施法的能力，还可以铸造魔法物品及参加战斗。任何神域游戏中伪神都是最重要的一环。
+
+
+
+关于伪神的几个重点：
+
+* 伪神是一个指挥官单位，可在战略地图和战场上移动
+* 伪神选择的魔法影响它可以施放的法术
+* 魔法还会影响国家祝福单位受到的祝福效果
+* 受本方神域(Dominion)影响的省份，将逐渐趋向于所选的神域天平特性
+* 神域强度的选择将影响神域的传播速度
+* 当伪神死亡，可以通过本方牧师通过Call God （唤神）命令复活，这将消耗一定的时间。伪神还会失去一些魔法技能或一点神域值。
+
+
+
+## 创造伪神CREATING A PRETENDER
+
+除了选择国家，创造伪神是神域5中最重要部分。
+
+每个国家起始425点用于创造伪神。这些点数可以用在以下三部分：物理形态，魔法，神域。第四项苏醒状态，你可以选择让伪神晚一些登场来换取更多的创造点数。
+
+
+
+## 物理形态Physical form
+
+伪神必须要有一个物理形态，像是泰坦titan或大乌贼giant squid。哪些物理形态可以选择取决于你选择的国家，不同国家可选的形态数量不同，因为有些伪神没有在该国历史上出现过。
+
+每个伪神有一系列不同的属性，可以在选择界面右键查看。有些是巨人，有些是飞行女神，还有些是只能生活在水下的奇怪触手。另外一些长得就像人类一样，只不过是三个头还能放法术。他们都有像普通单位一样的属性，至于一些特别的属性将在后文详细介绍。这些都是物理形态所固有的属性，不能单独赋予或购买。
+
+伪神因物理形态不同而需要不同的基础点数。例如，基于北欧奥丁的众神之父，价值100分。如果选择他，则还剩325点可用在魔法和神域设计。
+
+**不朽伪神 Immortal Pretenders** 有些伪神（吸血鬼女王Vampire Queen，各种形态的巫妖liches，凤凰Phoenix等）是不朽的。在神域5中，有两种不朽机制：不朽和神域不朽。神域不朽（例如凤凰Phoenix），当伪神在己方神域影响的省份死亡，则他/她直接在该国的故乡出现。如果伪神在没有己方神域影响的省份死亡，则像其他非不朽伪神一样，需要唤神才能复活。不朽（例如巫妖Lich)），伪神是完全不朽的，在神域影响范围外死亡也可以复活。重组伪神身体（包括不朽和神域不朽）或需要一些时间，一般是三个月，但也受怪物类型影响。如果伪神灵魂灭亡，则需要额外三个月复活。重组身体通常可以治愈大部分战伤。不朽并不会自动疗伤。
+
+**静止伪神Immobile Pretenders** 有些伪神（巨石柱Monolith，血泉Fountain of Blood等）无法移动。他们天生没有移动属性，但可以通过法术（传送Teleport，wind ride）传送。如何设计静止伪神是一个挑战，但他们也有一些先天优势，大多数静止伪神物理形态基础点数较低。有些静止伪神（纪念碑Monument）即使传送也无法移动。
+
+**龙伪神Dragon Pretenders** 当玩家选择龙作为伪神时，出现的却是一名巫师，当然这并不是bug。多项研究表明龙伪神只有受到伤害时才会变为龙形态。除非通过变形change shape命令或在战斗中受到伤害，否则伪神以巫师形态呈现于世。另一个原因是用手施法比用龙爪更容易。
+
+## 法术Magic##
+
+有些伪神天生具备魔法path，显示在物理形态的界面中。例如大地之母起始具备自然2和地1，但有些伪神没有初始魔法path。无论是否起始具备，都可以在魔法界面额外购买，费用如下：
+
+
+
+| 选择Path |  1级  |  2级  | 3级   | 4级   | 5级   | 6级   | 7级   | 8级   | 9级   | 10级  |
+| ------ | :--: | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 费用     |  8   |  16  | 24   | 32   | 40   | 48   | 56   | 64   | 72   | 80   |
+
+   
+
+这些费用是累计的，所以魔法path从0级增加到6级需要168分（或更多，见下*）。
+
+*注意这是累加到所选path的技能等级，而不是总等级* 。例如，大地之母起始自然2级，你想增加到3级，只需要花费8点，因为这是该path增加的第一级。因此，伪神起始即具备一些path将省下很多点数，当然这也已经算在了物理形态的点数里。
+
+*如果新path从0级开始，则需要花费伪神的“new path cost"新path费用。
+
+| 例如：腐尸龙Carrion Dragon起始具备死亡1和自然1，你决定将死亡加到4，自然到4，火焰到2。则需要在死亡花费48分，自然花费48分（目前共计96分），以及火焰2级。因为腐尸龙没有初始火焰等级，选择火焰是新path，需要花费属性界面上所列的80分。将火焰加到2级需要16分。所以这些魔法选择共计需要192分。学习魔法的点数可能非常昂贵。 |
+| ---------------------------------------- |
+|                                          |
+
+
+
+## 祝福效果Bless Effects##
+
+每个国家都有一定数量的神圣单位，大部分都只能从首都招募，因为那里才有允许招募的魔法遗迹。神圣单位是各国特有的，如果其他国家占领了该省和魔法遗迹，也不能招募他们。
+
+神圣单位主要特点就是可以被祝福。祝福是一个1级神术，所有牧师都可施放，且只可在战场施放。收祝福的单位有以下优势：
+
+- 士气+1
+- 国家伪神选择的祝福效果
+- 被国家或门徒国家宣称的升神王座所提供的祝福效果
+
+伪神在某个魔法path到达4级后就可以选择相对应的祝福效果。特殊规则，当四个元素路系或四个巫术路系均达到3级或者更高，也可以获得相应的祝福点。*与之前版本的神域游戏不同，现在是从伪神创造列表中选择祝福效果*。
+
+一般来说，当一个path到达4级后，每一点path则增加一点祝福点数。例如一个空气2，死亡4，自然6的伪神，共有4点死亡和6点自然祝福点数。部分国家或伪神具有额外的祝福点数加成。例如Marignon，Conquerors of the Sea有额外+1火焰，+1星空，+1血祝福点数，当然需要相应path到达4级以后。
+
+| 点数1  | 点数2     | 祝福名称                              | 祝福效果                                     | 醒神有效 |
+| ---- | ------- | --------------------------------- | ---------------------------------------- | ---- |
+| 火系   |         |                                   |                                          |      |
+| 火1   |         | 提高士气 (Superior Morale)            | 士气+1                                     |      |
+| 火2   |         | 小火抗 (Minor Fire Resistance)       | 火抗 +5                                    |      |
+| 火3   |         | 大火抗 (Major Fire Resistance)       | 火抗 +10                                   |      |
+| 火1   | **死1**  | 荒地生存 (Wasteland Survival)         | 大地图移动中荒地地形的半消耗(half cost)-2，即进出-4移动力消耗。在荒地中给养消耗减少。 |      |
+| 火3   |         | 攻击技巧(Attack Skill)                | 攻击 +2                                    |      |
+| 火4   |         | 激励部下 (Inspirational Presence)     | 神圣指挥官提高部下士气+1，获得+30领导力，                  |      |
+| 火5   |         | 死后爆炸 (Death Explosion)            | 死亡时发生范围5，10点AP伤害的火系攻击，不提高单位火抗            | Y    |
+| 火6   |         | 炎热光环 (Heat Aura)                  | 造成范围3，5点AN的疲劳伤害。神圣单位同时获得5点火抗。在炎热神域中会变强。  | Y    |
+| 火7   |         | 火焰盾牌 (Fire Shield)                | 敌方近战击中神圣单位时受到6点火系伤害，受武器长度影响减弱            | Y    |
+| 火7   |         | 火焰武器 (Flaming Weapons)            | 武器附加6点火系AP伤害，武器本身的伤害不变                   | Y    |
+| 火8   |         | 敬畏 (Awe)                          | 获得1点敬畏，近战敌方需要通过10+1点的士气判定                | Y    |
+| 气系   |         |                                   |                                          |      |
+| 气1   |         | 小电抗 (Minors Shock Resistance)     | 电抗+5                                     |      |
+| 气1   |         | 精准 (Precision)                    | 精准+1                                     |      |
+| 气2   |         | 远射 (Farshot)                      | 射程+30%                                   |      |
+| 气2   |         | 战场迅捷 (Swiftness)                  | 战场移动+30%                                 |      |
+| 气3   |         | 大电抗 (Major Shock Resistance)      | 电抗+10                                    |      |
+| 气4   |         | 充电躯体 (Charged Body)               | 祝福单位被击中时产生10点AN的闪电伤害，对攻防双方同时起效。注意：一场战斗只起效一次 |      |
+| 气5   |         | 风行者 (Wind Walker)                 | 地图移动力+6                                  | Y    |
+| 气6   |         | 大气之盾 (Air Shield)                 | 80%的概率阻挡箭矢                               | Y    |
+| 气7   |         | 闪电武器 (Thunder Weapon)             | 武器附加1点AN闪电伤害和3点AN疲劳伤害。注意：所有闪电伤害都有概率使对方本回合无法行动 | Y    |
+| 水系   |         |                                   |                                          |      |
+| 水1   |         | 小冰抗 (Minor Cold Resistance)       | 冰抗+5                                     |      |
+| 水1   | **寒冷1** | 冬之祝福 (Winter’s Gift)              | 大地图移动不受雪地地形影响                            |      |
+| 水1   | **自然1** | 沼泽生存 (Swamp Survival)             | 大地图移动不受沼泽地形影响，沼泽战斗无额外疲劳。在沼泽中给养消耗减少。      |      |
+| 水2   |         | 涉水者 (Water Walking)               | 神圣单位可以渡过河流。                              |      |
+| 水3   |         | 大冰抗 (Minor Cold Resistance)       | 冰抗+10                                    |      |
+| 水3   |         | 防御技巧 (Defense Skill)              | 防御+2                                     |      |
+| 水5   | **寒冷1** | 冰霜武器 (Frost Weapon)               | 武器附加8点冰冻伤害                               | Y    |
+| 水6   |         | 寒冷光环 (Chill Aura)                 | 造成范围3，5点AN的疲劳伤害。神圣单位同时获得5点冰抗。在寒冷神域中会变强。  | Y    |
+| 水7   |         | 水下呼吸 (Water Breath)               | 神圣单位获得水下呼吸，可以跨越河流，进入海洋                   | Y    |
+| 水10  |         | 迅捷祝福 (Quickness)                  | Action Point (AP) x2，每回合攻击2次，攻防各+2       | Y    |
+| 土系   |         |                                   |                                          |      |
+| 土1   |         | 山地生存 (Mountain Survival)          | 大地图移动中山地(high land)地形的半消耗(half cost)-2，即进出-4移动力消耗。在山地中给养消耗减少。 |      |
+| 土2   |         | 回复精力 (Reinvigoration)             | 每回合恢复1点疲劳                                |      |
+| 土2   |         | 自动重构 (Reconstruction)             | 原本有“无法自动回复 (No Heal)“标签的神圣单位取消此属性，战后自动回满HP。但是还是无法得到回复生命(Regeneration)的效果 |      |
+| 土3   |         | 大地之力 (Strength of the Earth)      | 力量+2， 可以叠加                               |      |
+| 土4   |         | 金刚护体 (Unbreakable)                | 降低战伤概率75%                                |      |
+| 土5   |         | 火焰和闪电抗性 (Fire & Shock Resistance) | 火抗+10，电抗+10                              | Y    |
+| 土5   | **自然3** | 巨大化 (Larger)                      | +1体型，+30% 生命，+3 力量，-1 防御，+2 地图移动。如果体型从3增加到4，武器长度+1 | Y    |
+| 土6   |         | 硬化皮肤 (Hard Skin)                  | 获得5点额外身体护甲，护甲=身体护甲+防具护甲-身体护甲*防具护甲/40     | Y    |
+| 土7   |         | 坚韧 (Fortitude)                    | 获得钝击、穿刺、挥砍武器抗性，伤害经过抗性调整后向下取整             | Y    |
+| 星系   |         |                                   |                                          |      |
+| 星1   |         | 小魔抗 (Minor Magic Resistance)      | 魔抗+1                                     |      |
+| 星1   |         | 魔法领导力 (Arcane Command)            | 魔法生物领导力+10                               |      |
+| 星1   | **死1**  | 精神视觉 (Spirit Sight)               | 暗视 100%，能在巡逻中发现隐型（invisible）单位， 攻击他们不受到惩罚。在黑暗地形中巡逻不受黑暗影响。 |      |
+| 星2   |         | 魔法武器 (Magic Weapon)               | 祝福单位武器成为魔法武器                             |      |
+| 星3   |         | 大魔抗 (Major Magic Resistance)      | 魔抗+2                                     |      |
+| 星3   | **火1**  | 太阳武器 (Solar Weapons)              | 附加3 AP火焰伤害，对亡灵及恶魔火焰伤害x3，受到火抗的减免          |      |
+| 星4   |         | 远距离施法者 (Far caster)               | 战斗施法范围 +50%                              |      |
+| 星4   |         | 奥术精妙 (Arcane Finesse)             | 魔法穿透+1                                   |      |
+| 星6   |         | 扭转命运 (Twist Fate)                 | 祝福单位第一次被击中时取消击中效果                        | Y    |
+| 星7   | **枯竭1** | 编织命运 (Fateweaving)                | 近战攻击祝福单位者过MR12的诅咒，失败者在之后的5个战斗回合受到Misfortune。 | Y    |
+| 星8   | **魔法1** | 幸运 (Luck)                         | 祝福单位获得幸运(Luck)，遭受致命伤害时有75%概率取消伤害。        | Y    |
+| 星10  | **魔法3** | 虚体 (Etherealness)                 | 获得虚体，非魔法武器很难击中虚体单位                       | Y    |
+| 死系   |         |                                   |                                          |      |
+| 死1   |         | 不死 (Undying)                      | 祝福单位获得1点临时生命                             |      |
+| 死1   |         | 不死领导力 (Undead Command)            | 不死领导力+20                                 |      |
+| 死2   | **死亡2** | 半死不活 (Half Dead)                  | 祝福单位100%免疫疾病，无需食物供给                      |      |
+| 死4   |         | 凋零武器 (Withering Weapons)          | 击中后若MR检定失败则引发腐朽(Decay)                   |      |
+| 死5   |         | 冥河血肉 (Stygian Flesh)              | 被祝福单位得到刀枪不入（Invulnerability）10。 身体护甲最高加到10。对魔法武器无效 | Y    |
+| 死7   |         | 复苏者 (Reanimators)                 | 被祝福部队杀死的活物有50%几率转化为僵尸加入战斗                | Y    |
+| 死7   |         | 重塑血肉 (Reforming Flesh)            | 仅对亡灵生效的10%生命回复。                          | Y    |
+| 死8   |         | 死亡武器 (Death Weapons)              | 击中若MR检定失败造成2点AN伤害，另一个MR检定失败则感染疾病(Disease)。 | Y    |
+| 死9   |         | 恐惧 (Fear)                         | 被祝福单位获得恐惧，战场上受恐惧影响的敌方单位有可能逃跑             | Y    |
+| 自然系  |         |                                   |                                          |      |
+| 自然1  |         | 活力四射 (Resilient)                  | 祝福单位生命+1                                 |      |
+| 自然1  |         | 暗光视力 (Low Light Vision)           | 暗视+50%                                   |      |
+| 自然1  |         | 小毒抗 (Minor Poison Resistance)     | 毒抗+5                                     |      |
+| 自然2  |         | 大毒抗 (Major Poison Resistance)     | 毒抗+10                                    |      |
+| 自然2  |         | 森林生存 (Forest Survival)            | 大地图移动不受森林地形影响，在森林中给养消耗减少                 |      |
+| 自然3  | **魔法1** | 延缓衰老 (Unaging)                    | 将衰老速度降低为1/4，已经进入老年 (Old Age)的单位为老年。      |      |
+| 自然4  | **死亡1** | 淬毒武器 (Poison Weapons)             | 造成伤害后附加5点毒伤。                             |      |
+| 自然5  |         | 战伤恢复 (Recuperation)               | 每回合一定概率祛除战伤(Affiliation)。~~对穿圣者袍的泰坦无效。~~实测对泰坦有效。 |      |
+| 自然5  |         | 狂战士 (Berserker)                   | 祝福单位得到狂战士+2,受到伤害后狂暴，士气99永不撤退，+2力量、攻击、护甲，-2防御 | Y    |
+| 自然6  |         | 树皮术 (Barkskin)                    | 身体护甲+10，如果本身身体护甲已经在10以上，则只+1。火焰抗性-5      | Y    |
+| 自然7  |         | 再生 (Regeneration)                 | 每回合生命回复10%，降低战伤概率。                       | Y    |
+| 血系   |         |                                   |                                          |      |
+| 血1   |         | 生命力强 (Strong Vitae)               | 祝福单位生命+1                                 |      |
+| 血3   |         | 增强力量 (Strength)                   | 力量+2                                     |      |
+| 血4   |         | 血潮汹涌 (Blood Surge)                | 杀死非无生命体后的数回合内，得到+3攻击值，+3力量，+1防御值，+1精力恢复。 |      |
+| 血5   |         | 血之纽带 (Blood Bond)                 | 受到的50%伤害分摊给周围的被祝福部队(范围5)                 | Y    |
+| 血6   |         | 不洁武器 (Unholy Weapons)             | 仅对神圣单位生效，击中10AP伤害，对弓箭也有效。                | Y    |
+| 血8   |         | 血之复仇 (Blood Vengeance)            | 受到伤害后，将所受伤害等量反弹给施加伤害的敌人，反弹伤害要过mr检定       | Y    |
+
+“incarnate only” 醒神有效，意味着只有当伪神苏醒且存活时才能发挥功效。**粗体** 标注是需要相应的神域天平，而不是魔法path。
+
+在创建伪神时，魔法界面将列出所选path生效的所有祝福效果。+1士气效果并未显示，因为这是所有伪神的通用祝福效果。
+
+伪神还会获得间接魔法增益（见魔法章节）。伪神不是神圣单位，不能被祝福，但当伪神在己方神域内时，可以自动获得祝福效果。门徒伪神相当于先知，可以获得祝福效果。
+
+| 例如：你的伪神是Neter of the sun，起始有火焰2和星空1.你决定将魔法path增加到火焰4和星空4.你的国家是Machaka，因此没有额外祝福点数，共有4点火焰和4点星空祝福点数用于选择祝福效果。你的对手的Ermor，所以你选择solar weapon，需要3点星空和1点火焰，这样还剩1点星空和3点火焰。你花费3点火焰用于attack skill，1点星空用于arcane command。你的祝福单位将会获得所有三个祝福效果，以及通用的祝福效果+1士气。 |
+| ---------------------------------------- |
+|                                          |
+
+## 神域Dominion
+
+这里将介绍两个神域内容：神域最大值和神域天平。要了解更多关于神域传播的内容，详见神域章节。
+
+| 神域蜡烛 |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |
+| ---- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 费用   |  7   |  14  |  21  |  28  |  35  |  42  |  49  |  56  |  63  |
+
+增加神域力量的费用是*每个额外蜡烛*的费用，基于伪神初始的神域力量等级。因此，其实神域为3的伪神需要花费7点增加到4，14点再增加到5。伪神起始神域至少为1，上限为10，所以至多增加9级神域。
+
+## 神域天平Scales
+
+神域天平体现了伪神治下各个省份的简要基本秩序。创建伪神时，你的选择决定了信徒们对省份环境的影响力量。
+
+每个天平都有积极和消极效果。例如：生长是生长/死亡天平的积极效果，死亡则是消极效果。每次点击天平，增益或减益效果将会随着神域传播而增长。
+
+*选择消极天平可以在创建伪神时获得额外点数* 
+
+- 每次左键点击天平花费40点 
+- 每次右键点击天平获得40点
+
+例外：天平酷热/严寒每次偏离种族偏好天平可以获得40点，但上限获得120点。
+
+| 例如：Machaka偏好酷热2天平，当你创建伪神时，神域界面自动设置为酷热2。每次点击天平（无论左键右键）都视为消极效果，将获得额外点数。酷热1和酷热3会获得40点数，同时减少税收和supply（见下表）有些技能如Ice Protection也受酷热/严寒天平影响。 |
+| ---------------------------------------- |
+|                                          |
+
+
+
+|  图标  | 天平    | 效果                                  |
+| :--: | :---- | ----------------------------------- |
+|      | 秩序    | 增加收入2%；招募点+10%；动乱镇压+1；减少2%随机事件      |
+|      | 混乱    | 减少收入4%；动乱镇压-1；增加2%随机事件              |
+|      | 勤劳    | 增加资源产量2%，增加收入3%                     |
+|      | 懒惰    | 减少资源产量2%，减少收入2%                     |
+|      | 酷热/寒冷 | 每偏离种族喜好温度1级                         |
+|      |       | 减少税收5%；减少物资10%                      |
+|      |       | 另外酷热天平每级减少省份收入5%                    |
+|      | 生长    | 每月增加人口成长0.2%；增加物资15%；增加收入4%         |
+|      | 死亡    | 每月减少人口成长0.2%；减少物资15%；减少收入4%         |
+|      | 幸运    | 增加5%随机事件，发生有利事件的概率增加15%             |
+|      | 灾祸    | 减少5%随机事件，发生有利事件的概率减少15%             |
+|      | 魔力    | 法术更难抵抗（每级-0.5魔法抗性MR，向下取整，影响省份内所有单位） |
+|      |       | 每级天平施法疲劳减少10%                       |
+|      |       | 每级所有己方法师研究点数+1                      |
+|      |       | 每级+50初始研究点数*                        |
+|      | 枯竭    | 法术更易抵抗（每级+0.5魔法抗性MR，向下取整，影响省份内所有单位） |
+|      |       | 每级天平施法疲劳增加10%                       |
+|      |       | 每级所有己方法师研究点数-1                      |
+|      |       | 每级-50初始研究点数*                        |
+|      |       | *默认起始研究点数为150点                      |
+
+以上增益/减益是每次点击的效果，所以点击秩序2次，可以获得收入增加4%，减少随机事件4%等。与魔法界面类似，天平界面显示的是所有效果的累加结果。
+
+| 例如：上例中的腐尸龙Carrion Dragon起始神域为1，物理形态50点，你已经花费了192点在魔法上，剩余183点用于选择神域和天平。增加神域到6消耗105点，剩余78点用于天平。因为每次点击需要花费40点，所剩点数仅够点击1次。你可以通过让伪神沉睡（见下文）来获得更多点数，或着重新分配下魔法和神域。 |
+| ---------------------------------------- |
+|                                          |
+
+部分国家（见国家列表）偏好酷热或严寒。当他们离开偏好环境时将会遭受减益，同样没有偏好温度的国家到了酷热/严寒环境也会遭受减益。（后面的是废话）
+
+在你神域影响下的省份并不是立刻附和所选天平的效果，因为神域天平对省份的影响比神域蜡烛慢得多。可能需要多个回合并在强大神域力量的影响下才能达到天平效果。如果某个省份你的神域力量较弱，可能永远不会增强到天平最大效果。详细的作用机制见神域章节。
+
+**伪神生命值Pretender hit points**  伪神和先知的生命值受到其所在省份神域力量的影响。伪神和先知在己方神域将增加生命值，在敌方神域将减少生命值。神域力量越强，效果越明显。同时还会获得额外的力量和魔法抗性加成。
+
+伪神或/和先知所在省份每有1级己方神域将获得
+
+- +1力量
+- +0.5魔抗
+- +10%生命值
+
+伪神或/和先知所在省份每有1级敌方神域将导致
+
+- -1力量
+- -0.5魔抗
+- -10%生命值
+
+生命值无法通过神域减少到0
+
+## 苏醒The Awakening
+
+这里确定了伪神需要沉睡多久才能被召唤到现实世界中。如果设置伪神为苏醒，则初始创建点数为425点（减去伪神物理形态所需点数*？这句什么意思？* ），让伪神晚一年（10-13回合）出现（沉睡Dormant）将额外获得150点，如果让伪神晚三年（28-42回合）出现（Imprisoned囚禁），将额外获得350点。注意，1回合是一个月，12回合即为一年。伪神苏醒所需时间并不确定，同一局游戏中各国也许各有先后。
+
+当确定伪神的物理形态、魔法技能、神域强度和神域天平，以及苏醒状态后，还可以给伪神取个名字。如果不手动取名，系统将参考历史为伪神选出一个合适的名字
+
+门徒神的沉睡时间是伪神所需时间的一半。
+
+## 伪神死亡Pretender death
+
+每次伪神死亡，要么一个魔法path减少1级，要么神域强度降低1级 （与前代神域游戏不同）。这不影响祝福效果，游戏开始时确定的祝福不变。魔法减少的概率为伪神死亡时50%+10%每自然魔法等级。如果伪神没有魔法技能，则必定降低神域强度1级。
+
+自然魔法减少概率最高，死亡魔法减少概率最低。事实上，伪神死亡时有微小的概率获得死亡魔法，甚至还有极小的概率获得星空或鲜血魔法。死亡世界总是令人难以捉摸的。
+
+无论伪神死亡多少次，神域强度最低只能减少到1级。
+
+## 唤神Call God
+
+如果伪神死亡，可以通过本国牧师将其唤回。每个回合，每用于唤神（Call God）指令的牧师等级算作1点，当累计50点后，伪神将从故乡唤回。为了多增加一点不确定性，唤回点数并不是精确的50点。
+
+表格
+
+| 例如：Vanarus的伪神死亡，因为他在死亡时有自然3级，因此有80%的概率减少1级魔法path（不一定是自然），如果没有减少魔法path，则神域强度降低1级。下一回合，Vanarus命令三名1级牧师和一名2级牧师执行唤神指令。如果没有更多的牧师执行，大概需要10回合唤回伪神。 |
+| ---------------------------------------- |
+|                                          |
+
+
+
+神域不朽的伪神在己方神域死亡时，将在重构阶段后重新出现在首都，而且不会失去魔法技能或神域强度。神域不朽的伪神在己方神域外死亡时，则要遭受上述惩罚。不朽伪神无论在哪死亡，都不会失去魔法技能或神域强度。Early Age的Ur国具备一种特殊能力，不论他们的伪神是否是不朽，在唤回后都不会失去魔法技能。
+
+
+
