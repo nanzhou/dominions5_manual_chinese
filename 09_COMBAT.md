@@ -1,250 +1,542 @@
-Combat is what happens when two discovered enemy forces occupy the same location on the map. If one force or both forces are undiscovered, no combat will occur. Thus, a stealthy force may move right through an enemy and not trigger combat. Thus, both forces are not discovered. Two forces which are both discovered may occupy the same province, but one might be in a fortress which has not yet been breached. In this case, the forces are in different locations (one in the fort, the other besieging in the province). When one army is in a fort and one army besieging, the province is owned by the besieging player and the fort is owned by the besieged. This situation is known as partial ownership of the province. When the same player owns both fort and province, the situation is known as full ownership. Full and partial ownership of a province have certain effects in-game (e.g. some events cannot happen in a partially owned province because they require full ownership as a precondition to happening).
-Once combat occurs, units move according to their tactical movement allowance on a grid placed over the map. You can toggle this grid by hitting the [g] key or the [w] key.
-Players can find battles overwhelming. This is easy to do if you try to follow every swing of every weapon. It's not necessary.
-It is important to understand that battles in Dominions are not fought to the death. They are fought until one side loses its nerve and routs. As will be explained in the section to follow, routing is based on losses and morale. This allows small units of elite troops to hold off masses of undisciplined barbarians.
-Here are some basic points to understand about combat. Details will be discussed later on in this section.
-● Units are deployed on the battlefield corresponding to the Army Setup screen under Position squads. ● The attacker is on the left, the defender on the right.
-● Units move across the battlefield in accordance with the instructions in <set battle orders>
-● When units move adjacent to an enemy, they halt due to a "zone of control"
-● Once units are adjacent, they attack each other every turn.
-● The chance of scoring a hit in melee depends on the difference between attack and defense values
-● The chance of scoring a hit with missile weapons depends on the number of units in square the missile hits, and how good the target's shield is (if it has one).
-● The chance of doing damage after scoring a hit depends on the attacker's strength and weapon damage versus the defender's protection.
-● Magic in combat works a lot like missile weapons [see x]
-● Morale is calculated for each squad. A squad takes a morale check when it suffers enough casualties. ● A squad routs when it fails a morale check.
-● Battles are fought until one side routs off the map: the other side is said to have won the battle
-● Troops will rout when all of their commanders have been killed or routed.
-The entire army will rout when their side loses 75% of its total hit points
-So if you kill or rout all of an army's commanders, the whole army will rout. It does not matter how big it is. The biggest army in the universe (of Dominions) will rout if it is led by a single commander, and he is killed or routed.
-(For this reason, there is no "attack commanders" order. You will have to figure out how best to do this yourself!)
-Battles View
-When you get a report on a battle, you can click on the message “There was a battle in <province name>”. This gives you the battle summary with the casualty lists. Clicking the “View battle” text will take you into the battle replay.
-The battles in Dominions are actually very detailed tactical resolutions fought at the level of the individual fighters, mages, and priests. Each unit has its own equipment and abilities. They move and fight according to these parameters, according to the battle sequence. When you watch the battle replay, you can see what happened with various degrees of detail. There is a box in the upper left which describes the action. You can change the level of detail in this box by hitting the number keys: [1] for least detail, [2] for more detail, and [3] for most detail.
-Other useful keys when viewing battles are:
-[Arrow] for scrolling around the map
-[PageUp] [PageDown] for adjusting the camera height
-[Space] for pausing the action
-[c] for toggling colored squares for the teams
-[g] for toggling grid
-[w] for toggling the wire frame grid (battelfield graphics disappear from view)
-[q] to quit out of the battle replay
-[f] speed up battle replay to fast speed
-[t] speed up battle replay to fastest speed
-[s] switch battle replay back to normal speed
-[v] while viewing a unit, this key will show its combat log
-[z] slow motion replay (useful when using greatest amount of detail to see what happens and when) [F1] Obtain a list of all the units
-[?] for viewing the available hotkeys
-[1][2][3] adjusts the level of detail in the battle log (upper left text box describing the battle action) [+][-] scroll the battle log
-Note: There have been reports of incorrect battle replays, which is the result of a battle inconsistency bug, which causes the replay to become corrupt. This can lead to minor discrepancies in result or in outright incorrect victory. It is a very rare bug but is known.
-Battle sequence
-When combat is started, the attacker is placed on the left side of the screen and the defender on the right. All units are placed on the battlefield according to their setup. They will then proceed to follow whatever orders they have been given (attack, cast spells) until they rout or the battle ends.
+ {#sec:}
 
-ARMY SETUP
-Units in Dominions 5 are placed into squads, which are under the leadership of a commander. A single commander can lead up to five squads.
-The total number of units a commander can lead is designated by the Leadership rating found in the unit abilities. Clicking on this rating gives further details of the commander's leadership limits, such as how many magical being or undead may be led. This is important, as not all commanders have the skill to give orders to magic monsters. And undead and demons don't take orders from just anybody either.
-Squad limits related to leadership values
-Leadership 10: automatic -1 to morale for a single squad. An additional -1 to all squads for every squad beyond the first (so five squads = -1 base penalty and -4 for four extra squads = -5)
-Leadership 40: No morale penalty if leading one or two squads. -1 penalty for every additonal sq. Leadership 80: +1 morale for all squads if three or fewer. -1 penalty to morale for every squad above three
-Leadership 120: +2 morale for up to 4 squads, -1 penalty to all if fifth squad added Leadership 160: +3 morale for all five squads
-The morale effects of leadership rating are based on the base leadership rating of the commander. Commanders gain more leadership with experience, so a highly experienced commander with a base leadership of 40 might be able to lead up to 85 units or more, but the morale bonuses still stay the same.
-Other effects on morale:
-Mixing undisciplined units with normal makes entire squad undisciplined and hits them with -1 morale Mixing undead with living gets a morale penalty of -1
-Mixing demons with normal units gets a morale penalty of -1
-Each unit is placed on the map in a grid square. A single grid square can hold a total of six size points of units. For human-sized units (size 2), this means three units can fit in a grid square.
-Unassigned units (those in the garrison box at the top of the Army Setup screen) are formed into one large squad. They begin at the center of their side's army.
-
-From the tomes of the lore of Dominions
-Bandar Log is a very hierarchical society. Markatas are the smallest of the monkey people and their intellect is barely above that of simple beasts. Markatas are small, noisy, and annoying, especially when met in large numbers. If alone, they can be used as scouts, but when in greater nunbers, they quickly become bored and start to make noise and play with each other. They are generally despised by the larger monkeys and apes. They are sometimes given small bows. This pleases them no end, but they still are not very useful soldiers.
+当两支显形的军队同时到达地图上的同一个*地点*时，战斗就爆发了。如果至少一支部队是隐形的，战斗就不会发生。所以一支隐形的军队可以穿过敌方的省而不触发战斗。围城战时，如果城堡没有攻破，两支军队在同一个省，但是一支在城堡内，一支在城堡外，所以两支军队并不在同一个*地点*。当一支军队在城堡内，一支军队在城堡外时，城堡所在省份是属于攻城方的，而城堡属于被围方，这种情况被称为部分占领该省份。当同一玩家同时拥有城堡和省份时，被称为完全占领该省份。这两种不同的情况在游戏中有一些效果，比如一些事件不会发生在部分占领的省份，因为这些事件需要完全占领省份作为前提条件。
 
-FORMATIONS
-Formations are the patterns used to deploy units of a squad onto the map. There are five types of formations.
-Types of formations
-Box
-A box formation deploys your units in as close to a square as possible. The 36 Infantry of Ulm (size 2) shown above are deployed in a box with four squares frontage and three squares deep, yielding 12 squares of three units each.
-Line
-A line formation deploys your units in a straight line facing the enemy.
-Double line
-A double line is the same as a line except half the units are placed in a rank immediately behind the first line.
-Sparse line
-A sparse line formation is identical to a line, except that an empty square is inserted between each square of units. This doubles the length of the line. It carries a -1 penalty to the squad's morale.
-Skirmish
-Skirmish formation forms a box-like checkerboard formation which separates each square of units from its neighbors with an empty square in four directions, as above. It has a -1 penalty to morale.
-Undisciplined squads automatically use the skirmish formation and cannot use any other. Adding an undisciplined unit to a squad makes the whole squad undisciplined.
-The ability Formation Fighter allows you to fit more units in a square.
-Battlefield movement
-Each unit in combat has combat speed. A move of one square on the battlefield costs roughly one point of combat speed, unless it is diagonal in which case it costs 50% more.
-When units move adjacent to an enemy, they become locked in a “zone of control” which remains as long as the enemy persists.
-Each unit moves individually, and has a cooldown at the end of each action. After a unit moves one step or strikes, it must cool down a while before it can perform its next action. A long cooldown is one round (after a strike) and a short cooldown comes after a move. There is some small amount of randomness to this cooldown value, but when moving it is mostly determined by the unit’s combat move, so faster units will wait a shorter time before taking the next action. If two units are adjacent, the unit that finishes its cooldown first will get to strike next.
-MELEE COMBAT
-Melee combat is the act of one combatant (soldier, priest, monster, or divine being) physically striking another combatant in some way. At its heart, it is very simple.
-The attacker makes an attack roll. The defender makes a defense roll. These are compared. If the attack roll (with modifiers) is greater than the defense roll, it hits. If not, it misses.
-The attack and defense rolls are modified by a random number (which is added) and a fatigue penalty (which is subtracted).
-Attack roll: attacker's Attack attribute + DRN - Fatigue penalty Defense roll: defender's Defense value + DRN - Fatigue penalty
-Once a hit is scored, a similar calculation is done to determine how much damage is done. This involves the attacker's damage roll minus the defender's protection roll.
-Damage roll: attacker's Strength attribute + weapon Damage attribute + DRN
-Protection roll: defender's Protection attribute + DRN (+ shield Protection if it is a "shield hit")
-If the defender has a shield, the hit is a shield hit unless the attack beats the combined value of the target's defense and the shield's Parry value plus the random roll. If a hit is scored as a shield hit, the shield's Protection is added to the defender's protection roll.
-Example: A Heavy Infantry unit has a broad sword, chain mail hauberk, half helmet and shield. It has a base defense of 10, gets a defense bonus of +1 from the sword, a defense penalty of -2 from the armor, and a defense penalty from the shield of -1. The shield's Parry value is 4. The actual defense is 10 +1 -2 -1 = 8. With the shield's Parry value, the unit's total defense is 12.
-The Heavy Infantry is attacked by a Vanjarl of Vanheim, which has attack 14. Neither unit has any fatigue yet. The Vanjarl rolls a 6, for a total attack value of 20. If the Heavy Infantry rolls a 7 or less, it is a clean hit and the shield offers no protection. If the Heavy Infantry rolls an 8 through 11, the Vanjarl scores a shield hit and the Heavy Infantry can use its shield's protection value in the damage calculation. If the Heavy Infantry rolls a 12 or higher, the Vanjarl misses entirely.
-The Protection value used is the target's listed Protection value, unless it is a head hit. In case of a headshot, the target's helmet Protection value is used instead of the main Protection value. However, if it is a shield hit, the shield Protection is still added. The blow is assumed to have glanced off the shield and hit the target in the head.
-If the damage roll is greater than the protection roll, the difference is subtracted from the target's hit points. If the protection roll is equal to or greater than the damage roll, there is no effect.
-Shield destruction
-Shield hits can damage or destroy the shield. A shield has a Resistance, which is the same as its shield protection value, +5 if the shield is a magic one. The attack has a Break value, which is equal to the damage of the attack before any Protection.
-If the Break value is >= 3x the Shield Resistance, the shield is damaged. If the Break value is >= 5x the Shield Resistance, the shield is broken.
-An already-damaged shield which is damaged again has a 25% chance of being broken.
-A damaged shield has -20% Protection, a broken shield has -50% Protection.
-A magic shield (a real, equipable one) that is damaged will repair itself after the battle. If a magic shield is broken, it will be permanently destroyed and the commander will revert to his or her standard shield if he or she had one. Damaged or broken mundane shields will be repaired when they are in a province with enough spare production resources.
-Hit locations
-Dominions 5 uses anatomical locations to determine where an adversary was struck. An attack has a 50% chance of striking the adversary in the torso, 20% chance to strike the arms, 20% chance to strike the legs, and 10% chance to strike the head. Certain hits can cause afflictions, such as losing a limb. If someone loses a limb, it will be the one which was hit. This can be an arm, leg, or head. Losing your head is usually instant death, but this is not always true, for example in the case of undead and certain kinds of regenerating monsters, or those with multiple heads. Other types of afflictions include losing an eye, which can only happen on a head hit.
-In order to score a hit on a certain part of the body, however, the attacker must be able to reach it. To score a head hit, attacker size + weapon length must be equal to target size. This requirement is one less to hit the torso and two less to hit the arms. Thus a human (size 2) wielding a mace (length 1) could hit a size-6 creature only in the legs!
-Weapon types
-Melee weapons in Dominions 5 come in three different types: slashing, piercing, and blunt. Each type has different effects when calculating damage. These are all calculated after the Damage vs. Protection calculation above, except for Piercing weapons which reduce Protection prior to the calculation.
-Blunt weapons do 50% more damage when scoring head hits after the Protection value is deducted. They score 25% more damage toward shield destruction.
-Slashing weapons do 25% more damage after Protection is deducted. They do 50% more damage toward shield destruction. If a slashing weapon scores a leg, arm, or head hit that costs a target greater than or equal to 50% of its hit points, that body part will be chopped off. If a head is chopped off, this will kill the target if it had a head that was required for it to stay alive. (For example, a hydra does not fit that description.) 
-Piercing weapons reduce Protection by 20% prior to any calculation. This is the same mechanic as the Armor-Piercing ability, except that Armor-Piercing reduces Protection by 50%.
-Two-handed weapons add 125% of Strength to damage.
-Underwater effects: slashing and blunt weapons have an attack penalty equal to weapon length underwater, while piercing weapons do not. If a weapon does both piercing damage as well as another type, the underwater penalty is halved. Flails have an additional penalty of -1.
-A weapon may be able to inflict more than one type of damage. If so, it has an equal chance of doing each type of damage, but will only do one of them during that attack. For example, the short sword does both slashing and piercing damage. It has a 50% chance of doing one of these. If it does not do piercing, it will do slashing, but never both.
-Note that these weapon types apply to all sorts of weapons, not just maces, swords, and spears. A spider's venomous fangs can do piercing damage, for example.
-In addition, weapons may have additional special effects, such as fire, cold, or magic.
-Damage is displayed in red numbers above the unit that suffered the damage. This can be very helpful in determining the effectiveness of your units and tactics.
-Harassed (replaces Multiple Attack Penalty in previous Dominions) Every time a unit is attacked, it gets a point of harassment penalty. Each point of harassment penalty reduces the unit’s defense by 1. It is then reduced continuously by a percentage, so it goes down quickly if it is high and the unit is no longer being attacked. Mounted units are only half as affected, requiring two attacks to suffer one point of harassment penalty.
-A weapon with multiple attacks inflicts 1 point of harassment penalty for each one of its multiple attacks.
-Fatigue
-Fatigue is affected by a unit’s encumbrance value. The more encumbered it is, the more fatigued it will become during combat. Each time it attacks, it gains Fatigue equal to its current Encumbrance value. Fatigue affects units as follows.
-Defense penalty for fatigue For each 10 points of fatigue (rounded down) a unit has its defense reduced by 1.
-Attack penalty for fatigue For each 20 points of fatigue (rounded down) a unit has its attack reduced by 1.
-Critical hit due to fatigue Each time a hit is scored, a DRN is made to check for a critical hit and the unit’s Fatigue / 15) is subtracted. If the DRN is less than 2, a critical hit is scored and the defender’s protection values are all reduced by 25%.
-Unconsciousness A unit falls unconscious when it reaches 100 fatigue. Each turn it is unconscious it regains 5 fatigue until it become conscious again (i.e. fatigue drops below 100). A unit with 200 fatigue starts to take hit point damage from exhaustion instead of fatigue when additional fatigue damage is taken.
-Note that it is very hard to score a critical hit on an unfatigued unit while a unit that has a fatigue of 60 will suffer a critical hit about one of every four times it takes a hit.
-Repel Repel is how Dominions represents the effectiveness of long weapons, such as halberds, pikes, and the like. If a unit attacks an enemy who has a longer weapon than the attacker, the defender may actually repel the attack and prevent it from happening. This occurs as follows:
-Any defender that has a longer weapon than the one used by its attacker makes a repel attack automatically upon being attacked. Attack and defense rolls are made. If the result is a hit, the attacker must pass a morale check or immediately abort his attack. If the attacker passes the morale check, he may make his attack, but the defender’s attack then generates damage and protection rolls. If damage is inflicted, the attacker takes one point of damage and finishes his attack.
-This simulates the defender successfully placing his longer weapon between himself and the attacker. All of this occurs before the attacker’s strike is resolved. Note that units with low morale are more likely to be repelled, and thus using long weapons against low-morale troops is very effective. Also, units with claws and bites (weapon length zero) are easier to repel.
-A unit gets -2 to its Repel roll for each time it has been attacked that turn. So it’s easier to repel the first attack than the second, and so on.
-Multiple attacks Some units have multiple attacks. This may be due to multiple weapons, or just multiple methods of attack like biting, clawing, or many tentacles.
-Multiple weapons Attackers with multiple weapons have their attack skill reduced by the sum of their weapon lengths. Thus, it is much easier to fight with two daggers than with two swords. The Ambidextrous ability reduces this penalty by the amount of the Ambidextrous skill. Some weapons are considered intrinsic to a unit and do not cause multiple weapon penalties for the attacker. These are called bonus weapons. For example, the charioteers of Arcoscephale have both a spear and a shortsword, but because the spear is a bonus weapon (different from a normal spear) because it is wielded by the second man on the chariot while the driver fights with a short sword.
-MISSILE COMBAT
-Missile combat is different from melee combat in that it doesn’t use defense values. Instead, the game determines which square a missile hits, depending on a unit’s Precision, and the range of the attack. If there are units in the square, they may be hit, whether they are friendly or enemy. Missiles can’t distinguish friend from foe.
-If the range from attacker to target is greater than Precision/2 – 2 (half the Precision, minus 2) then the missile will deviate from the target. The amount of deviation is equal to the range x 1.25 / Precision.
-The game will randomly determine whether the missiles deviate long or short, left or right, or some combination. The actual distribution is a bell curve – most projectiles will fall within the middle of the deviation range, but some will land at the extremes.
-Once the game decides where a missile lands (even if it is far away, that square is affected), there is a hit calculation that uses the following values:
-Attacker: DRN + (Size points in the square) +2 if magic weapon Defender: 2 + DRN + (shield parry value x2) – (Fatigue / 20)
-If the attacker’s roll is greater than the defender’s then a hit is achieved. Damage is calculated identically to melee combat (see above). Most missile weapons add one-third of the unit’s Strength to the weapon damage value (plus a random number). Crossbows and some other weapons are armor- piercing, meaning that only half of the defender’s Protection value is used. Some spells can even be “armor-negating,” which means that armor affords no protection. Lightning spells are armor-negating. Fire spells are armor-piercing.
-Precision values greater than 10 count double for the amount above 10. Thus, a Precision value of 12 is actually calculated as Precision 14.
-Thus, the more units in a square, or the bigger the units in a square, and the more tired they are, the more likely someone is going to be hit by a missile weapon landing in that square.
-While it may seem that missile units can’t shoot very far without having their shots deviate hopelessly, in practice massed units can deal severe damage to an enemy simply due to the number of projectiles in the air. Everything that goes up has to come down somewhere!
-Note: Unlike in Dominions 3, missiles can now cause shield hits. Previously all missiles were deflected if they hit the shield, but now the shield is simply treated as Protection, just like in melee combat.
-SPECIAL DAMAGE
-Some types of damage can cause the target to sustain additional damage. Others inflict their damage gradually, or increase fatigue instead of reducing hit points. These include fire, cold, poison, fatigue, paralysis, and drain.
-Some units are not as susceptible to certain kinds of damage. In Dominions, this is represented by the concept of resistances. If a unit is resistant to fire damage, for example it is said to have fire resistance. This works identically to protection. It is like armor against fire. The standard resistance is 15, which will reduce damage as though it had extra protection of this number.
-Elemental resistances give double protection against those attacks of that type which cause fatigue damage. So Shock Resistance 5 would reduce fatigue effects from thunder by 10. Shock Resistance 15 would thus give protection of 30 from a Thunder Strike.
-Fire damage
-Fire is generally armor-piercing, which means that a unit only gains half its normal benefit from Protection. In addition, a unit may catch fire, which will subject it to additional burning damage until the fire goes out.
-A unit that is burning takes 1d(size) damage each turn until the fire goes out (a die with a number of sides equal to the size of the unit, so for a Size 6 unit it would be 1d6). The chance of the fire going out is
-25% + (fire resistance x2) + (cold scale x5) +100% if it is raining. All fire have a minimum 1% chance of being extinguished.
-If the province has heat scales instead, this is treated as negative cold.
-Cold vulnerability counts as negative cold resistance. Units with 5 or more cold resistance, units with heat auras, and ethereal units will never freeze.
-Cold damage
-A unit suffering cold damage may freeze. It will then take additional fatigue damage until it thaws.
-A unit that is freezing takes 2d6 additional fatigue points of fatigue damage each turn until it thaws. The chance of thawing is
-25% + (cold resistance x5) + (heat scale x6) + (cold resistance)
-Cold vulnerability counts as negative cold resistance. Units with 5 or more cold resistance, units with
-heat auras, and ethereal units will never freeze.
-Cold scales work like heat scales for burning: if it’s cold in the province, the chance of thawing is reduced by the scales.
-Profuse bleeding
-A unit suffering from profuse bleeding suffers 10 fatigue and takes HP/20 damage each round. The chance of bleeding stopping is 10% + (regeneration value) and is divided by 2 if unit is underwater.
-Poison damage
-Poison works differently than fire or cold. If a unit takes poison damage, that damage will be suffered over multiple rounds, which is the amount of time it takes the poison to have its effect. This damage is spread out as evenly as possible. First, a total amount of damage taken is calculated, just like with any attack. Then, each combat round, a unit will take 10% of the remaining damage.
-So if a unit takes 15 points of poison damage, it will take 2,2,2,1,1,1,1,1,1,1 points of damage (each number is in one round). In the first three rounds it will take 2 points per round, and in the last seven rounds it will take 1 point per round. The first turn the unit takes 10% of 15, or 2 points, and now 13 remain. The next turn it takes another 2, and another 2 on the third turn. That leaves 9 points, and 10% of that is 1, for the remaining 9 turns.
-Poison resistance has no effect on the duration of damage. Once the poison has taken hold, there is no additional benefit to poison resistance. It is useful only in reducing the total amount of damage initially.
-Shock damage
-Shock damage can Stun a target.
-Chance for Stun = 5% + (percentage of hit points lost from this hit) / 2 Stun prevents the affected unit from taking any action for one round.
-Life Drain damage
-Life Drain damage is not extra damage, but instead is a way for the attacker to restore his or her hit points and fatigue by damaging an enemy. Once damage has been calculated (if the target is a living unit), the attacker with life drain:
-Increases his hit points with damage / 2 Reduces his fatigue by damage x 2
-Weapons with partial life drain are less potent, and only the first 5 points of damage dealt are treated as drain. The remainder are considered normal damage only.
-Life Drain cannot increase a unit’s hit points above 150% of its maximum hit points +10.
-Lifeless units only take 25% damage (after Protection).
-Acid damage
-Acid damage can inflict Rust. It has the same chance as fire. Only units with iron weapons or iron armor can be affected by Rust.
-Rust
-Rusty armor can be damaged if it takes a hit in combat.
-Chance for Rusty armor to be damaged = damage inflicted (before armor protection, but after shield protection) * 2%
-Rusty weapons have a 25% chance of being damaged when they inflict a hit on something. Damaged weapons have their damage reduced by 2, except for blunt weapons which have their damage reduced by 1.
-Paralysis damage
-Paralysis is a type of damage based in part on the victim’s size. It, as you might have guessed, paralyzes the target. The number of combat rounds the paralysis lasts (the duration) is determined by the number of paralysis points done.
-Duration = (Damage – victim's Size) / 2
-If that is all the paralysis damage taken, then the target is only paralyzed for that many rounds. However, if the target takes additional paralysis damage, a new duration is calculated, and the target takes half as many points of damage as the lesser of the new or old durations. In other words
-If already paralyzed, Damage = (minimum of old and new duration) / 2 This damage can never exceed 5 points.
-The new duration will be the greater of old and new duration (not cumulative), so if the new attack has a longer duration, the target will be paralyzed longer.
-Fatigue damage
-Fatigue damage adds to a unit’s fatigue rather than subtracting from its hit points. Units fall unconscious when they reach 100 fatigue. No unit can have more than 200 fatigue – each 25 fatigue points inflicted once a unit has reach 200 inflicts 1 point of hit point damage. If fewer than 25 fatigue points are inflicted, the chance of taking 1 hit point of damage is (the number of fatigue points inflicted x 4)% except that a single fatigue point will never result in any damage.
-MORALE AND ROUT
-Morale Morale is a measure of how likely a squad is to keep fighting after taking casualties. Each unit has a morale value, but the morale value that is checked is the morale level of the entire squad. Each squad has a morale level, which is the average of all the morale ratings of the members of the squad.
-Morale bonuses A unit can have a number of modifiers to its morale. For example, Sacred units can be blessed, which increases their morale by 1, and spells like Sermon of Courage (+1) and Song of Bravery (+1) can increase morale also. In addition, all units can gain the following bonuses:
-+1 for fighting in friendly dominion
-+1 for fighting in a unit’s home province (the province where it was recruited)
-+x for a commander's leadership bonus (click on Leadership attribute) This is further modified by the formation in which the unit is fighting, how many squads the commander is leading, etc.
-+1 for every level of the Inspirational ability the squad's commander has (can also be negative)
-+x if there is a unit with the Standard ability in the squad, where x is the bonus from highest Standard
-Rout During combat, squads will have their members killed and wounded, and eventually they will take flight from the field. This is called routing, and happens to the entire squad.
-Rout is checked by squad. A squad which fails its morale check routs. A squad will check morale if:
-● The squad has suffered “heavy losses” since the last morale check, and its overall casualties are at least 20%
-● The squad has four or fewer units left in it and at least one of the units has taken damage this round ● The squad is near a monster causing Fear (e.g. an Abomination)
-● The squad has been subjected to a spell causing Fear (e.g. Terror)
-● The entire army has taken 50% or more of its total hit point value in casualties. In this case, morale will be checked every turn for the remainder of the battle. Retinues are excluded from this "greater than 50% of army hit points" if there is nothing more than one creature and its retinue. This is a special case.
-“Heavy losses” is one wound for every two members of the squad. A “wound” is simply 1 or more hit points of damage that reduces a unit to 80% or less of its normal hit points. So a unit with 25 hit points that is undamaged and suffers 4 points of damage does not count as having suffered a “wound” for these purposes. The next point of damage, however, will reduce him to 80% of normal, and every hit there after (even if for 1 point) will continue to satisfy these criteria. Units are very enthusiastic at the beginning of battle, but less so after taking damage.
-No matter how many times the above conditions are satisfied, a squad cannot have its morale checked more than once a turn.
-Army rout Once an army has taken 75% of its total hit point value in casualties in a battle, it will automatically rout.
-Morale check A morale check consists of two numbers, the morale roll and the fear roll. If the fear roll is greater than the morale roll, the squad routs. If not, the squad keeps fighting. Although it is called the “fear roll,” it applied to anything that checks morale, not just fear.
-Morale roll: squad morale + DRN + survivor bonus Fear roll: 13 + DRN
-The survivor bonus ranges from 0-5, depending on how many of the squad’s original members are still alive. The smaller the proportion of survivors, the smaller the bonus. An intact (or almost intact) squad will get a bonus of 5. A squad that has been almost wiped out gets no bonus.
-Rout effects A routed unit will use all of its action points each turn to move towards its own side of the battlefield and off the friendly edge.
-A routing unit suffers a -4 penalty to its defense skill. Fast units can be very effective at picking off enemy units that are routing, as they have better chance of catching them before they exit the map.
-Once a routing unit reaches the map edge, it is safe, and on the turn after the battle will appear in a province adjacent to the battle (see Retreat rules on page [80]). If a unit retreats to an enemy province, it is destroyed. A routed army may scatter to multiple provinces after a battle, requiring a commander to go collect it. Routed units suffering from profuse bleeding, poison, burning, decay or other special damage will have the remainder of that damage applied once they get off the map edge and may not survive. This represents the unit successfully fleeing the battle but expiring of its wounds before finding help.
-Units in a victorious army can rout off the map as well, since a squad can rout while others are winning the battle. If the battle ends before the routing units exit the map, at the end of the battle they remain with the victorious army. If they rout off the map before the battle ends, they scatter to adjacent provinces.
-Mindless units Mindless units need to be under the control of a commander. If there are no unrouted commanders on the battlefield eligible to command mindless units, remaining mindless units on the field are automatically subject to mindless dissolution.
-If all eligible commanders (i.e. commanders who can command mindless units) have been killed or routed, the mindless beings become immobile and have a 33% chance each turn of dissolving and vanishing from the battle. They will not move, but will attack adjacent units.
-Magic beings and undead These units have special leadership requirements, such as magical leadership or undead leadership. If such units are on the battlefield without proper leadership, they will rout. If a unit is both an undead and a magic being (such as the manikins of Asphodel), it requires undead leadership to lead. Demons require undead leadership to lead.
-AFFLICTIONS
-Whenever a unit is struck in battle, it may suffer an affliction. The chance of this occurring is simply the % hit points lost in the blow. So if a normal 10HP soldier receives two 4HP blows, he would have a 40% chance and then another 40% chance of getting an affliction. What type of affliction is suffered depends on which part of the body was struck.
-There are major afflictions and minor afflictions. The chance of an affliction being major is affliction chance / 1.5, or at most 33%. Where the hit occurs determines which kind of afflictions may be inflicted. The game will randomize from all afflictions available for that level (major or minor) and that body part.
-     Body Part Minor Affliction Major Affliction
-     Any Battle Fright Profuse Bleeding
-Head Eye Loss Mute
-Chest Chest Wound Never-Healing Wound
-Arm Weakened Leg Limp
-none
-Dementia Feeblemindedness Blindness
-Diseased
-Lost an arm Crippled
-                           Profuse Bleeding is the only affliction that is not permanent: it will disappear during or after the battle. While a unit bleeds, it loses 5% of its hit points and gains 10 fatigue per round of combat. The bleeding has a 10% chance of stopping per round. Being underwater halves this chance and regeneration increases it.
-Limp will cause commanders to suffer a -4 map movement penalty. Non-commander units do not lose any map movement points, but whenever their army marches more than one province in a month, they will have a 25% chance of dying.
-Cripple will cause commanders to lose 75% of their map movement speed. Non-commander units do not lose any map movement points, but whenever their army marches, they will have a 50% chance of dying, or a 75% chance of dying if marching more than one province.
-BESIEGING FORTRESSES
-Fortresses must be reduced before they can be stormed. To reduce a fortress, its Defense value must be reduced to zero. Each turn, the total reduction strength of the besiegers is compared to the total repair strength of the defenders.
-Reduction strength = unit strength squared ● Flying units are doubled
-Repair strength = unit strength squared / 2
-● Flying units are doubled
-● Mindless units are only worth 1/8th of calculated value ● Animals (not monkeys!) are halved
-● Undisciplined units are halved
-The difference is subtracted from the fortress defense value if the Reduction strength is greater. If the fortress has been damaged, and the repair strength is greater, the difference is added back to the defense value, to the maximum of the original value.
-That's why you get the message sometimes when you're the besieger, that "the enemy is repairing the walls faster than we can destroy them. We need more men." This means the repair value is higher than the reduction value, and the besieged units are actually fixing the walls. There is no way for the besieger to know exactly how close a fortress is to being breached (although you will get hints). The defender, however, can click on the fortification location button in that province, and the current defense value will be displayed. Fortresses which are damaged but not besieged are automatically fully repaired.
-Supply during sieges
-When a fortress is besieged, it provides its supply value to the defenders, divided by the number of turns of the siege. So on the first turn of a siege, a fortress with 300 supply provides 300 supply points on the first turn of the siege, then 150, then 100, then 75, then 60. Units which are unsupplied suffer the starvation effect, and units which starve for two consecutive turns can become diseased. These diseases will then spread inside the fortress!
-RETREATS
-If units retreat from a battle, they will go to an adjacent province, or perhaps a friendly castle in the same province. To do this, a commander must be smart. Each commander will undergo a check and has a 75% chance of making a “smart” retreat. (If a unit is in native terrain, it will get a second chance to be smart at 50% if it fails its first check.
-A smart leader will:
-● Retreat into a fort in the same province if there is one
-● Move to a random friendly-controlled adjacent province if no fort is present
-A not-so-smart leader will:
-● move into a random adjacent province, even if not friendly controlled.
-Troops will follow a leader under whose command they are when they retreat, if they pass a morale check. The squad morale bonus counts double for this, undisciplined units suffer a -3 penalty, and the squad morale penalty for skirmish formation also applies.
-Troops that have lost their leader or who fail a check to follow their leader will individually check for being smart or not (with only a 50% chance of success, although the 50% second chance for natives still applies) and then retreat accordingly.
-A unit or commander that retreats to an enemy province is killed.
-BATTLE SUMMARY
- When battle results are reported, you can see the relative effectiveness of the units present by seeing which units were responsible for the most kills. The will of course be affected by your tactics, formations, and magic. The summary will show you how many units started the battle, how many kills they scored, and how many of them were killed by the enemy.
+战斗一旦爆发，单位将会按照战术设置在战场的网格上移动，你可以用\[g\]和\[w\]键来开关网格和地图渲染。
 
-From the tomes of the lore of Dominions
-The Nazcans are mainly descendants of the Raptor clan. When civil war broke out in Caelum, Nazca broke free and a Raptorian kingdom was formed under the rule of the last Eagle King. But soon society was divided into two parts: the Hanan moiety and the less-numerous dark-winged Hurin moiety. The Aucac Runa are professional soldiers of the Sun Kingdom. The Aucac Runa of the Hana moiety traditionally use short hand weapons such a maces and hatchets. When the first Eagle Kings arrived in what would become Nazca, iron working was still unknown. The Aucac Runa mostly use armors and weapons of cloth and bronze. Stone maces are bronze hatchets are the most common weapons. The Caelian tribes have intermingled in Nazca, and most Nazcans have some resistance to cold.
+如果要计较每个单位的每次攻击，玩家很容易会觉得战斗非常让人头疼，这是没有必要的。
+
+非常重要的一点是，在Dominions系列中，战斗不是打到一方死光才结束。绝大多数情况下，双方只需要战斗到一方士气崩溃而溃逃就好了。在以后的章节里会解释，溃逃基于单位伤亡和士气。这使得精英小军队可以打退大股没有纪律的野蛮人。
+
+以下是一些战斗规则的要点，细节将在以后的章节里讨论。
+
+-   单位在战场上的位置，由部队设定(Army
+    Setup)界面中通过摆放小队(*Position Squads*)来控制。\
+
+-   进攻方在战场左方，防御方在战场右方。\
+
+-   单位在战场上的行动，通过设定战斗指令(set battle orders)来控制。\
+
+-   当某单位移动到邻接敌方单位时(进入敌方单位周围的8个方格之一)，此单位会因为进入敌方控制区域(zone
+    of control)停止移动。\
+
+-   当两单位邻接后，他们之后的每回合都会互相攻击。\
+
+-   近战攻击击中(hit)敌方的概率由攻方的攻击力(attack)和被攻击方的防御力(defense)来决定。\
+
+-   远程攻击击中(hit)的概率由箭矢击中的方格里单位的数量、以及被攻击方的盾牌质量(前提是有盾牌)决定。\
+
+-   攻击击中后的伤害(damage)由攻击方的武器和力量(Strength)对抗防守方的防护(protection)。\
+
+-   战斗中的魔法攻击和远程攻击的原理很接近(参考X)。\
+
+-   士气(morale)以小队(squad)为最小单位来计算。一个小队阵亡一定数量的单位后需要经过一次士气鉴定(morale
+    check)。\
+
+-   一个小队士气鉴定失败就会开始溃逃。\
+
+-   当一方的所有单位都溃逃且移动出了战场时，另一方就获得了胜利。\
+
+-   当一方的所有指挥官(commander)都阵亡或者溃逃时，所以部队也会溃逃。\
+
+-   整支军队失去总生命值得75%以后会开始溃逃。\
+
+如果你杀死或者使敌方的所有指挥官溃逃，整支敌方军队都会开始溃逃，不管敌方军队有多少部队。全宇宙最大的军队如果只有一个指挥官，这个指挥官阵亡或者溃逃就会导致整支军队溃逃。(因此，不会有,,攻击敌方指挥官\"这个命令，你需要自己研究怎么样做到这一点。)
+
+### Battle View {#sec:battle_view}
+
+当你看到一场战斗的报告时，点击 ,,There was a battle in
+\<provincename\>,,，就能看到战斗的总结和伤亡列表，点击\"View
+battle\"就能进入战斗重放。
+
+神域系列的战斗非常重视战术细节，每一个单位---不管战士、法师或是牧师---都进行各自的战斗，都有自己的装备和能力。他们依照各自的参数，按照战斗顺序进行移动和作战。当观看战斗重放时，你可以看到各个方面的细节。在界面的左上角有一个显示战斗记录的文本框。你可以改变显示的详细程度，，按数字键\[1\]显示最少的细节，\[2\]显示更多的细节，\[3\]显示最详细的记录。
+
+战斗重放中的其他快捷键:
+
+  **快捷键**   
+  ------------ -----------------------------------------------------------------
+               平移战场
+               \[PageDown\] 调整视角
+               暂停重放
+               开关小队所在方格的颜色标记，敌我的小队以不同颜色标记
+               开关显示方格网
+               开关战场图像渲染
+               退出战斗重放
+               快速播放
+               最高速播放
+               正常速度播放
+               当右键单击单位进入属性界面后，\[v\]键显示此单位在本场战斗的记录
+               慢速播放 (当显示大量细节来观察战斗时很有用)
+               显示一个所有单位的列表
+               显示所有快捷键的列表
+  \[2\]\[3\]   调整战斗记录的显示细节程度
+  \[-\]        上下移动战斗记录
+
+注意:战斗重放有可能和实际发生的战斗不符，这是战斗处理一致性的bug。这个bug会导致战斗重放和实际战斗有小出入、甚至连胜败都会出错。这个bug很少发生，但确实是一个已知的bug。
+
+###  {#sec:2}
+
+战斗开始后，进攻方在战场左侧，防御方在战场右侧，所有的单位按照军队设置布置在战场上。所有单位按照各自设置的命令行动(攻击，施放魔法)直到阵亡、溃逃或者战斗结束。
+
+ {#sec:3}
+
+部队以小队为单位来设置，小队由指挥官带领。一个指挥官可以指挥最多5个小队。
+
+一个指挥官带领的单位数量由领导力(Leadership)决定。领导力在指挥官的属性面板里显示，可以右键点击显示更多的细节，比如魔法单位和不死单位的领导力。这一点非常重要，不是所有指挥官都有能力向魔法生物发号施令，不死生物和恶魔也不是谁的命令都服从的。
+
+####  {#sec:4}
+
+  **领导力**   **小队士气**
+  ------------ -----------------------------------------------------------------------------------------------------
+  10           只带领1个小队时该小队士气-1，之后每多带领一个小队，所有小队的士气再-1 (带领5个小队时所有小队士气-5)
+  40           带领1\~2个小队时没有士气惩罚，之后每多带领一个小队，所有小队的士气再-1
+  80           带领1\~3个小队时所有小队士气+1，之后每多带领一个小队，所有小队的士气再-1
+  120          带领1\~4个小队时所有小队士气+2，带领5个小队时所有小队士气+1
+  160          所有小队士气+3
+
+领导力的士气加成是由指挥官的基础领导力决定的，指挥官获得经验后领导力会增加，比如一个基础领导力40的指挥官累积经验可以指挥85个甚至更多单位，但是士气加成还是按照40来计算。
+
+其他影响士气的因素：
+将无纪律(undisciplined)单位和普通单位编入同一小队使整个小队变成无纪律且士气-1。\
+将不死单位和活着的单位编入同一小队使整个小队士气-1。\
+将恶魔单位和活着的单位编入同一小队使整个小队士气-1。\
+每一个单位被放置在战场的一个方格里。一个方格放入的部队体形(size)总合最大为6。对人类单位(体形2)，这意味着3个单位可以放进同一个方格。
+
+在一个省份中没有被设置的单位(在军队设置界面里驻地栏里的单位)被自动设置成一个小队，他们在己方军队设置界面的中心出现。
+
+(1,0)250
+
+**来自神域系列的野史典籍**
+
+*Bandar
+Log是一个阶层森严的国家，Markata是最小的猴民，智力比单纯的野兽只强一点。他们体形小，吵闹且烦人，在大群聚在一起时尤甚。个别的Markata可以充当探子，但是大群在一起时他们很快就会觉得无聊，开始互相嬉戏。更大的猴民和猿民都讨厌Markata。有时候Markata会装备小弓，这让他们非常快乐，但是装备无法让他们成为有用的士兵。*
+
+ {#sec:5}
+
+阵型是将单位在战场上放置的模式，共有5种阵型。
+
+###  {#sec:6}
+
+\underline{方块(box)}
+方块阵型把单位尽量分布成接近正方形。36个Ulm步兵(体形2)被分布成4格宽3格纵深，一共12格，每格3个单位。
+
+\underline{单线(line)}
+单线阵型把单位分布成一条面向敌人的直线。
+
+\underline{双线(double line)}
+双线阵型和单线很接近，只是把一半单位组成第二条线，紧接第一条线的正后方。
+
+\underline{松散线}
+松散线阵型和单线很接近，只是每个有单位的方格左右都是空格，使阵型的宽度加倍。
+松散线阵型有士气-1的惩罚。
+
+\underline{散兵}
+散兵阵型形成一个接近正方的棋盘阵型，每个有单位的方格四周都是空的。散兵阵型有士气-1的惩罚。\
+**无纪律(Undisciplined)**小队强制使用散兵阵型。在1个小队里加入1个无纪律单位就使整个小队成为无纪律小队。
+
+**Formation Fighter**能力可以把更多的单位放进1个方格。
+
+###  {#sec:7}
+
+每个单位都有战斗速度(combat
+speed)。在战场上向四周移动1个方格消耗大约1点战斗速度，如果向对角线的方格移动则消耗+50%。
+
+*当我方单位移动到邻接敌方单位时，他们被锁定在敌方控制区域里，只要敌方单位还在，我方单位就不会继续移动。*
+
+每一个单位都单独移动，在每一个动作结束时都有一个CD(cooldown)。单位每移动一步或者攻击一次后，都需要CD一下才能进行下一个动作。长CD是一个回合(攻击以后)，短CD在移动一步之后发生。CD有一些随机性，但是移动时主要取决于单位的战斗速度。快速的单位CD时间更短，进行下一个动作更快。如果两个单位邻接，先结束CD的单位先攻击。
+
+ {#sec:8}
+
+近战是一个战士(士兵，牧师，怪物，或者神圣生物)物理性地打击另一个战士，说到底就是这么简单。
+
+攻击方投攻击骰，防御方投防御骰，双方比较，如果攻击方的骰子加上修正值大于防御方的骰子，则击中，反之则不中。
+
+攻击和防御骰都是随机骰，且计算疲劳惩罚：
+
+攻击骰: 攻击方的攻击 + DRN - 疲劳惩罚 防御骰: 防御方的防御 + DRN -
+疲劳惩罚
+
+攻击如果击中，则进行一次类似的投骰计算产生的伤害值，此时是攻击方的伤害骰和防御方的防护骰作比较：
+
+伤害骰：攻击方的力量 + 武器伤害值 + DRN
+
+防护骰：攻击方的防护 + DRN + (如果只是击中盾牌，加盾牌的防护值)
+
+如果防御方装备有盾牌，攻击方的攻击骰必须大于防御方的防御骰+盾牌的格档值(Parry
+value)才能无视盾牌，否则只能是**击中盾牌(shield
+hit)**，盾牌的防护值也加入到防御方的防护骰。
+
+例子:
+
+一个重步兵装备一把阔剑，半身链甲，半盔和盾牌。他的基础防御是10，阔剑有防御+1，链甲导致防御-2，盾牌导致防御-1。盾牌的格档值是4。最终的防御是10+1-2-1=8。考虑盾牌格档值，总防御是12。\
+这个重步兵受到一个Vanjarl of
+Vanheim的攻击，攻击是14。双方都没有疲劳。Vanjarl的攻击投出6，总攻击骰是14+6=20。如果重步兵投出7或者更小，此攻击无视盾牌，盾牌的防护值不起作用。如果重步兵投出8到11，则Vanjarl击中盾牌，重步兵将盾牌的防护值加入防护骰。如果重步兵投出12或者更高，则Vanjarl没有击中。
+
+防护值在单位的属性面板里列出，除了击中头部以外。击中头部时，头盔的防护值将*代替*面板的防护值。如果是击中盾牌，盾牌的防护值依然被计算。可以认为这一击先击中盾牌后又击中了头部。
+
+如果伤害骰大于防护骰，差值从目标的生命值中扣除，如果伤害骰小于或者等于防护骰，则无效果。
+
+###  {#sec:9}
+
+击中盾牌可以损坏甚至摧毁盾牌。盾牌有一个盾牌抗力值(Shield
+Resistance)，抗性值一般等于盾牌的防护值，如果是魔法盾牌则+5。攻击有盾牌破坏值，破坏值等于没有扣除防护骰之前的伤害骰。
+
+如果破坏值\>=盾牌抗力值 X 3，盾牌受到损坏 如果破坏值\>=盾牌抗力值 X
+5，盾牌摧毁摧毁
+
+一个已经损坏的盾牌，再次被损坏时有25%的概率被摧毁。
+
+损坏的盾牌-20%防护值，被摧毁的盾牌-50%防护值。
+
+受到损坏的魔法盾牌(真实的装备)在战斗结束后自动复原，如果魔法盾牌被摧毁，战斗后将消失，指挥官将重新装备标准装备。损坏和摧毁的的凡俗盾牌将在单位所在省份消耗空闲资源修复。
+
+###  {#sec:10}
+
+神域5使用解剖学的部位来确定击中的部位。一次攻击有50%的概率击中躯干，20%的概率击中手臂，20%的概率击中腿部，10%的概率击中头部。击中躯干以外的部位有可能导致失去部位的战伤，比如失去手臂，腿部甚至头部。失去头部一般都意味着死亡。当然不是所有情况都是如此，比如不死生物或者一些有再生能力的怪物，或者有多个头部的怪物。战伤是失去一只眼睛，这只有在击中头部时才会发生。
+
+为了能够击中某个特定的部位，攻击方必须有能力接触到此部位。要击中头部，*攻击方的体形+武器长度必须大于等于防御方的体形*。要击中躯干可以比防御方体形-1，要击中手臂，可以比防御方体形-2。所以一个人类(体形2)手持一把硬头槌(长度1)只能击中体形6的单位的腿部。
+
+###  {#sec:11}
+
+神域5中的近战武器分为3个类型：挥砍，穿刺，钝击。每一个类型对伤害计算都有影响。挥砍和钝击类型影响伤害骰减去防护骰以后得到的数值，穿刺类型则是降低防护值。
+
+钝击武器在击中头部时，伤害骰减去防护骰得到的数值增加50%成为最终的伤害值。钝击武器在计算对盾牌的破坏值时有25%的加成。
+
+挥砍武器击中时，伤害骰减去防护骰得到的数值增加25%成为最终的伤害值。挥砍武器在计算对盾牌的破坏值时有50%的加成。如果挥砍武器击中躯干以外的部位，并且造成了大于等于防御方总HP
+50%的伤害，被击中的部位将被砍掉。如果是头被砍掉，防御方有需要这颗头来生存(例如九头蛇就不是这种情况)，防御方将直接死亡。
+
+穿刺武器在计算伤害值时先将防御方的防护值降低20%再进行计算，这个穿甲(Armor
+Piercing/AP)的原理相同，只是穿甲将防御方的防护值降低50%再进行计算。
+
+双手武器在计算力量加值时将力量值\*125%.
+
+水下效果:挥砍和钝击武器在水下受到和武器长度等值的攻击值惩罚，穿刺武器不受惩罚。如果武器同时造成穿刺和其他类型的伤害，则惩罚减半。链枷有额外的-1惩罚。
+
+一种武器可能同时造成不止一种类型的伤害，造成每种类型的伤害的概率是均等的，但是每次只能造成一种类型的伤害。例如，短剑可以造成穿刺和挥砍伤害，每种伤害的概率是50%。如果它一次伤害不是穿刺类型，则一定是挥砍类型，但不会同时造成2种伤害。
+
+注意武器类型覆盖了所有武器，不只是影头槌，剑和矛。例如，一只蜘蛛的毒牙造成穿刺伤害。
+
+此外，一些武器还有额外的特殊效果，例如火焰伤害，寒冷伤害或者魔法效果。
+
+战斗重放时，在单位头上冒出的红字是单位遭受的实际伤害，这个对验证单位和战术很有帮助。
+
+####  {#sec:12}
+
+(*代替了神域4里的多次受攻击惩罚*)
+
+每次一个单位受到攻击，此单位将受到防御-1的被骚扰惩罚。之后的每1点被骚扰惩罚都会继续让此单位防御-1。单位停止受到攻击以后，被骚扰惩罚会以百分比降低，所以单位防御会很快恢复。骑兵只受到一半的影响，受到2次攻击才会受1点被骚扰惩罚。
+
+有多次攻击的武器每次攻击都会对防御方造成一点骚扰惩罚。
+
+###  {#sec:13}
+
+疲劳受到单位负重的影响，负重越高，单位在战斗中就会更快的累积疲劳。单位每次攻击，就会累积等于当前负重的疲劳。疲劳的效果如下。
+
+**防御惩罚** 每10点疲劳，单位的防御-1(向下取整)
+
+**攻击惩罚** 每20点疲劳，单位的攻击-1(向下取整)
+
+**因为疲劳受到重击**
+每次单位被击中，投一个DRN-疲劳/15，如果结果小于2，则此次击中变成重击，单位的防护值-25%
+
+**失去意识**
+一个单位疲劳达到100后就会失去意识，每个失去意识的回合此单位都会回复5点疲劳，直到恢复意识(疲劳值降低到100以下)。一个单位在疲劳超过200以后不再增加疲劳，而是开始失去生命值。
+
+注意，一个没有累积疲劳的单位很少受到重击，而一个累积了60点疲劳的单位受重击的概率是每4次伤害1次重击。
+
+**驱逐**
+驱逐是神域系列表现长武器优势的一种机制，长武器包括了斧枪，长矛等武器。当防御方的武器比进攻方使用的武器长时，防御方有可能驱逐进攻方而使进攻无法进行，机制如下。
+
+防御方的武器比进攻方使用的武器更长时，受到攻击时会自动进行一次驱逐攻击。进攻方投攻击和防御骰，如果结果是击中，攻击方必须进行一次士气检定，如果检定失败则放弃此次进攻。如果攻击方通过了士气检定，则此次进攻生效，但是防御方同时对进攻方投一次伤害和防护骰，如果产生了伤害，则进攻方受到1点伤害，结束此次攻击。
+
+此机制模拟了防御方使用他更长的武器来阻挡进攻方，进攻方在击中产生伤害前需要经过所有的驱逐机制。士气低下的单位更容易被驱逐，所以用长武器对抗时期低下的单位更有效。用爪子和牙咬攻击的单位更容易被驱逐，因为武器长度是0。
+
+防御单位每受到一次攻击就会对本回合内的下次驱逐检定产生-2的惩罚，所以一回合内更容易驱逐受到的第一次攻击。
+
+**多次攻击**
+一些单位一回合能进行多次攻击，这可能是因为他们装备了多个武器，或者有多种攻击方式，比如牙咬，爪子，或者很多触手。
+
+**多武器**
+使用多武器攻击的单位的攻击骰会受到所有武器长度总和的惩罚值，也就是说用两把匕首攻击比用两把长剑攻击更容易集中。双巧手(Ambidextrous)能力可以按能力值降低惩罚值。一些武器有固有(intrinsic)属性，不计入多武器惩罚的计算，这被称为奖励武器。例如，Arcoscephale的战车装备了矛和短剑，但是矛是奖励武器(并不是普通的矛)，因为矛是由战车的一名乘员使用的，而短剑是驭手的武器。
+
+ {#sec:14}
+
+远程战斗和近身战斗的不同在于它不进行防御检定。击中哪个方格由进攻方的精准(Precision)和供给的范围决定。如果被击中的方格里有单位，这些单位就有可能被击中，不管是地方还是友方。远程攻击无法分辨敌我。
+
+如果进攻方攻击的目标在 精准/2-2
+(精准减半再减2)距离以外，则远程攻击就有可能偏离目标。偏离的范围等于
+距离\*1.25/精准。
+
+游戏自动随机决定偏离的方位和长度，分布是高斯分布。多数攻击会在偏离范围之内，但是会有一些极端的偏离。
+
+一旦决定了远程攻击击中了哪个方格(哪怕偏离很远，被击中的方格会受影响)，进行以下检定:
+
+进攻方: DRN + (方格内所有单位的体形总和) +2 (如果进攻方使用的是魔法武器)
+
+防御方: 2 + DRN + (如果有盾牌，盾牌格挡值\*2) - 疲劳/20
+
+如果进攻方的骰值大于防御方，则击中。伤害的计算和近身战斗相同。大多数远程攻击武器都有
+力量/3
+的伤害加成。十字弓和其他一些武器还有穿透护甲属性，也就是防御方的防护值视为减半。一些法术甚至有无视护甲(armor
+negating/AN)属性，也就是防护值不起作用。闪电法术是无视护甲的。火焰法术是穿透护甲的。
+
+*精准值大于10的部分起双倍的左右，例如精准值12在实际计算中按14进行计算。*
+
+总之，一个方格里单位越多、或者体形越大，这些单位越疲劳，越有可能有单位被落在此方格的远程攻击击中。
+
+虽然看起来远程单位一射远就偏的毫无准头，实战中大量远程单位依然可以造成大量的伤害，只要有足够的箭射出去就行。所有飞起来的东西总要落在什么地方。
+
+注意：和神域3不同，远程攻击可能造成击中盾牌的伤害。神域3里击中盾牌算作攻击被挡开，而现在击中盾牌和近战一样只是加入盾牌的防护值。
+
+ {#sec:15}
+
+一些特殊的伤害可以使目标受到额外的伤害，另一些伤害可以使目标受到持续的伤害，又或是增加目标的疲劳。这些特殊伤害包括了火焰，寒冷，毒，疲劳，麻痹和吸取伤害。
+
+一些单位对特定的特殊伤害有一定的抵抗力，在神域系列里这个概念用抗性来体现。如果一个单位对火焰伤害有抗性，这和护甲的防护值机制相同，是对火焰伤害的防护。标准的抗性值是15，抗性值像防护值一样，降低特殊伤害的最终伤害值。
+
+元素抗性对造成疲劳伤害的攻击提供2倍的抗性。例如5点闪电抗性降低10点雷击的疲劳效果。15点闪电抗性降低Thuner
+Strike的疲劳伤害30点。
+
+\underline{\textbf{火焰伤害}}
+火焰伤害一般是护甲穿透的，所以防御方的防护值只提供一半的保护效果。此外，防御方可能会着火，受到进一步的伤害，直到火焰熄灭。
+
+着火的单位受到 **1d(体形)**
+的伤害(投一个1到体形值的骰，例如体形6的单位投1d6)，直到火焰熄灭。火焰熄灭的概率为
+
+25% + (**火焰抗性** \* 2%) + (**寒冷天平** \* 5%)
+(+100%，如果战场下雨)。所有火焰至少有1%的概率熄灭。
+
+如果所在省是炎热天平，按照负的寒冷天平来处理。
+
+火焰易伤按照负的火焰抗性来处理。
+
+\underline{\textbf{寒冷伤害}}
+受到寒冷伤害的单位有可能被冰冻，持续受到疲劳伤害，直到冰霜溶化。
+
+被冰冻的单位受到 **2d6** 的额外疲劳伤害，直到冰霜溶化。冰霜溶化概率为
+
+25% + (**寒冷抗性** \* 6%) + (**炎热天平** \* 6%)
+
+寒冷易伤按照负的寒冷抗性来处理。如果单位有大于等于5的寒冷抗性、有炎热光环或者是以太状态，则不会被冻结。
+
+寒冷天平对冰冻的效果类似炎热天平对着火的影响。如果单位在寒冷天平的省份，溶化的概率也会降低。
+
+\underline{\textbf{大量出血}}
+大量出血的单位每战斗回合受到10点疲劳伤害和 总生命/20
+的伤害。停止出血的概率是\
+( 10% + 生命恢复比例 ) (/2，如果单位在水下)
+
+\underline{\textbf{毒伤害}}
+毒伤害的机制和冰火都不一样。如果一个单位受到毒伤害，伤害会持续多个回合。毒伤害在每回合发作，伤害量分布的尽量均匀。首先计算总伤害量，然后每战斗回合毒性发作导致剩余伤害总量约10%的伤害。
+
+例如一个单位受到15点毒伤害，每战斗回合的伤害分布是2，2，2，1，1，1，1，1，1，1，1，1。前3回合每回合剩余伤害都大于10，向上取整受到2点伤害。之后9回合每回合受到1点伤害。
+
+毒抗性对毒伤害的持续时间没有影响，只在最初计算毒伤害总量是提供防护，一旦毒伤害开始生效，毒抗性没有额外的作用。
+
+\underline{\textbf{闪电伤害}}
+闪电伤害可能震晕目标。
+
+震晕的概率 = 5% + (击中的伤害占目标总生命值的百分比)/2
+
+震晕使目标在回合内无法行动。
+
+\underline{\textbf{生命吸取伤害}}
+生命吸取伤害不是造成格外伤害，而是攻击方在造成伤害的同时恢复生命或者疲劳。一旦伤害计算完毕，受到伤害的单位是有生命的，则攻击方
+
+增加 **伤害/2** 的生命\
+恢复 **伤害\*2** 的疲劳
+
+有部分生命吸取能力的武器不那么强大，只有最初的5点伤害按生命吸取伤害来计算。其他的部分算作普通伤害。
+
+生命吸取增加攻击方生命值的上限是 (150% \* 攻击方最大生命值)+10
+
+无生命(Lifeless)单位在扣除防护以后只受25%的生命吸取伤害。
+
+\underline{\textbf{酸伤害}}
+酸伤害会导致锈蚀(Rust)，锈蚀的概率和着火一样。只有装备了铁武器和护甲的单位会受到锈蚀的影响。
+
+锈蚀的护甲在战斗中受到伤害有可能会破损。
+
+锈蚀的护甲在战斗中破损的概率 = 击中护甲的伤害
+(减去盾牌的防护，但是不减去护甲的防护) \* 2%
+
+锈蚀的武器有25%的概率在击中敌方时破损，破损的武器伤害-2，只有钝击武器破损后伤害-1。
+
+\underline{\textbf{麻痹伤害}}
+麻痹伤害部分由防御方的体形决定。防御方麻痹的回合数由麻痹点数决定
+
+麻痹回合数 = (伤害 - 防御方体形)/2
+
+防御方第一次被麻痹时按上式计算，在麻痹状态下再次受到麻痹伤害时，按此次伤害计算一个新麻痹回合数，和现存剩余的麻痹回合数比较，防御方受到新麻痹回合数和现存剩余的麻痹回合数中较小者的1/2的伤害，公式如下
+
+如果防御方已经麻痹，则受到 伤害=min(现存剩余麻痹回合数 和
+新麻痹回合数)/2
+
+此伤害不能超过5点。
+
+新麻痹轮数是现存剩余麻痹轮数和新麻痹轮数中的较大者，所以如果新的麻痹攻击导致的麻痹回合数更长，防御方麻痹的回合数会更长。
+
+\underline{\textbf{疲劳伤害}}
+疲劳伤害直接增加防御方的疲劳，而不是减少其生命值。单位累计到100点疲劳及以上就会失去意识。单位的疲劳不会超过200点，超过200点的部分，每25点额外疲劳造成1点生命值伤害，如果额外疲劳不足25点，造成1点伤害的概率为
+额外疲劳% \*%。一个例外是1点额外疲劳伤害不会造成伤害。
+
+ {#sec:16}
+
+**士气**
+
+士气是用来度量一个小队在受到伤亡以后继续战斗的可能性的。每个单位都有自己的士气值，但是士气检定使用的是整个小队的士气值。每个小队有一个士气值，是小队内所有单位的士气值的算术平均值。
+
+**士气加成**
+
+一个单位可能受到各种士气加成的影响。例如，神圣单位受到祝福后士气+1，Sermon
+of Courage(+1) 和 Song of Bravery (+1)
+一类的魔法可以增加士气。此外还有一些加成来源
+
+-   +1 在友方神域内战斗
+
+-   +1 在家乡省(单位被招募的省)战斗
+
+-   +x 来自指挥官的领导力加成 (点击指挥官的Leadership属性可见)。
+    此外还受到小队阵型，指挥官领导的小队数量等的修正
+
+-   +1 指挥官的每级激励(Inspirational)能力，有可能是负值。
+
+-   +x
+    如果小队中有旗手(Standard)能力的单位，x是拥有最高旗手能力的单位的能力等级
+
+**小队溃逃**
+
+战斗中小队中的单位会受伤和死亡，最终小队会逃离战场，这被称为溃逃。
+
+溃逃以小队为单位进行。士气检定失败的小队会开始溃逃，触发士气检定的情况有:
+
+-   小队在通过了一次士气检定以后，又受到了,,严重损失\"，而且小队总生命值损失了超过20%的生命值。
+
+-   小队只剩下4个或者更少的单位。并且本回合至少一个单位受了伤害。
+
+-   小队靠近了一个有恐惧(Fear)能力的怪物(例如憎恶)。
+
+-   小队受到了引起恐惧的法术的影响(例如Terror)。
+
+-   整支军队失去了超过50%的生命值。这种情况下每回合所有小队都受到士气检定。一种特殊情况是一个指挥官带着魔法物品召唤的单位(retinue)进入战场，此时魔法物品召唤的单位的生命值不计入军队的生命值。
+
+*,,严重损失\"是指小队中每2个单位就有一个受伤*。1点或者更多的伤害将一个单位的生命值降低到最大生命值的80%及以下就算是受伤。例如一个25点生命值的单位，受到4点伤害不计入受伤。再多受1点伤害就达到80%的临界线，之后的每一点伤害都满足条件。单位在战斗开始时热情很好，受伤以后就开始失去热情了。
+
+无论一回合里因为受伤害而满足受伤条件有多少次，一个小队一回合最多只进行一次士气检定。
+
+**军队溃逃**
+
+一支军队战斗中损失了总生命值的75%及更高后会自动溃逃。
+
+**士气检定**
+
+士气检定包含了2个骰，一个士气骰和一个恐惧骰。如果恐惧骰大于士气骰，则小队溃逃。反之则小队继续战斗。注意虽然叫恐惧骰，但是第二个骰是所有士气检定里都用到的，不是仅限法术恐惧。
+
+**士气骰**: **小队士气** + DRN + **幸存者加成** **恐惧骰**: 13 + DRN
+
+幸存者加成在0到5之间。没有成员伤亡时是5，几乎死光时是0，按幸存成员数占起始成员数的比例递减。
+
+**溃逃的效果**
+
+一个溃逃的单位每回合会使用所有的行动点数向己方的战场边缘逃跑。
+
+*溃逃的单位遭受-4的防御值惩罚*。
+速度高的单位可以很有效的追杀溃逃的单位，赶在溃逃的单位从战场边缘逃走之前杀死他们。
+
+一旦一个溃逃的单位到达己方战场边缘，就成功逃出站场，下一回合他有可能出现在邻接战斗省的其他省份(参考2页后的撤退规则)。如果一个单位撤退到了地方的省份，则立即死亡。一支溃逃的军队可能会分散到多个省份，需要指挥官去收拢部队。在溃逃时还有大量出血，中毒，着火，衰败或者其他特殊伤害的单位，在离开战场后会继续计算这些伤害，有可能会因此死亡。这代表了单位逃出了战场，但是在得到救助前就死于创伤。
+
+战斗获胜的军队也有可能有小队溃逃，如果战斗结束时溃逃的单位还没有逃出战场，则这些单位就还留在获胜的军队里。否则话溃逃的单位也会分散到邻接的各省份。
+
+**无意识单位**
+
+无意识单位需要一个指挥官来控制，如果在战场上能控制无意识单位的指挥官都死亡或者溃逃了，剩余的无意识单位会自动*消散*(mindless
+dissolution)。
+
+如果能控制无意识单位的指挥官都死亡或者溃逃了，无意识单位将停止移动，每回合有33%的概率消散，从战场上消失。不过消散前无意识单位会继续攻击邻接的敌人。
+
+**魔法生物和不死单位**
+
+这两类单位有各自的领导力要求。如果在战场上没有能控制他们的指挥官，他们会溃逃。如果一个单位同时是魔法生物和不死单位(例如Asphodel的manikin)，则只需要不死单位的领导力。恶魔也需要不死单位领导力。
+
+ {#sec:17}
+
+一个单位被击中时就有可能受到战伤，受到战伤的概率等于此次击中的伤害/单位总生命值。所以1个10HP的单位受到2次4HP的伤害，他有2次40%的概率受到战伤。战伤的种类取决于受到伤害的部位。
+
+战伤分为大战伤和小战伤，受到大战伤的概率是战伤概率/1.5，所以最高是66%。击中的部位决定战伤的类型。游戏随机从可能的战伤中挑选。
+
+  -- -- --
+        
+        
+        
+        
+        
+  -- -- --
+
+大量出血是唯一一个非永久战伤，战斗结束后它就会消失。大量出血的单位每战斗回合受到总生命5%的伤害和10点疲劳伤害。停止出血的概率是
+(10% + 生命恢复比例) (/2，如果单位在水下) 。
+
+跛足导致大地图移动力-4的惩罚。非指挥官的单位不受到大地图移动力的惩罚，但是在随军队一回合移动超过1个省时，有25%的概率瘸腿。
+
+瘸腿的指挥官失去75%的大地图移动力。非指挥官的单位不受到大地图移动力的惩罚，但是在随军队移动一回合1个省时有50%的概率死亡，一回合移动超过1个省时有75%的概率死亡。
+
+ {#sec:18}
+
+突入城堡之前，攻城方必须先摧毁城堡的所有防御，也就是把城堡的防御值降低到0。每回合攻城方摧毁城堡防御的能力需要和守城方修复城堡防御的能力进行对抗。
+
+单位摧毁城堡防御的能力 = 单位力量的平方
+
+-   飞行单位摧毁城堡防御的能力是上式计算结果再加倍
+
+单位修复城堡防御的能力 = 单位力量的平方/2
+
+-   飞行单位修复城堡防御的能力是上式计算结果再加倍
+
+-   无意识单位只有上式计算结果1/8的修复能力
+
+-   动物(不包括猿猴)有上式计算结果的1/2
+
+-   无纪律单位有上式计算结果的1/2
+
+如果摧毁的能力更强，摧毁能力减去修复能力得到的结果从城堡的防御值中扣除。如果修复的能力更强，则城堡的防御值恢复，直到恢复到最大值。
+
+所以你在围攻城堡时有时会看到消息,,the enemy is repairing the walls
+faster than we can destroy them. We need more
+men.\"这意味着守城方的修复能力超过了你的摧毁能力，正在修复城堡。你作为攻城方没法知道城堡的防御值还剩余多少(当然会有一些提示)。而守城方点击城堡按钮就可以看到城堡还剩余多少防御值。如果城堡不再被围攻，受损的防御会自动完全恢复。
+
+ {#sec:19}
+
+当城堡被围攻时，守城方得到总补给除以围攻回合数的补给量。一个有300点补给的城堡，在第一回合给守城方提供300点补给，第二回合150点，然后100点，75点，60点\...得不到足够补给的单位将受到饥饿的惩罚，连续饥饿2回合的单位会染病。这些疾病还会在城堡内扩散。
+
+ {#sec:20}
+
+如果单位在战斗中成功撤出了战场，他可能会去邻接的省份，或者战场所在省的友方城堡。要做到这一点，每个指挥官必须进行一次检定，有75%的概率进行一次成功的撤退。如果一个单位在熟悉的地形上撤退，则在指挥官的检定失败以后还有一次机会进行50%概率的成功撤退。
+
+一次成功的撤退
+
+-   如果战场所在省有友方城堡，则撤入城堡。
+
+-   如果战场所在省没有友方城堡，则撤入邻接的友方省份。
+
+一次不成功的撤退
+
+-   撤入一个随机的邻接省份，哪怕这个省份不是友方控制的。
+
+单位在撤退时会投一个士气检定，选择是否跟随在作战时指挥自己的指挥官。小队的士气加成在此时加倍，无纪律单位受到-3惩罚，散兵阵型的士气惩罚也生效。
+
+失去指挥官或者在撤退时士气检定失败没有跟随指挥官的单位会各自撤退，各自检定是否成功撤退。单位有50%的概率通过检定，成功撤退。如果一个单位在熟悉的地形上撤退，则在自己的检定失败以后还有一次机会进行50%概率的成功撤退检定。
+
+ {#sec:21}
+
+战斗结束后自动生成总结报告，你可以看哪类单位消灭了多少敌人。当然这受你的战术，阵型和魔法的影响。报告里显示你开始战斗时有多少部队，你消灭了多少敌方部队，以及你有多少部队被敌方消灭。
+
+(1,0)250
+
+**来自神域系列的野史典籍**
+
+*Nazca主要是猛禽部族的后裔，Caelum的内战爆发时，Nazca人在最后一位鹰王的统治下独立建国。但是很快就分化成了两个部族，Hana部族和人数更少黑翼的Huri部族。Hana部族的Aucac
+Runa是太阳王国的职业战士，使用短单手武器，如硬头槌和短斧。当第一位鹰王来到Nazca时，炼铁技术还没有出现。Aucac
+Runa主要使用布和青铜来制造武器和护甲。石硬头槌和青铜短斧是最常见的武器。Caelum人和Nazca人有过混血，所以Nazcan人对寒冷也有一定的抗性*
+
+
+
+
