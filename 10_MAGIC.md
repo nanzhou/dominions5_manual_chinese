@@ -1,129 +1,229 @@
-If the combat system is the heart of Dominions 5, the magic system is the soul. Everything is affected by magic in some way. The most powerful spells can summon awesome monsters or change the face of the entire world. Magic can also be used to craft artifacts for use by heroes. Some basic points to remember are:
-● Spells are either rituals, which are cast outside of combat, or battle magic, which is used in tactical battles
-● Magic depends both on the path and the school of magic
-● The path skill of a given mage is generally fixed and doesn’t change easily
-● School is a group of spells which can be learned through research
-● Research is performed in laboratories
-● Magic gems and blood slaves are needed for many spells
-● These gems are produced by magic sites, including those in a nation’s home province
-● Gems and blood slaves are items which can be carried by commanders or stored in a nation’s pool ● Laboratories also provide access to a nation’s pool of magic gems, blood slaves and items
-● The Construction school allows for the building of magical items and artifacts
-● There are also Divine spells, which are special battle magic spells that can be cast by priests
-The Paths of Magical Power
-There are eight paths of magical power:   Fire,   Air,   Water,   Earth,   Astral, Nature,
-Death, and   Blood. There are seven types of magical gems which correspond to the first seven of these paths. There are no Blood gems – Blood magic requires blood slaves, which can only be obtained through blood hunting. The symbols shown are used to represent magic paths, and will appear in spell descriptions as requirements for casting the spell.
-Paths define the essential branches of magic. A fire mage can eventually learn all of the Fire spells in all the schools of magic for which he has the requisite magical ability, once his nation has researched them. But he cannot learn Nature or Earth spells, for instance, unless he first gains the path skill. While there are magic items that can increase a mage’s skill level in paths he already possesses, a mage can only acquire new paths through Empowerment (see below).
-The Schools of Magical Research
-There are also seven schools of magical research: Conjuration, Alteration, Evocation, Construction, Enchantment, Thaumaturgy, and Blood Magic. Note that the school of Blood Magic is not the same as the path of Blood Magic (although the two are related).
-Schools define the areas of study needed to master the spells within each path of magic. For example, Conjuration is the school of magic that deals largely with summoning creatures from outside the world. Any nation can research the Conjuration school, and its mages would be able to use any spell in that school a) up to the current research level, and b) which required a magic path those mages possessed.
-In order for a mage to cast a spell (a) you must have researched the school up to the level required by the spell, and (b) the mage must have proficiency in the magical path(s) required by a spell, and (c) the mage must have any magical gems or blood slaves required for the spell..
-While each school has many different spells, the general characteristics of each school are as follows.
-Conjuration: Summons powers and beings from other worlds. Many spells in this school will bring you additional units.
-Alteration: Changes the physical world. Alteration spells can give units increased strength, resistance to fire, and the like. They can also change the weather.
-Evocation: Projects arcane power into the physical world. If you want to cast spells that are traditionally associated with magic, like fireballs and lightning bolts, this is the school for you. Lots of battle magic.
-Construction: The level of your construction research determines which magic items you are allowed to craft. Some construction spells also allow you to make magic units.
-Enchantment: Grants magical properties to men, items or the land. You can cover entire provinces with protective domes, or grant long-lasting increased health to your subjects.
-Thaumaturgy: Manipulates the arcane world in ways traditionally associated with sorcery. You might call forth the souls of victims a soldier has killed and send them after him, or create a window in space to observe distant lands.
-Blood Magic: All spells that use blood magic have to be unlocked by researching this school. If your nation has any blood mages, you will want to do some research here.
-Refer to the spell charts in the Appendix for a thumbnail description of each spell in the game.
-Access to Magic Spells
-Each spell has a path requirement, listed as a number of symbols. In order to cast a spell, a mage must meet all the path requirements for the spell, and his nation must have researched to the appropriate level in the school which contains the spell in question.
-Spells that are a higher level in a school don’t necessarily require more path skill to cast: Will o’ the Wisp is a level 5 Conjuration spell, but only requires Fire-1. This is one reason it is important to become familiar with which spells exist in which school, so you can plan your research.
-Note that while the schools generally categorize spells, they don’t do so rigorously – Acashic Knowledge is a Conjuration spell which has nothing to do with summoning. Instead, it searches provinces for sources of magic gems.
-Combined Paths
-Some spells require knowledge of multiple paths to cast them. A spell with multiple paths in its requirements necessitates that the mage have the requisite level in each path to cast the spell. When calculating bonuses for extra skill levels (see Fatigue below) only the first magic path listed in the skill description is considered. Dual path spells and rituals use magic gems of the primary path.
-Empowerment
-A mage may permanently increase his skill in any path of magic by using Empowerment. This costs a lot of magic gems. For the first skill level in that magic path, the cost is 50 magic gems of that type. For subsequent increases the cost depends on the current skill in the magic path and is 15 x [target level]. This is the only way to gain skill in a path a unit doesn’t have. Magic items which increase magic skill only work if the user’s skill in that path is at least 1. This is also true of battlefield spells which confer a path bonus, like Power of the Spheres.
-Indirect Magic
-Indirect magic represents the general arcane knowledge that a mage possesses about any magic path in which he has skill. This knowledge allows him to gain side benefits just from being knowledgeable in that type of magic. The more skill a mage has in a path, the more benefit he gains.
-Indirect magic bonuses for resistances and protection have minimum a minimum skill level requirement of 3 to confer the bonuses listed. For resistances, the unit gains +5 of the specified resistance at level 3, and 2 per level above 3. For protection, the unit gains +3 protection at level 3, and 1 per level above 3.
-    Path
- Powers per skill level
-     Air Shock Resistance, Magic Leadership +5
-   Astral Magic Leadership +10
-   Death Undead Leadership +30, +1 to existing Fear
-   Earth Protection, Magic Leadership +5
-   Fire Resistance, Leadership +5, Magic Fire Leadership +5
-   Supply Bonus +10, Magic Leadership +5, Nature Poison Resistance, Supply Bonus +10
-   Water Cold Resistance, Magic Leadership +5
-   Blood Undead Leadership +5, Magic Leadership +5
- The +1 to Fear for each Death level applies to an existing Fear ability. Mages with no pre-existing Fear gain Fear +5 at Death skill 5. Lesser levels of Death magic do not confer any level of Fear.
-     Example: You are playing Asphodel, Carrion Woods and select a Freak Lord pretender. You take advantage of the 10-point cost for new paths and choose Fire 2, Air 2, Water 3, Earth 4, and Blood 1. Your pretender will gain +10 Leadership and +10 Magic Leadership (for Fire 2), +10 Magic Leadership (for Air 2), +5 Cold Resistance and +15 Magic Leadership (for Water 3), +4 Protection and +20 Magic Leadership (for Earth 4) and +5 Undead Leadership and +5 Magic Leadership for Blood 1. Note that the pretender does not gain Shock Resistance or Fire Resistance because neither of those paths (Air and Fire) meet the resistance requirement of skill 3 in that path.
-Notice that if you add up all the leadership bonuses, this Freak Lord has +10 Leadership, +5 Undead Leadership, and +60 Magic Leadership. What a freak!
-                     Indirect magic apply all units with any magic skill, including pretenders, within the level activation requirements described above.
-TYPES OF SPELLS
-Spells are divided into two basic categories: Rituals and Battle Magic. The spell lists in the Appendix are divided in this way.
-Battle Magic
-Battle magic can only be cast during a tactical battle. These spells have battle effects like inflicting damage, granting increased protection, reducing fatigue, or some similar effect which only makes sense in the context of the battle mechanics. Battle magic can be scripted into a mage’s list of battle actions using Set battle orders. If a battle spell requires gems, that mage must have those gems in his inventory before the battle begins.
-Some battle spells affect the whole battlefield and are termed battle enchantments. Some of these last the length of the battle. A battle enchantment is dispelled if its caster dies.
-Interrupts Spells have to be prepared for a while before they can be cast. During this preparation time, the caster can be interrupted if he is damaged. The preparation time is about half of the time required to cast the spell. The other half of the time is spent recovering after the spell has been cast. The casting time for most spells is one combat round, but battle enchantments and spells that cost magic gems often take longer.
-The chance of being interrupted when damaged while casting a spell is expressed as a percentage of your full hit points caused by the damage, plus 25%. Thus, a strike that inflicted half of a spell caster’s full hit points in damage would have a 75% chance of interrupting the spell being cast.
-Units with the “combat caster” ability (such as the paladin) are half as likely to be interrupted as a normal unit. Mindless units are also half as likely to be interrupted as a normal unit would be.
-Some monsters are innate spell casters. These monsters do not require any preparation time for their spells and do not care about different casting times.
-Battle Magic mechanics The method for resolving battle magic is very similar to that for missile weapons. Mages have a Precision attribute just like archers do. Spells have a Precision rating, also. For the purposes of calculation these two are added together. Some spells (like Acid Bolt) are armor- piercing. This means Protection against them only counts for half, just like armor-piercing missiles. Some other spells (like Orb Lightning) are armor-negating. This means they completely bypass Protection, and the target’s only defense is the die roll.
-In some cases, instead of Protection, though, some spells check a target’s Magic Resistance. It actually is protection. Protection from magic! Magic Resistance is most often binary in nature, it either protects the target or it does not, with nothing in-between. Against some spells a successful resistance check merely means crippling injuries rather than instant death.
-Some spells (mostly Astral) require the caster to defeat the target’s Magic Resistance before the spell can take effect. If a spell description states that “Magic resistance negates” then the following check is made:
-Caster’s Penetration roll: 10 + DRN + (additional skill in spell path) / 2 Target’s MR roll: Magic Resistance + DRN + (skill in spell path) / 2
-The caster wins ties. Note that not all targets will have any magic skill, much less skill in that spell’s path, so often the target will simply add Magic Resistance and the DRN.
-If a spell description states that “Magic resistance negates easily” then the caster suffers a –4 modifier to his or her penetration roll. This is the same as "easy to resist." "Hard to resist" gives a +4 to penetration roll.
-Fatigue
-Just like attacking in combat, casting spells in battle costs fatigue. Each spell has a listed fatigue cost which a caster incurs when casting that spell. For each skill level in the required path that the mage exceeds the minimum, he incurs 1 / (1 + (mage skill – minimum skill) of the listed spell fatigue. In other words, having an extra skill level means the mage suffers only 1⁄2 fatigue, two extra skill levels means he suffers only 1/3 as much, three extra is 1⁄4, and so forth.
-Spell casters also incur fatigue equal to their base Encumbrance value + 2x Encumbrance value of any armor worn for each spell cast. This is not subject to reduction by skill bonuses. It is harder to make magical gestures in heavy armor. Everyone knows this from armor class days.
-Fatigue is very important for spell casters. It is often the limiting factor in combat, and higher-skill mages thus have an advantage in that they incur less fatigue. Spells that reduce fatigue, like Reinvigoration or Relief, can be very useful as well.
-Rituals
-Rituals are spells which have an effect on the world map, and take an entire month (game turn) to cast. Thus, mages which are to cast a ritual have to be given that order as part of the turn. If a ritual requires gems, the mage may only use gems from a laboratory and rituals can only be cast in provinces with labs (assuming the national pool has enough gems of the required type). The gems will be withdrawn from the national inventory automatically.
-Some rituals affect the entire province that they are cast in. Some of these (but not all) last longer than one turn. These are termed local enchantments. An example of such a spell is Dome of Air. Once the Dome of Air is cast, it persists in that province until dispelled. The spell is dispelled if the caster dies. Local enchantments are also dispelled if the province they affect is conquered by an enemy. The exception to that is that local enchantment powered by Blood magic will persist even if the province is conquered. They must be dispelled instead.
-Rituals can be automated to be recast each month by the same mage using the [Shift]+[m] shortcut when selected and in a laboratory province. The mage will cast the spell as long as he has enough gems.
-If you try to cast a spell and it doesn’t get cast, the most likely problem is that you don’t have enough gems of the correct type.
-Global Enchantments
-Global enchantments are rituals. These are very powerful spells that affect the entire world of Dominions 5. They often cost a lot of gems and have severe effects. Only five such spells can be in effect at any one time. You can find out which global enchantments are in effect at any point of a game by clicking on the Global Enchantments button in the main screen, or just hitting [F6].
-When casting a global enchantment, you have the option of adding more gems to the spell than are required. This is because the more gems you use to cast a spell, the harder it is to dispel it.
-The maximum number of gems a mage can use to cast a ritual is his or her path level x 100. So a skillful mage casting a simple global enchantment can put very many extra gems into it if he or she wants.
-Just like local enchantments, global enchantments are dependent on their caster. If the caster dies, the global is dispelled. This can be because he died of old age, or because some clever enemy realized it was easier to assassinate him than to try to dispel the massive global spell he had put 200 extra gems into. Extra gems don’t protect mages against assassination.
-Dispelling global enchantments Global enchantments can be dispelled in one of two ways. The first is with an Enchantment-5 spell that is Astral-3 (that’s a spell that requires a skill of 3 in the Astral path, and is level 5 in the Enchantment school of magic) simply called Dispel. The other way is to cast another global enchantment when there are five already active. The sixth one will replace one of the five existing ones if it is successful in overcoming it. The enchantment it will attempt to replace is random, so casting a global enchantment to dispel a specific enemy global is unlikely to select exactly that spell. However, it’s better than nothing.
-The exception to this is if you try and cast a global enchantment that is already in effect by another nation. In this case, your version will try to replace the enemy version instead of trying to replace a random existing global.
-To reiterate: when a global enchantment is cast, the following cases are applied in order:
-● if there is already a global of the same name active, the new global attempts to replace it according to the dispel mechanics
-● if there are fewer than five active spells and there is not already an instance of this spell active, the newly cast global immediately fills one of the empty slots
-● if there are already five global spells active, the newly cast global attempts to replace a randomly chosen spell. This can be a spell cast by the same nation casting the new global. You can accidentally dispel your own spells. These are unruly magicks.
-Spells cast by multiple mages are cast in a random order. This true for all mages, not just those of a given nation. What happens at any given time depends on how many global spells are active, and which ones they are. There may only be two globals active at the beginning of a turn, but by the time a mage casts his own, several other mages may have filled up the remaining slots.
-Dispel mechanics Whenever Dispel is cast or a global tries to replace another for whatever reason, the two spells are compared. The total number of extra gems and the levels of the casters above their spells’ requirements are compared according to the following formula:
-+1 for each extra gem (above the requirement for casting)
-+5 for each level of skill by the casting mage in the spell’s path above the casting requirement
-a drn (single open-ended die) is added to each side. The side with the higher number wins.
-Communions
-The Astral and Blood paths of magic contain a special type of spell called a communion that allows mages to increase their magic skill temporarily while in combat and to distribute the fatigue from their spellcasting among other friendly mages. It requires the casting of two spells, one being the master and the other being the slave. The Astral spells are called Communion Master and Communion slave, while the Blood spells are called Sabbath Master and Sabbath Slave, and function identically except for the name and the fact that the Astral Spell uses gems and the Blood spell uses blood slaves. For the purposes of this section they will simply be referred to as communions. A valid communion cannot exist without both the spells Communion Master and Communion Slave (or Sabbath Master and Sabbath Slave) in effect.
-Communions give the communion master(s) +1 skill in all paths of magic in which they already have at least 1 skill. They also allow the fatigue from spellcasting to be distributed among all the communion slaves in that communion.
-Level bonus: A communion master gains n extra levels in each of his or her known magic paths for every 2n slaves in the communion. This is true for each communion master in the communion.
-Fatigue distribution: The amount of fatigue assigned to each participant in the communion is the cost of the spell cast by the master divided by the number of participants in the communion. This is further modified depending on the skill level of the communion slaves:
-slave level = master level -> no modification slave level > master level -> fatigue / 2
-slave level < master level / 2 -> fatigue * 4 slave level < master level -> fatigue * 2
-Definition of participant: the communion master casting the spell in question, plus all friendly communion slaves on the battlefield, are considered participants in the communion for the purpose of any single spell cast. Note that skill levels gained from the communion (and all other means) are included when calculating fatigue cost of a spell.
-The skill bonus gained by each master drops as soon as the number of slaves in the communion drops below the threshold for that bonus. The communion ends as soon as there are either no masters or no slaves in the communion.
-Slaves cannot perform any actions on their own while part of the communion. However, they do benefit from any self-buffs cast by the communion master(s).
-If the communion breaks because all the communion masters are dead or have fled the battlefield, the communion slaves suffer a backlash that affects all slaves by stunning them for approximately one round, and inflicts 3d50 fatigue damage per slave.
-The magic items Crystal Matrix and Crystal Slave allow their bearers to participate automatically in a communion with having to cast the spell. The bearers must be mages (at least 1 skill in a magic path other than Holy). They do not, however, have to have Astral skill.
-MAGIC GEMS
-Gems represent the physical manifestation of the magical essence of the paths of arcane power. They are generated by magic sites, and the owner of the site has these gems added automatically to his magic resource treasury (accessible with the [F7] key) each turn, as long as there is a connection through friendly territory to a province with a laboratory.
-Managing your magic resources
-The magic resource treasury (shown below) lists all the gems your nation currently has, as well as the rate at which it is acquiring new ones. To the right, the “pool” button allows you to collect all gems from commanders stationed in a province with a laboratory. This is especially effective for blood hunters, who will often need to transfer slaves from their inventory to the national pool. Clicking the choice at the bottom of this screen opens a new window that allows you to transfer gems between commanders by clicking on the number of gems they have.
-Using magic gems in combat
-Mages can use magic gems in combat for two purposes: to temporarily raise their skill level, and to reduce fatigue. This represents the release of the distilled magical power of the gems themselves. Because it takes a skilled caster to keep things from getting out of control, a mage can only use as many gems as his current skill level in that path each turn.
-By using a magic gem, a caster gains one skill level in that magic path. This can be used both to allow a mage to cast a spell for which he would not normally have the skill, or to reduce the fatigue of a spell, or both. However, a mage may never increase his skill level by more than one by using gems, or gain skill in a path in which he or she did not already have at least one skill level.
-The player may script spells for which a mage does not have the requisite skill and place the necessary gems in his inventory. He may also simply include extra gems in the mages inventory and the computer will use them to reduce fatigue for spells he already has the skill for, if necessary. However, the specific use of gems in this manner is controlled by the computer. Checking the box “conservative gem use” will ensure that the mage uses his gems as sparingly as possible and for scripted spells only. This can be useful if you want to save gems for later battles. Otherwise there is no opportunity for the player to intervene.
-Some spells increase a caster’s skill in a magic path for the duration of the combat. The difference between these spells, and using gems to increase magic skill, is that using gems only lasts for that one spell in that one combat round.
- RESEARCH
-The research sliders in the Arcane Laboratory determine how many research points you have allocated to a school of magic in a given turn. The number of points available is equal to the total of the research abilities of all commanders given orders to research in that turn. In order to have research as an available command, that commander must be in a province with a friendly laboratory, because that is where the magic books are. Each mage can only research one school of magic in a turn, which is different from Dominions 4.
-Normally only commanders with magic skill can conduct research. The number of research points is indicated next to the pile-of-magic-books symbol. The higher a mage’s magic skills, the more research points he or she will have. The only non-mages who can research are the philosophers of Arcoscephale and any units with the Divine Insights special ability. Commanders with Divine Insights contribute 3 research points but there can only be a number of them at work in a single lab equal to the dominion strength in the province. Any divinely inspired researchers over that limit do not contribute anything.
-Magical research points are affected by Magic/Drain scales. Magic scales give mages extra vigor to study the tomes of arcana all night. Drain scales make them sleepy.
-The basic formula for calculating a mage's research ability is: (5 + (2x magic levels of mage) +/- research bonus/penalty.
-MAGIC ITEMS
-The Construction school of magic allows you to construct magic items which can be given to commanders to use. This is done by giving the order “Forge Item” to a mage in a laboratory. He then uses whatever magic gems are required to create the item. Some items (artifacts) are unique, and only one of each can exist in the game at a time. The remainder of the magic items available for forging can be created without restriction, as long as creating nation has researched the appropriate level in the Construction school, and the crafting mage has the requisite skill and gems. A mage can be set to repeatedly forge the same item every turn by selecting him and using the key combination [shift] + [o].
-DIVINE MAGIC
-Divine spells are a special category of magic, which does not depend on research or magic paths. Instead, it depends on the Holy skill of the caster, and is thus only available to priests or other units with at least one level of Holy skill. All common divine spells are available to all nations at the start of the game, and units can cast all spells for which they have the appropriate skill level. All divine magic consists of battlefield spells.
-ALCHEMY
-Magic gems can be converted from one type to another through alchemy. This is can be done by any commander with magical skill by selecting the “Alchemy” order in the Orders list. This brings up the Alchemy screen, which allows gems to be converted from on to another. In general, alchemy can only convert gems into Astral gems, or convert Astral gems into gems of any other type. Either way, the rate is 2:1 old:new gems. It is possible to convert gems into Astral gems first and then into a different type
-in a single turn. In that case, the rate is effectively 4:1 old:new, so this can get very expensive. A commander can only perform alchemy if he or she is in a province with a friendly laboratory.
-Alchemy is also possible through magic. There are ritual spells which allow for this conversion. As would be expected, they are Earth and Fire spells of the Alteration school. These convert gems to gold, rather than gems to pearls.
-From the tomes of the lore of Dominions
-Xibalba is a vast realm of dark caverns beneath the forests of Mictlan. According to legend, the sun and the moon passed through the labyrinthine caverns on their daily journey to the eastern horizon. On this journey they were guarded by the bat people, Zotz, that dwelled in the dark reaches of the Xibalban underworld. Being almost blind, they would not see and not covet the splendor of the sun. No one has seen the sun or moon pass through Xibalba for ages, but the Zotz keep their vigil and traditions alive. Lately, the bat people have lost purpose and the priestly rulers of Xibalba look to the surface world to once more bask in the splendor of the sun and moon. The Zotz are led by priest kings from various cities, and only the priesthood represents centralized power. They still train the sacred Sun Guides that were once tasked with guarding the celestial entities through the dark world of Xibalba. The Zotz have contact with surface dwellers, primarily those of Mictlan, and have adopted some of their technology and practices. The Zotz have an affinity for blood hunting and black magic. Despite being guides of the sun, their skill in solar magic is limited. The Zotz are numerous and live in great swarming cave colonies. Numbers—rather than strength—allow them to win battles.
+# 魔法
+
+如果说战斗系统是神域5的心脏，魔法系统就是它的灵魂。万事万物都以某种方式受到魔法的影响。顶级法术能够召唤出可怕的怪物,还能改变整个世界的面貌，也能用来打造各式神器供英雄使用。下面是几条基础规则：
+
+- 法术有两种，仪式和战斗法术。仪式在战场外使用，战斗法术在战场中使用
+- 魔法依*道系*(path)与*学派*(school)两者归类
+- 一个法师的道阶基本是固定的，不会轻易变化
+- 学派是通过研究类别划分的一个法术组
+- 法术研究在实验室中进行
+- 许多法术需要消耗宝石和血奴
+- 宝石产自魔场(magic site)，包括位于首都的魔场
+- 宝石和血奴能被指挥官随身携带，也能储存在国库中
+- 指挥官向国库存取宝石、血奴和魔法物品需要通过实验室进行
+- 构造学派解锁魔法物品和神器的打造
+- 神术是一种仅供牧师使用的特殊战场法术
+
+## 魔力道系
+
+魔力共有八个道系：![]()火、![]()气、![]()水、![]()土、![]()星、![]()自然、![]()死、![]()血。前七个对应七种宝石，而血系不存在血宝石，取而代之的是血奴，血奴通过血猎捕获。上面这些符号代表对应的道系，在法术描述中标示施法条件。
+
+道系即是魔法的本源分支。只要国家研究出来，一位火系法师终将学会其道阶覆盖的所有学派的火焰法术；但是除非他拥有自然或者土系道阶，否则他永远不能学会自然法术或者土系法术。一些魔法物品能够提升法师已有的道阶，但是掌握新道系只能通过魔力强化(后述)。
+
+## 研究学派
+
+魔法研究共有七个学派：召唤、变化、塑能、构造、附魔、奇术、血魔法。注意血魔法学派和血系道系的不同(虽然它们相关)。
+
+学派即是掌握魔法道系法术所需要学习的知识领域。比如，召唤学派主要应对从世界外侧召唤生物。每个国家都能研究召唤学派，使用学派下的任何法术只需两个条件：**一**，完成对应法术研究环级；**二**，法师掌握对应道系。
+
+法师施放特定法术的时候，需要：一，所属学派的研究环级足够；二，法师掌握法术需要的所有道系；三，法师拥有法术需要的宝石或血奴消耗。
+
+每个学派拥有大量各异的法术，大致特征如下：
+
+    *召唤*：从异界召唤力量和生物。许多法术向你提供额外兵种。
+    *变化*：改变物理世界。变化法术能够为你强化力量、提升火焰抗性等等，也能改变天气。
+    *塑能*：向物理世界投放奥术能量。与传统印象中的魔法相似，火球术闪电术这种。提供大量战斗法术。
+    *构造*：构造环级决定你能打造哪些魔法物品。也有一些法术能用来制造魔法单位。
+    *附魔*：向人员、物品或土地附加魔法属性。你能为整个省份覆盖防护穹顶，或者为目标提供长效的生命力提升。
+    *奇术*：用传统印象中巫术的方式操纵奥术世界。你能召唤一个战士所有的刀下亡魂并把它们送到战士身边，也能制造窗口窥察远方的土地。
+    *血魔法*：所有血系法术都要通过研究血魔法来解锁。如果你的国家拥有血系法师，你得研究一下。
+
+附录图表里有游戏中所有法术的简介。
+
+## 施法资格
+
+每一个法术都以符号数量标示出了道阶要求。要施放一个法术，法师必须满足所有道系的要求，所属国家必须在相应学派上完成对应环级的研究。
+
+学派环级更高的法术，道阶要求并不一定更高：鬼火(Will o'the Wisp)是一个五环召唤法术，却只需要火系1阶。这也是熟悉学派所含具体法术之所以重要的理由之一，因此你需要制定研究计划。
+
+值得一提的是，虽然学派大体上划分了法术作用，但并不严格——阿卡西知识(Acashic Knowledge)是召唤学派法术却并不召唤什么东西出来，而是用来搜索宝石收入。
+
+## 交叉道系
+
+一些法术需要掌握数个道系。施法要求*在每一个道系上都满足道阶需要*。计算额外道阶奖励的时候(见下述疲劳词条)只考虑第一个道系。双系法术和仪式消耗的宝石种类由主道系决定。
+
+## 魔力强化
+
+通过魔力强化，法师能在任何道系上永久提升道阶。这一过程消耗大量宝石。提升到道系一阶需要对应种类的50枚宝石。之后每阶宝石消耗量是`15 x [升阶后的等级]`。任何单位想要开拓新道系只能通过魔力强化。提升道阶的魔法物品只对至少一阶的单位生效，临时提升道阶的战斗魔法(比如天界之力Power of the Spheres)也是如此。
+
+## 魔力波动
+
+魔力波动是法师对道系知识的奥术理解。理解知识本身就能对法师提供增益，道阶越高增益越强。
+
+下表魔力波动增益中的抗性和护甲效果需要至少道系3阶才会激活。抗性在3阶提供+5加值，每高一阶加值多+2。护甲在3阶提供+3加值，每高一阶加值多+1。
+
+| 道系|每阶能力|
+|------|-----------------------------------|
+| 火|火焰抗性，领导力+5，魔法领导力+5|
+| 气|闪电抗性，魔法领导力+5|
+| 水|寒冷抗性，魔法领导力+5|
+| 土|护甲，魔法领导力+5|
+| 星|魔法领导力+10|
+| 死|亡灵领导力+30，已有恐惧+1|
+| 自然|补给+10，魔法领导力+5，毒素抗性|
+| 血|亡灵领导力+5，魔法领导力+5|
+
+死系提供的每阶+1恐惧仅对已有的恐惧能力生效。没有恐惧能力的法师在死系5阶的时候得到恐惧+5的能力，低阶不提供恐惧能力。
+
+> 例：你是水仙国(Asphodel, Carrion Woods)玩家，选择了畸怪领主为伪神。你利用了开拓新道系只花费10点的优势，选择了火2，气2，水3，土4，血1。火2提供了+10领导力和+10魔法领导力，气2提供了+10魔法领导力，水3提供了+5寒冷抗性和+15魔法领导力，土4提供了+4护甲和+20魔法领导力，血1提供了+5亡灵领导力和+5魔法领导力。注意，因为气系火系没到3阶的最低要求，他没有得到闪电抗性和火焰抗性。
+>
+>把所有的领导力加起来，这个畸怪领主得到了额外+10领导力，+5亡灵领导力，以及+60魔法领导力，真变态\!
+
+以上魔力波动规则对所有法师单位有效，包括伪神。
+
+# 法术的类别
+
+法术分为两大基本类别：仪式和战斗法术。附录中的法术列表由此分列。
+
+## 战斗法术
+
+战斗法术只能在战场施放。这些法术拥有诸如造成伤害、增强护甲、降低疲劳等以及仅限战场生效的类似效果。战斗法术能通过**制定战斗指令**编人战斗脚本。法师不携带宝石就无法使用消耗宝石的战斗法术。
+
+一些战斗法术影响整个战场，被称为战场结界(battle enchantment)。其中一些持续整场战斗。施法者死亡时战场结界消失。
+
+**打断** 法术施放之前要经过一段时间的准备，其间施法者受到伤害会被打断。准备时间大致占整个施法时间的一半，另一半是施法之后的冷却。多数法术的施法时间是一战斗轮，但是战场结界和消耗宝石的大魔法需要更长时间。
+
+准备施法期间被伤害打断的概率是`[25% + 伤害损失的生命值 / 满生命值]`，因此打掉施法者一半生命值的一击会有75%的概率打断正在准备的法术。
+
+拥有“战斗施法者(combat caster)”能力的单位(如圣骑士)被打断法术的概率是普通单位的一半。无心智单位同样是一半。
+
+一些怪物是本能施法者(innate spellcaster)，他们不需要施法准备时间，大魔法也不耗用更多时间。
+
+**战斗魔法机制** 战斗法术的处理方式非常类似远程武器。和射手相同，法师也使用精准(Precision)属性，法术本身也有精准修正，计算的时候把两者相加。一些法术(如酸箭Acid Bolt)是穿甲(AP)的，和穿甲箭矢一样，护甲值减半生效。还有一些法术(如球状闪电Orb Lighning)是透甲(AN)的，完全忽视护甲值，对方仅以剩下的随机骰防御。
+
+有时，防护不取决于护甲值，而是魔力抗性(Magic Resistance)。魔抗*即*对抗魔力的护甲。魔抗多数情况下是二元判断，要么生效要么失效没有中间态。对于一些法术来说，魔抗生效仅意味着重伤而非立毙。
+
+一些法术(多数是星系法术)生效需要击败对方魔抗，如果法术描述写着“魔抗抵消”就会进行下列判定：
+
+**施法者法术穿透骰**：10 + DRN + (高出法术道系要求的额外道阶) / 2
+**法术目标的魔抗骰**：魔抗 + DRN + (对应道阶) / 2
+
+骰平则施法者胜出。值得一提的是，法术目标并不一定拥有道阶，更不用说法术对应道系的道阶，所以魔抗骰经常直接计算魔抗加DRN。
+
+如果法术说明中写着“易于魔抗抵消”，穿透骰将获得额外-4修正，正如字面意思上的“容易抵抗”。反之，“难于抵抗”的法术穿透骰获得+4修正。
+
+## 疲劳
+
+如同物理攻击一样，战斗施法也会积累疲劳。在法术说明中有施法疲劳的明确数值。道阶超出法术要求时，法师的施法疲劳是标示数值的**1 / (1 + 道阶 - 最低要求)**。换句话说，高出一阶疲劳降为原本的1/2，高出两阶则为1/3，三阶1/4，以此类推。
+
+施法者在每次施法时还要累积数值等于`[基础负荷 + 2 x 盔甲负荷]`的额外疲劳。道阶对疲劳的影响对此不生效。重甲限制施法动作，这和DND的概念相似。
+
+疲劳对施法者至关重要，战场上它是战力瓶颈。高阶法师积累疲劳更少因此更加凶悍。降低疲劳的法术，比如回精术(reinvigoration)和全体回精术(relief)，价值很高。
+
+## 仪式
+
+仪式即在地图上生效的法术，一次需要整整一个月(游戏中一回合)来完成。执行仪式的法师以仪式作为回合动作。仪式仅在所需宝石国库储量和所在省实验室都齐备的前提下才会执行，消耗国库宝石。
+
+一些仪式生效目标是目标省全省，其中部分仪式的持续时间超过一回合，这些被称为**区域结界**。以大气穹顶(Dome of Air)为例，除非驱散，一经施展一直生效。施法者死亡会驱散所施法术。省份被敌人占领也会驱散当地的区域结界。血魔法例外，它们不会因占领而自动驱散，需手动驱散。
+
+`[Shift]+[m]`快捷键能让法师在有实验室的省份每月自动重复执行同一仪式，直到国库宝石不足。
+
+如果你的仪式指令不能设置成功，很可能是因为对应宝石不够。
+
+## 全球结界
+
+全球结界属于仪式。在神域5中，它们全球生效，消耗巨量宝石获得惊人效果。5个全球结界是世界的容纳上限。点击主界面上的全球结界按钮或者快捷键'[F6]'可以查看当前游戏中生效的全球结界。
+
+进行全球结界时，你可以投入超过基础数量的宝石，投入越多越难驱散。
+
+仪式中投入宝石数量的上限是法师道阶 x 100，所以高阶施法者能在一个简单的全球结界上投入超巨量的宝石。
+
+与区域结界相同，全球结界依存于它的施法者，人死法消。死因可能是寿终，也可能是出于敌方毒手，聪明人会觉得刺杀比硬生生驱散200额外宝石的全球结界要容易。额外宝石对防护刺杀可没有任何帮助。
+
+**驱散全球结界** 全球结界有两种方式驱散。一者是附魔学派5环星系3阶的“驱散(Dispel)”法术，一者是以五个全球结界上限为基，施展新法术挤掉旧法术。新法术会以随机挑选五个旧法术之一作为对象，检定压过就会挤占成功。挤掉不一定是你期望的，但总比没有办法强。
+
+例外的情况下，你施放的新法术与已存的旧法术相同，这时新法术只会替代那个相同的旧法术而非随机选择。
+
+换种方法表述：全球结界施法后，以下判定依次发生：
+
+- 如果同名法术已存在，新法术依照驱散判定取代同名法术
+
+- 如果已存全球结界数量少于5并且其中没有与本法术同名的，新法术即刻生效填补空位
+
+- 如果已有5个全球结界存在，新法术会随机选择其中一个试图取代，甚至可能是自己国家的。自己可能驱散掉自己的全球结界，魔法就是这么任性。
+
+回合内多个法师的施法顺序是随机的。不是在一国内部随机，而是世界随机。施法判定实时判断，而非依据前一轮的状况。前一轮全球结界有两个，轮到某个法师施法的时候位置很可能已经满了。
+
+**驱散机理** 施放驱散法术(Dispel)时，或是全球结界新法术以任何原因取代旧法术时，前后两个法术会进行比较。额外投入宝石总数、施法者道系超出要求的额外道阶，这些因素以下来公式进行比较：
+
+每额外宝石**+1**(基础需要以外的部分)
+每额外道阶**+5**(基础需要以上的部分)
+
+双方还要各加一个**drn**(单个开放骰)，总和更高的取胜。
+
+## 共联
+
+共联是一种特殊的星系血系法术，它能在战场上临时提升法师道阶，并把法术疲劳分散给友军法师。它由两部分法术组成，一者为主一者为奴。星系版本叫作共联之主和共联之奴，血系版本是血联之主和血联之奴，除了名字和耗用宝石血奴种类不同之外没有区别，本节统一指为共联了。只有法术共联之主与法术共联之奴(或者血联之主与血联之奴)同时生效的时候，整个共联系统才生效。
+
+共联为共联之主在他们所有至少1阶的道系上提供道阶提升。此外，还把法术疲劳分配给共联系统中的所有奴隶。
+
+<u>道阶提升</u>：当系统内奴隶数量达到2*<sub>n</sub>*时，对于每个主人，所有至少1阶的道系提升*n*个道阶。
+
+<u>疲劳分配</u>：共联为每个参与者分配的疲劳数值是法术疲劳数值除以参与者数量，之后依奴隶的道阶进行如下调整：
+
+奴隶道阶 = 主人道阶  -> 没有调整
+奴隶道阶 > 主人道阶  -> 疲劳 / 2
+奴隶道阶 < 主人道阶 / 2  -> 疲劳 * 4
+奴隶道阶 < 主人道阶  -> 疲劳 * 2
+
+<u>共联参与者</u>：对于特定法术，参与者包括直接施法的共联之主，和战场所有己方共联之奴。注意，疲劳计算道阶的时候，包括共联提升在内的所有加值都包涵在内。
+
+奴隶数量下降的时候，主人的道阶提升也随之调整下降。一旦主人或者奴隶的数目归零，共联结束。
+
+共联过程中奴隶失去主动行动能力，不过主人施展的自身增益法术，效果会一并传递给奴隶。
+
+如果战场所有共联之主死亡或逃脱，共联终结，那么每个奴隶都会受到反噬，震慑一轮左右，并受到 3d50 点疲劳伤害。
+
+水晶母符和水晶奴符这两件魔法物品的作用是让装备者在战场上无需施法自动进入共联系统。使用者必须是法师，拥有除神术外其他道系至少1阶，不过并不要求星系道阶。
+
+# ![]()![]()![]()![]()![]()![]()![]()宝石
+
+宝石是各道系奥术能量的魔力本质具现。它们由魔场产生，产量每轮自动添加到国家宝石库('快捷键[F7]')，只要所在省通过友军领土与某一实验室相连。
+
+## 调配魔力资源
+
+国库魔力储备(下示)展现了国家当前拥有的所有宝石存量和收入。右方“归库(pool)”按钮使所有拥有实验室省份中的所有指挥官身上的对应种类宝石归于国库。这个功能对于经常需要转存血奴的血猎者尤为方便。屏幕下方的按钮能够开启新窗口，让指挥官之间交流携带的宝石。
+
+## 战场宝石使用
+
+战场上法师使用宝石有两个理由：一为临时提高道阶，一为降低疲劳。使用宝石意味着释放其中的纯净魔力。法师根据自己对魔力的支配能力，*每轮只能使用与其当前道阶相同数量的宝石*。
+
+通过使用宝石，法师能够临时提升一级道阶。这能让他施放出原先道阶不足放不出的法术，能降低施法疲劳，或者两者皆有。然而，*通过宝石法师最多提升一级道阶，而且不能从0到1*。
+
+玩家在战斗脚本中可以为法师编入道阶要求过高的法术，并在其物品栏中携带必要的宝石。玩家也可以简单地给法师多带宝石，AI会在对应道系的法术上为法师使用来降低疲劳，不过这种做法玩家不能控制，是由AI自动判断的。勾选“保守使用宝石”一栏能够确保AI以最俭省的方式使用宝石，而且只在脚本法术上花费宝石。如果玩家想为之后的战斗节省宝石的话这很有帮助。除此之外没有其他干涉方法。
+
+有些法术能在战场上临时提升道阶，这种方式和使用宝石提升的区别是，前者持续整场生效，后者仅在一个法术上生效。
+
+# ![]()研究
+
+~~奥术实验室中的研究条可以分配每轮各学派的研究点数。~~总研究点数即是该轮所有执行研究指令的指挥官的研究能力总和。执行研究指令，需要指挥官位于己方拥有实验室的省份，这样才能接触到研究所需的魔法书籍。与神域4不同，每轮所有法师只能研究一个法术学派。
+
+通常来说，只有拥有道阶的指挥官才能研究法师。单位界面上，一摞书的符号旁边就是这个单位的研究点数。法师的道阶越高研究点数就越多。并非法师的研究者，只有希腊(Arcoscephale)的哲学家，和拥有神力洞察(Divine Insights)特殊能力的单位。拥有神力洞察的指挥官有3点研究点数，但是每省进行这种研究的人数有限制，一个实验室能容纳的人数等同于当地神域强度。超出数量的人不能提供研究点数。
+
+神域的魔力/枯竭天平影响研究点数。魔力神域提供让法师整晚埋头书卷的额外精力，枯竭神域相反，让他们昏昏欲睡。
+
+法师研究能力的基础公式是：**5 + (2 x 法师道阶) +/- 研究奖励/惩罚**
+
+# 魔法物品
+
+构造学派能让你打造魔法物品来装备指挥官。实验室中的法师可以执行“打造物品”指令，然后用所需要的宝石来完成这件工作。一些物品(神器)是独一无二的，游戏中整个世界同时只能存在一个。其他的魔法物品没有限制，只要构造研究等级、法师对应道阶和宝石储量都够就能打造。法师可以执行每月重复打造同一件物品的指令，快捷键'[shift]+[o]'。
+
+# ![]()神圣魔法
+
+神术是一类特殊的魔法，不依赖研究也不依靠通常的魔法道系。取而代之的是神圣道系，因此只有牧师和拥有神圣道阶的其他单位才能施展神术。通用神术对全部国家在一开始就全体开放，只要拥有相应的道阶，任何单位都能施法。神术全部是战斗法术。
+
+# 炼金术
+
+宝石能通过炼金术变换种类。通过行动指令列表中的“炼金术”指令，所有拥有道阶的单位都能够完成这一工作。在弹出的炼金术界面中，宝石能够从一种转化成另一种。总的来说，炼金术只能将其他种类的宝石转化成星宝石，或者把星宝石转化成其他种类的宝石，这两个过程的转化率相同，2枚旧宝石化为1枚新宝石。一种宝石可以先转化为星宝石再转化为另一种宝石，这样新旧宝石的转化率就是1:4了，非常昂贵。指挥官只能在己方拥有实验室的省份进行炼金术。
+
+炼金术也能通过仪式进行。正如你们预料的那样，变化学派拥有相应的土系和火系法术。这种方式能将宝石化为金钱，而非星系宝石——珍珠。
