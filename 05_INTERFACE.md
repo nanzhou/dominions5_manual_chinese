@@ -1,293 +1,246 @@
-STARTING A GAME
-Game creation and game playing in Dominions 5 are separate things. In order to start a new game, you must create it under Create World. When you return to a game you have already created after the first time you play it, you choose Continue Old Game.
-Creating a pretender is an involved process (see The Pretender) but once you have done so, your pretender for that nation is stored and available for new games. The game will store multiple pretenders for each nation, and the order in which you created them corresponds to the order (top to bottom) in which they appear when you get to the Load Pretender God screen.
-Note: Pretenders created “on-the-fly” in the Create World process are not saved. They function for that game only. The only way to save a pretender build for later use is to go through the Game Tools from the main menu and choose Create Pretender God. That will create a pretender and save it to the /dominions5/savedgames/newlords folder. So if you have a good idea while whipping up a pretender during game creation, remember it or write it down and then go back and make it using Game Tools!
-To create a new game, click on Create World in the opening menu screen. You'll be asked to choose a map, which can be a pre-made map or a randomly created one. The map will be generated once you have made all your choices for the game. The next step is to give the game a name. This generates a folder with this name in saved games folder so you can find the files easily. You can access this from the Tools & Manuals menu under Other → Open User Data Directory.
-You can start playing the game immediately from the creation menu, which makes it faster than the system in previous Dominions games. Once a game has been created and you have quit out of it for some reason, you
- can play it again by choosing Continue Old Game from the same menu, and selecting the appropriate one.
-Choosing an Age
-The next choice will be whether to play in the Early, Middle, or Late Ages. This determines the
-nations available. In general, Early Age nations have weaker troops and stronger mages.
-Choosing participants
-Once you have selected an age, you can select the nation you and the AI player(s) will represent. The default is “Random” which will choose from the available list of nations. You can choose a specific nation by clicking on the word “Random” which will open a window listing the available nations for that Age. Then click on the nation you desire. Nations cannot be duplicated – there can only be one of each in a given game. You can also set the AI players to specific nations in the same way. To add another player (either AI or human), click on “Add new player.” To remove a player from the game, click on the name of the nation (or on “Random” if you have not set a nation) and click on the word “None” at the bottom of the list of nations.
-Once you have selected your nation and the other nations (random or otherwise), you need to either create a pretender or choose one from your available pretenders. If you have already created a pretender for a nation, you can access it via Load Pretender God at the bottom of the pretender creation screen. If not, you can create a pretender right there.
-Disciple games
-At the bottom of the Choose Participants screen is a checkbox for "Disciple Game." This is a special type of game that will be explained below. Once you check this box, two additional columns will appear: one for Team and one for pretender/disciple. You will not be able to click "Ok" (the choice will be greyed out) until each team has one and only one pretender (and any number of disciples). There is no requirement for balance among teams, or equal numbers of disciples, or having disciples at all. You can change teams and pretender/disciple status by clicking directly on the team number, or on the word "pretender" or "disciple."
-The disciple game is a team game which allows players to play in teams, but preserves the true nature of the world of Dominions, which is that it is all about pretenders aspiring to godhood. And there can only be one god in the end. So one player takes on the role of the pretender. All other players on his team (if there are any – there is no requirement for all pretenders in a disciple game to have disciples) play the part of his disciples.
-Disciples do not create pretenders, they create disciples. A player has 300 points (rather than the usual 425 for pretenders) to create a disciple. Furthermore, disciples have no dominion or scales. They only choose physical form and magic paths. They also cannot choose whether they are awake or not from the beginning of the game. They awaken in half the time of the pretender God, so only awake gods start with awake disciples. After all, it is they who are heralding the entrance of the pretender god. The temples of disciple players spread the dominion of their pretender god. The disciple unit itself does so, too, but as a prophet (the equivalent of one temple check). Disciple units also get increases in strength, hit points, and magic resistance when they are in their pretender god's dominion, just like prophets. In disciple games, no one can appoint prophets, neither the pretender player or the disciple players, since the disciples act as prophets. Prophets can only be appointed in standard, free-for-all games.
-Game settings
-The last issue is the game settings. These control the makeup of the world, as well as some options for renaming commanders, showing score graphs, and various other options. The options are straightforward and are described by tooltips that appear when mousing over the different categories. Players can choose to make gold more or less available, change the frequency with which magic sites will appear, adjust the strength of independents, and many other things which will give the game a unique character. This is largely up to the players’ taste. For example, a game with a high independent strength will slow players’ expansion while they build larger armies to conquer adjacent provinces, and will prolong the time before enemy nations come into contact. Increasing magic (either sites or research) will hurt nations which have weak magic to begin with, because more magic-oriented nations will be able to start using more powerful magic faster. You’ll eventually get a feel for what works for you.
-Score graphs Score graphs contain a lot of information, and can take over a multiplayer game as everyone watches who has the most provinces, who has the biggest army, and thus who is seen as the biggest threat. It makes for a very different game if players have to scout for information, and diplomacy becomes more useful since it’s not immediately obvious that you have an army twice as big as your neighbor’s. The game plays very differently in multiplayer with score graphs on, as the prime objective becomes to not be the leader in any of the major categories, while not falling too far behind, either.
-On the other hand, in solo games, especially for newbies, the score graphs can be valuable tools for gauging your progress and evaluating threats to your position. Use them wisely.
-Units with the Spy ability give players access to score graphs, even if they are disabled. They cannot get information on enemy players unless they are in the enemy capital, however.
-Master password Setting a master password allows the host to go in and set a player’s position to computer control (and thus preserve the flow of the game) if a player drops out and his pretender is password-protected. For large multiplayer games where some attrition is likely, consider either setting a master password, or having a third party collect all the passwords for the game, to be used only if a player becomes unreachable. While the usefulness of the master password is mostly the ability to give AI control to a dropped player, it does allow full access to a player’s position.
-The game supports hotseat play (multiple players on the same computer), play-by-email (PBEM), or online play (either over a LAN or the Internet). If you are the only human player in the game (all other nations are AI) then it is a solo game and you can skip the descriptions of PBEM, hotseat, and network play below.
-Victory Conditions There are a number of different victory conditions than can be set for the game. The most straightforward one, of course, is to conquer everyone else. But you can also win by research, by dominion, or by controlling Thrones of Ascension. You can mouse over the victory conditions to see which ones suit you. Thrones of Ascension is the default victory condition.
-Cataclysm This is a way to force the game to end after a certain number of turns. The Cataclysm will cause horrors to appear and start destroying Thrones of Ascension. (These are powerful horrors.) Every Throne destroyed also reduces the number of Ascension points required, so a winner should appear shortly after the Cataclysm begins. In the unlikely event that no one owns a Throne as the last ones are destroyed, the horrors win.
-Playing a PBEM game
-Because turns in Dominions 5 are resolved simultaneously, it works well in PBEM (play by email) because turns don’t have to be passed around sequentially from play to player. All it needs is a player to be the “host” and collect turns from all the players. He then resolves the turns and sends the results to each player.
-Starting a PBEM game is very similar to starting a solo game. It can include AI-controlled nations as well. All that is required is that players create their pretenders using the Create a Pretender God tool, and send the resulting file to the host player. This file is located in the /newlords folder which resides inside the aforementioned /savedgames folder. For example, the first pretender you created for Early Age Marverni will be named early_marverni_0.2h. Subsequent pretenders will be named early_marverni_1.2h and so on, sequentially. This corresponds to the order (top to bottom) in which they appear when you get to the Load Pretender God screen. So if you have five pretender gods for a given nation, the fifth god you created will be the bottom one on the list. Make sure you send the host the pretender file you want to play with, and tell him the name of the pretender to confirm it!
-Note that the host does not actually have to be a player in the game.
-Creating a PBEM game Once the host has received all of the players’ pretender files, he or she must place them in his own /savedgames/newlords folder. If he or she has similarly named files for pretenders he or she created for his or her own adventures in the world of Dominions, he or she must make sure to move them or otherwise not overwrite them. Then the host creates a game just as though he were creating a solo game, by choosing a map, naming the game, and selecting the appropriate Age as described above. The host then sets all of the nations and chooses human or AI control as appropriate
-in the Choose Participants screen. When this is done, the host must Load a Pretender God for each human player in the game. The host will be prompted for each nation that is not controlled by AI. He can then proceed to create the rest of the game normally.
-Preparing for PBEM Once the host has created the game, he needs to make sure every player has the appropriate map. If you are using one of the included pre-made maps, there is no need to distribute the map as everyone should have it. Because Dominions 5 can generate random maps, this means a host who generated a new map for a game will have to distribute the map files to everyone, since this map is unique. There are two such files, with the following naming convention: __randommap_[gamename].map and __randommap_[gamename].rgb. So if you choose to name your game “Kalevala” for some reason, the map files will be __randommap_Kalevala.map and __randommap_Kalevala.rgb. All participants, including the host, should place the relevant .map and .rgb files in the /dominions5/maps folder.
-Likewise, if you have downloaded a map from one of the map artists in the Dominions community because you like it, you should make sure everyone has downloaded the map (and has agreed to play on it). Just like random maps, the relevant .map and .rgb files should be placed in the /dominions4/maps folder. That is where Dominions 5 goes to look for maps.
-Finally, all players need to create a folder in /dominions4/savedgames with the name of the game created by the host. All turn files will be placed here, and all orders generated by players will be saved here.
-Hosting a PBEM game After this is done, all the host needs to do each turn is send the appropriate .trn file to each player. This file will be named the same way the pretender file was named, but it will be found in the game folder, not /newlords. For example, if a player is playing Early Age Niefelheim in the Akalabeth game, the appropriate file to send to him or her is early_niefelheim.trn, which will be located in the /savedgames/akalabeth folder. On the first turn, the host just sends these files out to everyone.
-On subsequent turns, the host will need to collect orders from each player in the form of .2h files (see below), load the game, and hit the Host button.
-Playing in a PBEM game Playing in a PBEM game is simple. A player receives the .trn file from the host via email, places it in the folder on his computer with the appropriate game name, selects Play an Existing Game from the main menu, chooses that game name, and does the turn. When finished, the game will generate a .2h file with the nation’s orders. The player just sends this back to the host.
-The Hosting Function When the host has all the .2h files he needs, he loads the game using Play an Existing Game. To advance the turn, he or she selects Host from the screen showing all the nations. A nation which has current valid orders will have a checkmark in front of the name in the nation list. AI nations never appear on this list – only those nations under human control will show up. If the host is playing, he shouldn’t forget to do his own turn! If he or she is playing on the hosting computer, he or she will not have to transfer his own files – they are saved in the right place automatically.
-The PBEM sequence is summarized below:
-1. The players send the appropriate pretender file to the host. This file is found in /savedgames/newlords. The host places these files in his /savedgames/newlords folder, taking care not to overwrite any of his own, if applicable.
-2. Host creates game, making sure to set nation control to “human” for each nation that will be controlled by a player. AI nations can also be included.
-3. All players ensure that they have the correct map files in their /maps folder. (Only necessary if playing on random or user-made maps.) The actual truth here is that players (as opposed to the host) only need the .rgb file – the .map file is just for game creation. Once the game has started, all of the .map information is incorporated into the ftherlnd file. But it’s good to have both files, because you’ll need them if you ever want to play your own game on that map.
-4. The host sends each player the appropriate .trn file, which is found in the appropriately named game folder in /savedgames, and will have the nation’s name in the filename.
-5. Players put this .trn file in the appropriate folder in /savedgames, load the game using Play an Exiting Game, and perform their turns. The turn can be saved and exited as many times as necessary. Once complete, players find the .2h (not the .trn!) in the game folder and send it back to the host. Remember: .2h = 2 the host!
-6. The host collects the .2h files, puts them in the game folder, selects Play an Existing Game, checks to make sure he has all the turns (there will be checkmarks next to the names of all player nations with valid orders) and hits Host. He then goes to step 4 above, and steps 4-6 are repeated for the rest of the game.
-Hosts send .trn files. Players send back .2h files. It’s that simple. The host will always need the ftherlnd file, but it is never sent to anyone. Note that the player files are the .2h files in the /savedgames folder of the appropriate name. In the above example, files for the game “Akalabeth” would be in the /savedgames/akalabeth folder. The .2h files in /newlords are only for pretender loading at game creation. They have the same file extension but are not the same in fact.
-Stale turns If not all nations have submitted orders for a turn, the host can still host the turn. If the host goes ahead before all nations have submitted orders, the nations missing their turns will generate a “stale turn” report. This is how you know if you missed your turn.
-Turning a player to AI control Sometimes players drop out of games, but the rest wish to continue. If the player who is dropping out does so voluntarily, he can set himself to AI control by selecting the Options screen once he is actually in the game (during the turn) and choosing Become computer controlled. This will allow the AI to take over, and the host will no longer need to receive files from him or her (apart from this final .2h file, which needs to be sent to the host with the orders to go to computer control). This choice wipes out any orders for that turn – the computer will do the whole turn on its own.
-However, sometimes players just vanish. If this happens, the host can manually load the player’s turn and set it to computer control using the hosting computer. If the player in question has password- protected his pretender and the host does not know the password, he can use the Master Password if the game was set up to use one.
-If not, and the host decides to host through it, the dropped player’s position will hold, generating stale turns. No orders will be issued, so units will not move, there will be no recruitment, etc. The only things that will happen will be automatic events, like gem accumulation. Because it is easy to roll over a nation when you know his or her armies will be stationary, this is something that needs to be agreed upon by all players, since the dropped nation’s neighbors will likely benefit disproportionately.
-Once the computer has taken control of a player position, it cannot be reversed.
-Patches Throughout the history of Dominions, the developers have regularly issued patches to fix bugs, add features, and make balance adjustments. There is no reason to believe this will not continue with Dominions 5. Usually, the new version can load files from the old version, but not vice versa. The way to manage this in PBEM games is to have the host patch when he has all the turns and is ready to host. So when a patch comes out, all players should first complete their current turns with the old version and send their .2h files to the host. Then the host should apply the patch, and then host the game. Players should then apply the patch to their own machines before loading the .trn file they get back from the host, which will be using the new version.
-Hotseat games
-Hotseat games are run simply as PBEM games where no files are sent – players just sit down at the same computer and do their turns sequentially. To start your turn as a given nation, click on that nation’s name. When everyone is done, click on “Host” and the new turn will be generated. No fair peeking over people’s shoulders.
-Playing a network game
-Dominions 5 can also be run over a network (TCP/IP or LAN) using a server. This requires someone to run the game continuously on a computer where the players can log in and access their turns. The server computer acts as a host, and can be automated to host the game at regular intervals. Alternately, the owner of the host computer can simply select Host manually each turn. There can be someone (even multiple people) playing on the host computer, or it can just run the game. A single machine can host multiple games, as long as each one is on a separate port.
-Creating a network game To play Dominions 5 over a network, the host machine must first create the game, just as in PBEM. This is done from the Network selection in the main menu. Choose Setup Dominions server, and choose a port. The port does not matter as long as it is reachable on the host’s machine. The lowest possible port number (1024) often works well.
-The host chooses the Age normally, and then a screen will appear with all of the available nations showing. In order to claim a nation, a player will need to connect to the game using the Connect to Dominions server selection from the Network choice in the main menu. The game will ask for an IP address (or server name, such as dominions4.server.com) and port, which the host must provide to the players. Clicking on the text “Open” next to a nation will claim that nation. The player will then load a pretender that he has created previously from the game tools menu.
-The host will have the ability to set nations to AI control (by clicking on the text next to the nation to cycle through choices).
-You can connect to a hosted game using the same computer that is doing the hosting. Just open another instance of the Dominions 5 application and join normally. Thus, the host machine can be used to play as well. The hosting instance of the application must always be running, though.
-Note that because the network connection is (ultimately, even when using server names) to an IP address, a computer with a dynamic IP on a DSL or cable modem connection that has its address frequently renewed may become unreachable if players are not informed of the new IP address when it changes. Likewise, if the hosting computer is behind a firewall, the host will have to open the appropriate port (chosen above) so it can be directed to the host machine. Because there are so many possible configurations, players should be familiar with their networking setups to ensure that the port the game is using can be passed back and forth through any firewall. Only the port chosen in the Setup Dominions server screen needs to be forwarded – nothing else.
-The three most common reasons for a player not being able to connect to a server game are (1) There is a firewall/routing problem on one end or the other; (2) The player and the server are running different versions (someone didn’t patch!), and; (3) the host computer is down.
-Game Tools
-Dominions 5 has a number of options under this menu to create new pretenders, as well as manage pretenders you have already created. There is also a map editor, a tool for creating random maps with custom settings, as well as a shortcut to the directory where Dominions 5 stores your files. There is also a tutorial. The tutorial in Dominions 5 is a video, made by DasTactic. You can watch along and learn many of the secrets of Dominions by clicking the Manuals & Introduction Videos button.
-
-From the tomes of the lore of Dominions
-Ermor is an empire centered around a great city. For centuries it has grown, and has become more and more influential. Traders and travelers from near and far come to the city. By military campaigns, diplomacy, and trade, Ermor has become a power to be reckoned with. By adopting local traditions and beliefs, Ermorians posed little threat to neighbors and conquered peoples, but this has begun to change. A new God is rising. Old syncretistic faiths and spirit worship were banned by a Prophet dressed in white shrouds. The remnants of his bods and shrouds are buried in the Holy City of Eldregate where the adherents of the New Faith are awaiting the arrival of the Reawakening God foreseen by the Prophet. The all-encompassing old state cult of the Numinas still survives, but the Pontifices and Flamen are slowing adopting the New Faith.
-PLAYING THE GAME
-Once you have started a game and are presented with the main game screen, you'll need to become familiar with the interface. The most important thing to remember about this system is that
-in order to select a province, you must right-click on it. However, to select anything else, you left-click.
-● To select a commander, left-click on his icon and he turns white (selected).
-● To give a commander order to move, you left-click the province to which you want him to move. ● To select a unit in the Army Setup screen, left-click on it.
-Thus, left-clicking works for selection in most other screens, but not the main map screen. The popular strategy game convention of "left-click to select, right-click to set destination" doesn't apply here. Right-clicking, in many cases, gives you further information. For example:
-● To get information on a unit in almost any screen, you right-click on the unit.
-The most common consequence of this inversion is that players may give a unit an order to move, and then while the unit is still selected, left-click on a faraway province in order to select it. Because left- clicking is used to specify a unit's destination, and the faraway province you clicked on is an invalid destination for the leader that you (still) have selected, the leader you just moved defaults to Defend. If you don't notice this, your commander that you think has been ordered to move will just sit there. Another common error is to not notice that a stealthy commander is commanding all stealthy units, and thus instead of moving, they end up sneaking (and not attacking). See Stealthy Units below for more information. Stealthy units can be ordered to move normally by holding down [Ctrl] while selecting their destination.
-BASIC GAME FUNCTIONS
-To the right of the map screen is a panel of buttons that forms the main game interface. These are divided up into four sections. The Game buttons control global game functions, like ending the turn, quitting, changing settings, or reading the game messages for that turn. The Magic buttons are not magic themselves, but simply give you access to the game's magic system. These do not depend on which province you have selected. Depending on which province you have selected, some of these buttons may be inactive. For example, you cannot recruit units in a province you do not own, so clicking on this button while such a province is selected does nothing.
-You can hide The Game, Magic, and Province (units) buttons by hitting the “h” key. The location buttons will always be displayed.
-Some buttons may be active (like the Statistics button) but not yield any information if the score graphs have been turned off in the game options when the game was created.
-The Province (location) buttons refer only to the locations in the province you have selected. There may be none showing if the province you have selected has nothing to display, or if you simply don't know about it. If you own a province with a temple, clicking on that button will yield additional information. If it is another player's temple, the button will be inactive. You may also find information on magic sites, or simply the fact that they exist (but nothing further). The laboratory button is always inactive and only indicates that a lab has been built in the province.
-Most of these buttons will be discussed in detail in further sections. All have hotkeys listed here in [brackets]. The basic functions are:
-End Turn [e] When you have completed your turn, this button saves your move to a file in the game folder, or uploads it to the server if you are playing an online game. You may still go back and adjust your move, or even start over from scratch. Exception: In a solo game, hitting End Turn automatically hosts the current turn. This is not like Dominions II – do not hit End Turn in a solo game as a way of saving your orders!
-Options [Esc] Adjusts music and video settings, and allows you to save, and quit the game.
-Map filters [1-5,8,9 keys] Toggles map displays of armies, national flags, temples, fortresses, etc. Statistics
-[F1] Nation Overview This screen gives a global picture of your units and provinces. You can buy province defense, or go straight to a province using this screen. It also keeps track of magic site searches.
-[F2] Score graphs If score graphs are enabled, you can see a running comparison of the strengths of the various nations in terms of provinces owned, total dominion, army size, etc. You can also see the names and status (human or AI) of all pretenders, and whether or not they are still in the game.
-[F3] Hall of Fame Commanders who have survived the most fight and killed the most enemies receive Heroic Ability for entering the Hall of Fame. This ability continues to improve as long as the hero is listed here.
-[F4] Pretenders Displays a list of pretenders in the game the game unless all information on other players is disabled.
-Messages Allows you to read [m] beginning-of-turn messages, and send [s] messages, items, or gold to other players.
-[F5] Research Takes you to the Research screen where you can access spell research.
-[F6] Global Enchantments Shows you the global enchantment spells currently affecting the world.
-[F7] Magic resources This takes you to the magic resource treasury where you can see your magic gems and gem income, and transfer gems between commanders.
-[F8] Magic item treasury Shows the magic items you have found or forged.
-[F9] Display thrones This is not a button but just a general shortcut. It displays the Thrones of
-Ascension active in the game (if any).
-[t] Army setup This is where you can assign your units to commanders, change formations, and array your forces on the battlefield. See Army Setup on page [49] for more information
-[b] Mercenaries Players can see which mercenaries are available for hire. You can bid on these by clicking on the name of the company you wish to bid on.
-[r] Recruit unit This opens the recruitment panel for a given nation and shows the units available for recruitment in the selected province. This only works for provinces the player controls.
-The remaining buttons will be described in their appropriate sections.
-THE MAP
-Maps in Dominions 5 have one characteristic feature: they are divided up into provinces. These provinces are delineated by the brown lines. However, the lines are really only for your visual reference; the game engine does not use them in any way. Instead, what is important is which province is a neighbor of which other province. You can see this by hitting the [8] key to Toggle Neighbors.
-      Some provinces are separated from one another by a heavy brown or red line, usually in the mountains. This designates an impassable border, and two provinces that are joined solely by such a border are not neighbors. On some maps there is simply an absence of a border. To confirm this you can select one of the provinces and hit the [8] key as above. The chart on the next page shows all the display toggles.
-Provinces are designated by both a name and a number. You may not know the name of a province if you don't have any way of getting intelligence on it (like a nearby friendly province or scout), but you will always know the number. While some special provinces may have fixed names, most are randomized at the start of the game. However, for a given map, the province number will be constant; province (12) on the Aran map will always be in the same place in every game.
-All game mechanics in Dominions 5 are based on provinces. Movement is done from province to province. Units are recruited on a province-by-province basis. Each province has a number of attributes that govern its contribution to the game.
-Province attributes
-When a province is selected, you can see its attributes in a box in the upper left corner of the screen, provided that you have some way of gaining this information (either through scouts or the proximity of friendly provinces). If you don't have any way to gather this information, all you'll get is the map number of the province. You'll always be able to tell which type of terrain a province has, even if it is on the opposite side of the map. Most information about a province will be unavailable unless you actually own it (it is friendly to you, displaying your national flag).
-If you have dominion over a province, you will be able to see its income and name, even if you do not control it. Once you have scouted a province, the province name is remembered and you can always see it even if you do not have friendly units in it. For more information about how much information you will receive on any given province, see Scouting and Scrying on page [33].
-The province attributes shown in the main province screen break down as follows:
-Terrain Terrain is shown in the lower left of the province info box. It is very important to determining how valuable that province will be in terms of income, resources, supply, and magic sites. Farmland tends to have high population (and therefore income) but low resources and few magic sites. Mountains tend to be just the opposite. Mountains, forests, swamps, caves and especially wastes are more likely to contain magic sites. Terrain also allows or restricts multi-province movement. See the section on Movement.
-   arrows Home Ctrl+Home End
-Insert Delete Page Up Page Down 1
-2 3 4 5 8 9
-scroll map
-go to home province
-Go to Pretender
-zoom x0.5
-zoom to cover screen zoom to fit entire map zoom in
-zoom out
-toggle flags/forts
-toggle armies
-toggle dominion icons toggle income/resources toggle temples/misc toggle neighbors
-toggle province names
-There is a major distinction between land and underwater provinces. Underwater provinces cannot be entered by units without a special ability that allows it (such as amphibian, aquatic, or water- breathing), they do not contribute resources to fortresses on land and cannot be crossed by flying units. Units with sailing may cross water provinces, but may not remain there at the end of a turn.
-Population Population determines income, and is affected by many factors: Growth/Death scales, patrolling, dominion, pillaging, and random events. The population in a province sets the base income from that province: Income base = Population / 100.
-Income A province contributes its income rating to the owner's treasury every turn. Income accumulates in the treasury. The number shown is after all modifications. Income is determined by multiple factors, including population, dominion scales, fortress administration, and unrest.
-The basic formula is Modified Income = (Population / 100) * (dominion scale modifiers) * (1 + fort administration / 200).
-If the province has unrest, this number is Final Income = Modified Income / (1 + (unrest * 0.02). If a province cannot trace an unbroken line of friendly provinces back to a friendly fort, it does not
-produce income that turn. Taxation requires communication.
-Note: Speaking of taxation, note that while the process of income collection is referred to as taxation here, there is no explicit "taxation" mechanism or button in the game. This is a change from previous Dominions games, where you could set the level of taxation in each individual province. This is no longer the case. Taxation back then was not so easy.
-Resources The resource value of a province, representing raw materials needed to make weapons and armor. Resources are reduced by unrest, like income. Resources are collected by forts from neighboring provinces. A province only produces half of its potential resources for use in that province unless it contains a fort. The number shown is the number actually being produced, not the potential.
-Note that in the capsule screen, resources are displayed as hammers. As a province’s resources are allocated to recruitment, the hammers in the capsule screen are progressively greyed out.
-Resource availability in a province is reduced by unrest according to the formula Resource % = 100 / (100 + unrest)
-Thus, an unrest level of 100 means a province produces only one half of its normal resources. Furthermore, no units may be recruited in a province with an unrest level of 100 or greater.
-Building a fort in a province greatly increases the number of resources available there.
-Recruitment Recruitment is a new concept in Dominions 5. This represents the ability of populated areas to concentrate the resources necessary to recruit and equip forces. Recruitment points depend on the population present in a province, as follows:
-The recruitment bonus for forts is then applied (e.g. +50% for palisades). Order scales also affect recruitment points by +10% per step.
-Dominion This represents the religious dominance being exerted into that province. Only one pretender can have dominion in a given province. If it is positive, the dominion is yours and is represented by a white candle. Negative dominion is someone else's dominion, and is represented by a black candle.
-Capsule screen The income, resources, and dominion in a province can be displayed (and toggled off) by hitting the [5] key. The hammers (resources) and standards (recruitment) become progressively greyed out as the player allocates them for production during a turn. Turning on the capsule screen can be a good way of scanning to see if there are any provinces with underallocated resources or production.
-Unrest Unrest represents turmoil in a province and reduces both income and resources there. Unrest can be raised by random events, enemy spies, blood hunting, magic sites, certain targeted spells, or global enchantments. Unrest can be reduced by patrolling, province defense, Order scales, magic sites or random events. Unrest also affects the chances of capturing blood slaves, or of successfully finding stealthy units by patrolling.
-
-From the tomes of the lore of Dominions
-The Deives of the Sun is a giant of divine heritage, once given the splendor of the Sun by a previous Pantokrator. Every morning, she rose and brought warmth, comfort, and fertility to frozen lands. So great were her powers and so great her mercy that mankind turned away from the Pantokrator and gave her their prayers instead. Furious, he stripped her of authority and imprisoned her. But now, with the Pantokrator gone, her prison is crumbling and the Deives can reclaim her lost authority and bring the warmth and comfort of the Sun to mankind once more.
-   Population Recruitment Points
-0-5,000 10+pop/100
-5,000-10,000 10+50+(pop-5000)/200 10,000+ 10+50+25+(pop-10000)/400
-Supplies The supply rating of a province determines how many units the province can support. If more units occupy a province than can be supplied by the indicated supply rating, starvation occurs. Units consume different amounts of supply based on their physical size (see Units for more information on this). The supply rating in a province is determined by multiple factors.
-Population-based supply is calculated from the population present in a province, modified by the Growth/Death and Heat/Cold scales. The first 10,000 population in a province generates supplies at 1 supply point per 100 population. Additional population generates 1 supply point per 200 population. This is modified by the Growth/Death scales (first) and the Heat/Cold scales (second) to arrive at a Population-Based Supply number.
-Fortress-based supply depends on the province's proximity to a fortress. If the province in question is within four provinces of a fort, fortress-based supply is added to the population-based supply calculated above. This depends on the fortress' Admin rating (see section on fortresses below) and uses the formula (Administration * 4) / (Distance + 1). Only the highest fortress-based supply is used if there is more than one nearby fortress.
-       Example: A province with 20,000 population has Growth 1 and Heat 3 dominions in it. It generates 400 supply points for the first 10,000 population, and 200 supply points for the remaining 10,000 population for a total of 600 supply. Supplies are increased by 20% for the Growth 1 dominion, increasing the total to 720. The Heat 3 dominion, however, reduces this amount by 30%, or 180 supply points, for a population-based supply of 540.
-The province is also three provinces away from a Castle (Admin 30) which has had 10 points of Admin added to it through upgrades, resulting in an Admin rating of 40. This generates an additional 40 supply points. The province has a final supply value of 540 + 40 = 580.
-                    Supply Usage The number of supplies being used by the units currently occupying a province is shown under Supply Usage. If there are not enough supplies in a province to supply all of the units currently occupying that province, starvation may occur.
-Defense Defense indicates the level of provincial defense present in a province. Raising provincial defense costs an amount of gold equivalent to the new level purchased. (Thus, level 1 costs 1 gold, going from level 1 to level 2 costs 2 gold, going from level 10 to level 11 costs 11 gold, and so on.) Additional benefits are gained at levels 1, 10, 15 and 20. Provincial defense costs no upkeep, and is fully restored after a battle if the owner does not lose control of the province.
-Provincial defense levels can be raised by clicking on the word Defense in the main province screen. Shortcut key [d]. Provincial defense levels cannot be voluntarily reduced. However, it takes at least 10 population to support each point of province defense. Province defense will be automatically reduced to a level which can be supported by the population of the province.
-Corpses The number of unburied corpses in a province. This is important for some spells (Raven Feast) and for raising undead. You can only see this information if you have a death mage or an undead priest in the province. If the nation's normal priests can reanimate undead (a special property of certain nations), they can see the number of corpses, too.
-Dominion scales Dominion scales are separate from dominion, although the two are related (see chapter on Dominion for more specific information). The level of dominion scales in a province is shown by icons/text in the main province window.
-Symbol
-Scale
-Effect
- 
-Order
-Increases income by 2%. Recruitment +10%. Unrest reduction +1. 2% fewer random events.
- 
- 
-Turmoil
-Decreases income by 2%. Unrest reduction -1. 2% more random events.
- 
-Productivity
-Increases resource production by 2% and income by 3%.
- 
-Sloth
-Decreases resource production by 2% and income by 3%.
-  
-Heat/Cold
- 
-Each step of heat/cold level away from a race's ideal level ...
- 
-decreases tax revenues by 5%.
- 
-decreases supplies by 10%.
- 
-In addition, Heat scales decreases province income by 5% per scale.
- 
-Growth
- 
-Increases population growth by 0.2% per month.
- 
-Increases supplies by 15%.
-Increases income by 4%.
- 
-Death
-Decreases population growth by 0.2% per month.
-Decreases supplies by 15%.
-Decreases income by 4%
- 
-Fortune
-5% more random events. Chance of a random event being good increased by 15%.
- 
-Misfortune
-5% fewer random events. Chance of a random event being good decreased by 15%.
- 
-Magic
-Makes spells harder to resist (-0.5 MR per scale rounded down, to all units in a province).
-All spellcasting generates 10% less fatigue per scale.
-Gives all friendly mages +1 research points per scale.
-+50 points of starting research per scale.*
- 
-Drain
-Makes spells easier to resist (+0.5 MR per scale rounded down, to all units in a province).
-All spellcasting generates 10% more fatigue per scale.
-Gives all mages -1 research points per scale.
--50 points of starting research per scale.*
-*Note: default starting research at neutral scales is 150 points.
-Much of this information can also be seen in the Nation Overview screen [F1], which will also show commanders and their locations. You can set defense and give orders in this screen, as well as use it to go directly to a province in the main map. This makes it quite useful. New players should get their [F1] fingers in shape. The specific finger used to access this screen may or may not be important.
-National summary
-  Regardless of which province is selected, the national summary will appear next to the province info. The treasury lists the total amount of money your nation has. Total income is the income prior to paying upkeep costs, which are shown in parentheses. In the right-hand corner is a symbol denoting the season. If you mouse over this it will tell you the exact season in the game.
-Upkeep All units in the game (except for most summoned units) cost upkeep each turn equal to their gold cost divided by 15. Sacred units cost half as much upkeep (gold cost divided by 30).
-Magic gem inventory Your gem inventory’s contents are displayed in the national summary, and you can go directly to the inventory screen by clicking on any of the gem icons.
-FORTS
-Forts are structures which exist on the map and can be upgraded. Forts serve as collection points for resources, supply depots for distribution to surrounding provinces, and shelter for troops in the event of a siege. Each fortress type has different attributes.
-Admin The admin value of a fort determines the percentage of resources from neighboring provinces that the fortress can collect. It also propagates supply into nearby provinces. The formula for this is (Administration x 4) / (Distance + 1). Thus, a fortress with admin 50 contributes 100 supply to adjacent provinces. Four provinces is the maximum distance for this supply
-propagation.
-Administration also increases the income of a province by Admin / 2%. Thus, a fort with an Admin value of 30 would increase the income by 15% of any province in which it is built.
-Defense The defense value of a fort represents the number of points of damage
-that must be done to a fort by an enemy siege before it can be attacked. Each
-turn a comparison is made between the strength of the sieging and besieged
-forces at a fortress. The difference between these forces determines the amount of damage done to the fortress' defense value.
-Supply The supply value of a fortress determines only how many units can be supplied inside that fortress in the event of a siege. It does not affect the distribution of supply to surrounding provinces. Each turn a fortress is under siege, its supply value is divided by the length of the siege to determine the supply points available on that turn to the besieged units. Thus, on the fifth turn of a siege of a fortress with a supply value of 100, the fortress provides besieged units with 20 supply.
- 
-Distance
-Supply
-0 400%
-1 200%
-2 133%
-3 100%
-4 80%
-Fortress statistics
-  The statistics for each fort are listed when you click on the Fortification button in the province interface (also the [f] key). Some forts give bonuses to Commander Points and/or Recruitment Points.
-Forts also have defense that functions as Province Defense when the fort is attacked. The current defense value of the fort against sieges is listed
- TEMPLES
-Temples are the second of the three buildings you can construct in Dominions 5. Temples help you spread your dominion, either by directly inducing dominion spread [Exception: Mictlan, Early and Late Eras] or by providing a location for blood sacrifices (which are only available to certain nations – see the Dominion chapter). Temples also give priests a bonus when preaching.
-A temple can only be built in a friendly province. If an enemy takes control of a province with another nation’s temple in it, the temple is immediately razed. If there was a temple in a province you captured, the razing will be reported in the turn’s events, along with the capture. Only one temple can exist in a province at a time. Temples cost 400 gold to build, although there are exceptions. Pangeaea and Marverni only pay half this cost for a temple, while Gath pays double.
-Clicking on the Temple button on the lower right of the screen tells you how much dominion you spread each turn and how likely it is to be successful. This is broken down into the number of spread chances per month. Each temple can spread dominion, as can the pretender, prophet, and nation's home province. All of this is explained in detail in the Dominion chapter.
-LABORATORIES
-Laboratories (or labs) are the last building type available. Labs serve as magic gem collection points and centers of research. They allow mages in that province to perform the Research order, enable transfer of gems from the national inventory, and allow the casting of ritual spells. For a detailed description of these game elements, see Magic. Ritual spells can only be cast in a province with a laboratory.
-MAGIC SITES
-Magic sites are not buildings per se (although there are some sites which are buildings, such as the Firbolg Fortress and Jervellan Wall) but rather locations within a province that possess some special attribute, like magic gem production, unique unit recruitment, or other benefits. A province may have multiple magic sites, (max 8), not all of which may be visible at once. Magic sites are more likely to be found in mountain, forest, swamp, waste and cave provinces than in those with farmland or plains. Magic sites do not necessarily appear when you capture a province. Instead, the sites must be discovered by searching. There are four levels of difficulty. A mage must have skill in the magic path of the site equal to the difficulty level of the site in order to find it when using the Search for Magic Sites order. Thus, a level 3 Nature mage will find any difficulty 1, 2 or 3 sites in a province when he/she searches, but will not find a difficulty 4 site. When searching, level 4 in a path is the highest level ever required to find a site. There are spells which will automatically reveal all sites of a given path in a province (for example, Haruspex reveals all Nature magic sites), or even all magic sites, period (Acashic Knowledge).
-Some sites (like the Void Gate) allow certain types of units to enter them for certain benefits. Entering such sites is a movement order available to eligible commanders.
-Sites which permit the recruitment of national units (such as the Forest of Avalon) only grant this ability to that nation (in this example, Man). Enemy players who capture such a site will still collect the magic gems produced by it (if any) but will not be able to recruit the special units.
-There is no guarantee that a site will be usable to a player when found. A Cave may allow a Blood mage to recruit demons, but if the player has no Blood mages, he will not be able to use it.
-A magic site may have some additional requirement before it becomes useful. For example, the Library allows the recruitment of sages, but not until you build a laboratory. The role-playing reasons for this should be obvious.
-Not all magic sites have beneficial effects. Some are sources of chaos, death, or other negative powers. These may cause unrest or other ill effects, and will happen whether or not the magic site causing the trouble has been discovered.
-PROVINCE DEFENSE
-Province defense (PD) is a way of protecting a province without actually stationing an army there. Defense is purchased at a cost of whatever the new defense level will be. So to buy the first level of province defense costs 1 gold, while the tenth costs 10 (and to get to 10, you have to buy the intervening levels as well, so ultimately a PD of 10 costs 1+2+3+4+5+6+7+8+9+10 = 55).
-At defense level 1, a nation gets a commander and some troops. Each level of defense thereafter gives you more troops, which are shown as you increase your province defense. The maximum level of province defense is 100. At level 20 you get additional types of commanders and troops.
-Every 10 points of province defense reduce unrest by 1 point in that province per turn. So 53 points of province defense would result is a recurring unrest reduction of 5 each turn.
-Starting at level 15, province defense will have a chance of detecting stealthy units in that province. Each point of province defense above 15 gains one point of patrolling strength, so that a PD level of 25 has a patrol strength of 11. This is about the same as an equivalent number of patrolling infantry units.
-A province can only support provincial defense if it has sufficient population. For every point of province defense, there must be 10 points of population. If this is not the case, province defense will be reduced accordingly at the end of the turn. This is the only way in which province defense can be reduced, other than having the province be captured, which wipes out all existing province defense, or relinquished (in disciple games), which reduces provincial defense by 25%. Once you have built province defense, you cannot reduce it in future turns. The down arrow does not work then.
-UNREST
-Unrest represents people being unhappy with the ruler of the province. This can be the result of many different unhappiness-generating events: a difference between the nation which controls the province and the one that exerts dominion over it will do it, since the people worship one god but are ruled by another. Blood hunting will definitely do it – imagine how happy you would be if someone came through your village and rounded up a bunch of young virgins for a blood sacrifice. Enemy spies and bards can do it because that is their job. Random events such as ill omens can cause unrest to increase. You should consider whether an ill omen would make you uneasy as well.
-Unrest reduces the amount of income and resources a province generates. A province with unrest of 100 or greater will not permit the recruitment of new units. Thus, you can shut down an opponent’s production by destabilizing his or her provinces.
-MERCENARIES
-Mercenaries are units who are willing to fight for gold. They sell their services to the highest bidder. They are hired for a period of three months (turns). Clicking on the Mercenaries button will display the mercenaries available for hire, as well as currently hired mercenaries, their employer (indicated by the national flag) and the time of service remaining. When a mercenary band’s contract runs out, it will again become available for hire, except on that turn only, the previous employer’s bid counts double. It is only good for that turn, and if the mercenaries are hired by someone else, the bonus is lost and instead that nation will gain the bonus when those mercenaries complete their contract.
-
-From the tomes of the lore of Dominions
-C’tis is a swampy river valley surrounded by sandy deserts. In the fertile valley, a sacral kingdom of lizard- like humanoids has formed. The kingdom is ancient by human standards and its wisdom and magical knowledge is great. At the top of the society is the Lizard King and his Royal Heirs. The king is the highest priest of C’tis. Under the king are the High Priests with their sacred serpents, and the enigmatic Sauromancers, great mages of death and rebirth. The lizards are herbivores, but have enslaved a race of carnivorous lizardmen who serve as soldiers and workers. The C’tissians are somewhat slow in movement, but have thick hides that protect them from cuts and bruises, Both lizard races are cold-blooded and become exhausted very quickly when fighting in cold provinces. They have partial resistance to poison. The inhabitants of C’tis prefer to live in warm provinces.
+开始游戏
+在神域5中，创建游戏和进行游戏是分开的内容。为了开始一个新游戏，你必须通过创建世界来生成游戏。当你第一次游戏后，再次回到一个已经创建的游戏，你需要选择继续已有游戏。
+创建一位伪神是一个复杂的过程（参见候选神一章），但是一旦你完成了这一创建，你为该国家创建的伪神便储存起来并可以在新游戏中使用。游戏中可以为每个国家储存多个伪神，他们在加载伪神界面中出现的顺序（从上到下）正是你创建他们的顺序。
+注意：在创建世界过程中即时创建的伪神不会被保存。他们是为那个游戏定制的。保存伪神建构供以后使用的方式是进入主菜单的游戏工具并选择创建伪神。这将创建一位伪神并保存在/dominions5/savedgames/newlords文件夹下。所以当你在创建游戏时迸发出创建伪神的灵感，你需要记住它或者把它写下来然后通过游戏工具将它制作出来！
+创建新游戏
+创建新游戏，需点击开始菜单屏幕中的创建世界（Create World）。而后你需要选择地图，可以是预先制作的地图或者随机生成的地图。当你做完全部选择后，游戏将生成地图。下一个步骤是为这个游戏命名。这将在保存游戏的文件夹生成一个以改名字命名的文件夹，你可以很容易的找到它。你可以通过工具与手册（Tools & Manuals）菜单下的Other → Open User Data Directory.
+你能够从创建菜单迅速开始进行游戏，这比之前的神域游戏系统更为快速。当一个游戏完成创建而你因种种理由需要离开游戏，你可以通过选择同一菜单中的继续原有游戏（Continue Old Game）并选择游戏再次开始。
+选择时代
+下一个选择是选择在早期，中期还是晚期开始游戏。一般来说，早期的国家部队较弱但法师更强。 
+选择参与者 
+当你选定了时代，你就可以选择你和AI玩家代表的国家。默认选择是随机（Random），这将从可用国家列表中选择一个。你也可以通过点击“Random”选择一个特定的国家，点击后会打开这一时代所有可用国家的列表。而后你就可以选择你想要使用的国家了。国家无法复选——在每个游戏里每个国家只能出现一次。你也可以通过同样的方法设定AI玩家使用特定的国家。 点击“增加新玩家（Add new player）”，可以增加一名玩家（AI或是人类）。从游戏中去掉一名玩家则需要点击国家名（如果没有设置国家则点击“随机Random”），而后点击国家列表底部的“无（None）”。
+当你选定了你的国家以及其他国家（无论是否随机），你需要创建一名伪神或者从你可用的伪神中选择一名。如果你已经为这个国家创建了一名伪神，你可以通过伪神创建界面底部的加载伪神（Load Pretender God）按钮选择。如果还没完成创建，你可以在那里创建一名伪神。
+门徒游戏
+在选择参与者界面的底部有一个“门徒模式（Disciple Game）”的勾选框。这是一种特殊类型的游戏方式。一旦勾选这一选项，将会出现两个附加栏：一个是队伍（Team），一个是伪神/门徒。直到每一队都有且只有一名伪神（和任意数字的门徒）前，你都无法点击“OK”（这一选择成灰色状态）。选择时无需考虑队伍间的平衡，每一队的门徒数不需要相等，甚至完全可以没有门徒。你可以通过直接点击队伍编号来改变队伍编制，点击伪神（pretender）或门徒（disciple）的文字来改变伪神/门徒状态。 
+门徒游戏是允许玩家们组队游戏的一种模式，但它依然保持着神域世界的本质——一切源于伪神们对于神位的渴望。T最终只能有一位真神。所以一位玩家扮演伪神的角色。他队伍中的其他玩家（如果有的话，并不是所有门徒游戏中的伪神都一定拥有门徒）则扮演他的门徒。
+门徒玩家并不创建伪神，他们创建门徒。玩家拥有300点（而不是通常伪神的425点）去创建门徒。进一步说，门徒没有神域数和神域天平。他们只选择物理形态和魔法路系。他们也无法选择在游戏开始时是否处于觉醒状态。他们以伪神的一半时间苏醒，所以只有开始时觉醒的伪神能拥有觉醒的门徒。最后，也是他们宣示着伪神的到来。门徒玩家的神庙传播着伪神的神域。门徒单位自身也是如此，如同先知一样（等同于一次神庙检定）。正如先知一般，门徒单位在伪神的神域中也同样增加力量、生命值以及魔法抗性。在门徒游戏中，没有人能够任命先知，无论他是伪神玩家还是门徒玩家，因为门徒们就扮演着先知的角色。先知只能在标准的自由对战游戏中任命。
+游戏设置 
+最后一个问题是游戏设置。这决定了世界的构造，以及一些诸如指挥官改名、显示分数曲线之类的选项。这些选项是直截了当的，当鼠标放在不同的目录上时画面下方提示条内会出现描述。玩家可以选择金币的多少，改变魔法遗迹出现的频率，调整原生居民的强度，以及其他许多使游戏与众不同的设定。这很大程度上取决于玩家的口味。举例来说，原生居民强度高的高的游戏将减慢玩家们扩张的速度，因为这时他们需要打造更为庞大的军队以征服相邻的省份，这将推迟敌对国家之间相互接触的时间。增强魔力（不论是遗迹还是研究）将损害初始魔法较弱的国家，因为魔法型国家将能够更早开始使用强力魔法。你终究会了解怎样的设置适用于你。
+分数曲线
+分数曲线包含着许多信息，可以使多人游戏中的每个人都能看到谁的省份最多，谁有规模最大的军队，进而推断谁是最大的威胁。当玩家只能够通过密探得到这些信息时，游戏将迥然不同，由于你的军力是邻居的两倍这样的事实不再那么显而易见外交将变得更为重要。当多人游戏开启分数曲线时，游戏将显著不同，游戏的基本目标将变为避免在任何一个主要方面成为领先者，同时也不能落后太多。
+另一方面，在单人游戏中，特别是对于新手玩家，分数曲线会成为衡量自身发展以及评价对手威胁程度的实用工具。请妥善使用它们。
+即便被设为无效，拥有间谍能力的单位也能够获取分数曲线。不过，他们只能在敌对玩家的首都获取这些信息。
+主机密码
+设置主机密码允许主机介入并将一个玩家位置设置为计算机控制。这确保了当某名玩家掉线且他的神受密码保护时游戏依然能流畅进行。对于很可能遭遇一些变故的大型多人游戏来说，设置一个主机密码或是找一个第三方储存所有玩家的密码都是值得考虑的，这仅仅用于处理某位玩家失联的情况。虽然主机密码的用途通常是将某位掉线玩家设置为AI，它也同样能够获取某位玩家的全部权限。
+游戏支持热座模式（使用同一台计算机的多人游戏），邮件模式（PBEM），以及在线模式（局域网或互联网）。如果游戏中唯一的人类玩家（其他国家均为AI），那么这是一局单机游戏，你可以跳过下面关于进行邮件、热座及网络游戏的内容。
+胜利条件 
+游戏中有许多不同的胜利条件可供选择。当然，最为直接的就是征服胜利。但你同样可以通过研究、神域以及控制登神王座来取得胜利。你可以将鼠标放在胜利条件上来看看哪个更适合于你。登神王座是默认的胜利条件。
+灾变模式 
+这一模式可以在某个特定回合数后加速游戏的结束。灾变将导致惧妖（horrors）出现并开始摧毁登神王座。（那是些强大的惧妖。）王座被摧毁同时也降低了登神所需的点数，所以当灾变开始不久后，胜利者就将出现。在极端的情形下，当最后一座王座被摧毁，无人拥有王座，惧妖们便获得胜利。
+进行邮件游戏
+由于神域5中回合是同时进行计算的，所以很适合邮件游戏（PBEM），因为回合文件不需要在玩家间一个接一个的传递。全部的需要只是一名玩家成为主机（Host），收集所有玩家的回合文件。而后他计算回合并将结果发给每一名玩家。
+开始一个邮件游戏与开始一个单机游戏非常相似。它同样允许包含AI控制的国家。一切所需只是玩家们通过创建伪神工具创建他们的伪神而后将产生的文件发给主机玩家。这个文件位于之前提到的/savedgames文件夹中的/newlords 目录下。举例来说，你为早期Marverni创建的第一个伪神将被命名为 earlymarverni_0.2h。你随后的伪神将被命名为early_marverni_1.2h ，以此类推。这一顺序与当你打开加载伪神界面时他们出现的顺序一致（从上到下）。所以，如果你在某个国家创建了5个伪神，你创建的第5位就是列表中最下面的一个。确保将你想要用于游戏的伪神发送给主机，并告诉他这位伪神的名字以供确认！
+注意，主机并不需要必须是游戏中的一名玩家。
+创建邮件游戏 一旦主机接收到所有玩家的伪神文件，他或者她必须将他们存放在自己的/savedgames/newlords文件夹下，如果主机玩家曾在游戏中创建过与收到伪神文件同名的文件，他或者她必须把文件移走或者通过其他方式避免覆盖。而后，主机通过创建单机游戏的方式创建一个游戏，如之前描述那样选择地图，命名游戏，选择适当的时代。而后，主机在选择参与者界面设置所有的国家并选择由人类或AI控制。完成这一步骤后，主机必须为游戏中的每位玩家加载伪神。每个不是AI控制的国家将自动跳出提示。而后主机能够正常的完成后续的游戏创建。 
+准备邮件游戏 一旦主机创建了游戏，他必须保证每位玩家拥有适当的地图。如果你们使用的是游戏自带的预制地图，则每个人都会拥有，不需要分发地图。由于神域5能够生成随机地图，这意味着生成随机地图的主机必须将地图文件分发给每名玩家，因为这张地图是独一无二的。文件共有两个，命名规则为：
+__randommap[游戏名].map 和 randommap_[游戏名].rgb。所以，如果你因某种原因将游戏命名为“Kalevala”，地图文件将会是__randommap_Kalevala.map 和 __randommap_Kalevala.rgb。所有的参与者，包括主机，都应该将相关的.map 和 .rgb 文件放在files in the /dominions5/maps 文件夹下。 
+同样，如果你因为喜爱而从神域论坛中下载了某位地图作者的作品，你应该保证每个人都下载这张地图（并同意使用它进行游戏）。与随机地图一样，相关的.map 和 .rgb 文件也需要放在files in the /dominions5/maps 文件夹下。那里是神域5查找地图文件的地方。
+最后，所有玩家需要在/dominions4/savedgames 目录下以主机创建的游戏名创建一个文件夹。所有的回合文件将放入该文件夹，玩家生成的所有指令文件也将保存在这里。
+主持邮件游戏 完成以上步骤后，主机每个回合所需做的就是将对应的.trn文件发送给玩家。这一文件的命名将与伪神文件相同，但会出现在游戏文件夹下，而不在 /newlords文件夹下。举例来说，如果某位玩家在Akalabeth游戏中使用早期尼菲尔海姆（Early Age Niefelheim），发送给他或她的对应文件就是 early_niefelheim.trn，这一文件需要放置在 /savedgames/akalabeth 文件夹下。 第一回合，主机将这些文件发送给每位玩家。随后的回合中，主机需要收集每位玩家的.2h格式的命令文件（见下），加载游戏，并点击主持（Host）按钮。
+进行邮件游戏 进行邮件游戏很简单。玩家从主机处通过邮件接收.trn文件，将它放入电脑中相应游戏名的文件夹下，从主菜单中选择继续原有游戏（Continue Old Game），选择该游戏名，然后进行回合。完成回合后，游戏将生成包含该国家指令的.2h文件。玩家只需要将它发送回主机。
+主机职责 当主机拥有全部所需的.2h文件后，他将使用继续原有游戏加载游戏。他或者她将在呈现全部国家的界面中选择主持（Host）以进入下一回合。在国家列表中，当前有可用命令的国家会在名称前以√标记。AI国家并不会出现在这一列表中，只有人类玩家控制的国家才会显示。如果主机也参与游戏，他不应忘记自己也需要进行回合！如果他或她在主机电脑上进行游戏，他不需要移动自己的文件，它们就自动保存在适当的地方。
+邮件游戏的顺序概述如下：
+1.玩家将适当的伪神文件发送给主机。这一文件在 /savedgames/newlords文件夹下。主机将这些文件放入他的 /savedgames/newlords 文件夹下，注意不要覆盖自己的适用文件。
+2.主机创建游戏，确保玩家控制的国家设置为人类“Human”控制。AI国家也同样包含其中。
+3.所有玩家确保在/maps文件夹下拥有正确的地图文件。（仅在使用随机地图或玩家制作地图时。）事实上，玩家们（与主机不同）只需要拥有 .rgb文件，.map文件只在创建游戏时需要。一旦游戏开始，所有.map中的信息都会包含在ftherlnd文件中。不过同时拥有这两个文件也很不错，因为如果你想自己使用这张地图进行游戏时你会需要它们。
+4.主机向每位玩家发送相应的 .trn文件，这些文件保存在/savedgames目录下的游戏名相应文件夹下，以国家的名称为文件名。
+5.玩家将.trn文件放入/savedgames中相应的文件夹，通过继续原有游戏加载游戏，而后进行回合。如有需要，回合过程中可以无限制的进行保存并退出。一旦完成，玩家需在游戏文件夹下找到.2h文件（而不是.trn文件！）并将它发送给主机，记住： .2h = 2 the host！
+6.主机收集.2h文件，将他们放入游戏文件夹，选择继续原有游戏，检查是否拥有全部回合（所有完成指令的玩家国家的名字前应该有一个√标识）并点击主持（Host）。 而后跳到步骤4，在后续游戏中重复4-6的步骤。 
+主机将.trn文件发送给玩家，玩家将.2h文件发回。就这么简单。主机同样需要ftherlnd文件，但不会将它发送给任何人。注意玩家的文件是以相应名称保存在/savedgames文件夹下的.2h文件。在上述例子中，游戏“Akalabeth”中的 .2h 文件应保存在/savedgames/akalabeth文件夹下。/newlords文件夹下的 .2h 文件只用在建立游戏时加载伪神。他们拥有相同的扩展名但并不一样。
+延误回合 即便不是所有的国家都提交了回合命令，主机同样能够主持回合。如果在所有玩家提交指令前主机已经向前推进，错过回合的国家将生成一个“延误回合（stale turn）”报告。这样如果你就能够知道自己错过了回合。
+将玩家转为AI控制 有时候一些玩家离开游戏但其余玩家依然希望继续。如果中途离开的玩家并非事出突然，他可以在他还在游戏中时（经由回合）打开选项（Options）菜单，选择转为AI控制（Become AI controlled）将国家转为AI控制。这将允许AI掌控局势，而主机将不再从他或她处接收文件（除了这个最后的.2h，这个包含着转为电脑控制指令的文件依然需要发送给主机）。这一选项将抹除该回合的所有其他指令——电脑将自行完成整个回合。
+然而，有时候玩家会突然消失。当这种情况发生时，主机需手动加载玩家回合并通过主机电脑将其设置为AI控制。如果出现问题的玩家有密码保护着他的伪神而主机不知道这个密码，他可以使用建立游戏时设置的主机密码。
+如果未将玩家转为AI控制，而主机决定跳过它主持游戏，那么离开玩家的位置将被保留，不断产生延误回合。没有指令发布，于是单位不会移动，于是没有招募发生等等。会发生的仅仅是那些自动事件，比如宝石的累积。由于征服这样一个全部军队处于延误状态的国家是容易的，所以这种情况通常需要全部玩家表示赞同，因为离线国家的邻居们很可能会不均衡地受益。
+一旦电脑取代了某名玩家的位置，这个过程是不可逆的。 
+升级补丁 
+纵观神域游戏的历史，开发者通常定期发布升级补丁修正bug，增加内容并做平衡调整。没有任何理由认为神域5中将不会继续如此。通常，新版本能够加载旧版本的文件而反之则不然。邮件游戏中处理这一问题的方式是当主机收到所有回合并准备好主持时进行升级。所以当一个升级补丁发布时，所有玩家应当首先使用旧版本完成当前回合并将它们的 .2h 文件发送给主机。然后，主机进行升级，进而主持游戏。玩家应随后在加载从主机处返回的 .trn文件前在自己的机器上应用升级，因为这一文件将使用新的版本。
+热座游戏 
+热座游戏像是简化的不需要发送文件的邮件游戏——玩家坐在同一台电脑前依次完成他们的回合。点击国家名称以开始完成该国家的回合。当所有人都完成后，点击“Host”儿新回合将生成。不过偷看别人的回合可不大公平。 
+进行网络游戏
+神域5也可以使用服务器进行网络游戏（TCP/IP 或者 LAN）。这需要某个人在一台计算机上保持游戏运行而其他玩家能够登陆并进行他们的回合。服务器计算机作为主机，并能够以一定间隔自动主持游戏。或者，主机电脑的拥有者可以简单的每回合手动主持（Host）。在主机电脑上可以有一名或多名玩家进行游戏，或者它也可以仅仅负责运行游戏。一台机器可以主持多个游戏，只要每个游戏使用不同的端口。
+创建网络游戏 为了通过网络进行神域5游戏，主机机器必须首先创建游戏，正如邮件游戏一般。这一功能通过主菜单中的网络游戏（Network）选项完成。选择设置神域服务器（Setup Dominions server），而后选择一个端口。所选择的端口并没有什么讲究，只要可以连接主机机器即可。通常可用的最小端口号（1024）便可正常工作。
+主机如平常一样选择时代，而后会出现一个显示着所有可供选择国家的界面。为了控制某个国家，玩家需要通过在主菜单下选择网络游戏（Network）并经由连接神域服务器（Connect to Dominions server）连接进入游戏。进入游戏需要IP地址（或服务器名，如 dominions4.server.com）以及端口号，这些将由主机提供给玩家。点击某个国家旁边的“开放（Open）”字样便可控制该国家。玩家随后需上传一个之前在游戏工具菜单中创建的伪神。
+主机能够将国家设置为AI控制（通过循环点击国家旁的文字选择）。
+你可以使用作为主机的同一台电脑连接进入游戏。只需要再打开另一个神域5软件并入正常玩家一样登入。因此，作为主机的机器也可以用来进行游戏。然而，作为主机的程序必须一直保持运行状态。
+注意，由于网络连接是作用于IP地址的（使用服务器名也最终作用于IP地址），所以通过DSL或电缆调制解调器获得动态IP的电脑由于地址经常变更而会导致未得到新地址的玩家无法连接。同样，如果主机电脑在防火墙后，主机必须打开相应端口以确保能够连接到主机。由于可能的结构多种多样，玩家必须熟悉他们的网络设置以确保游戏使用的端口能够来回穿透任何防火墙。只有设置神域服务器（Setup Dominions server）界面选择的端口需要进一步设置，其他的并不需要。
+三个导致玩家无法连接到服务器的常见原因为 (1)在某一端存在防火墙/路由问题；(2) 玩家和服务器运行的版本不同（某一方未进行升级），以及；(3) 主机电脑停机。 
+游戏工具 
+神域5的这一菜单下有一些选项，它们能够创建新的伪神，也能管理已创建的伪神。这里还有地图编辑器，一个可以创建自定义随机地图的工具，以及一个打开神域5文件储存目录的快捷方式。这里还有一份教程。神域5的教程是由DasTactic制作的视频。你可以点击手册与介绍视频（Manuals & Introduction Videos）按钮进行观看从而了解神域中的许多奥秘。 
+来自神域知识之书
+厄尔莫（Ermor）帝国起源于自己那伟大的首都。数个世纪以来，帝国及其影响由此不断扩张。商人和游客从四面八方汇聚而来。通过军事征服、外交以及贸易，厄尔莫已成为了人们信任的强大势力。通过包容并调整外族的信仰风俗，帝国看上去对邻居及被征服的民众并没有太多威胁，然而这一切已经开始改变。一位新神正在崛起。原先那种兼容并蓄的信仰与灵的崇拜已被一位白袍先知禁止。其肉身与白袍埋葬在埃尔德盖特（Eldregate）的圣城之中，在那里，新信仰的信徒们等待着这位先知所预见的苏醒之神的到来。包容一切的守护神（Numinas）的原有国教依然存在，但大祭司与祭司们已经在慢慢地接受着新的信仰。
+科尼利厄斯（Cornelius）是目前在任的大祭司，旧信仰下最高阶的祭司。他曾负责首都最重要的祭祀活动，不过也正是他让祭司们开始堕落、腐败滋生。很多人指责他造成了旧风俗和传统的失落，新信仰下的大主教让他继续保持地位，但所有人都清楚他的影响力已不如从前。科尼利厄斯目前仍然享有强大的祭司威权并是个强力法师，但由于年老体迈而且肥胖，他已经很少远离自己的宝座了。 
+进行游戏
+当开始游戏并进入游戏的主界面，你将需要熟悉这个交互界面。这一系统中最重要的需要牢记的是：
+当你需要选择一个省份时，你必须右键点击。
+而当你想要选择其他内容时，你使用左键点击。
+● 选择一名指挥官，需要左键点击他的图标而他将变为白色（被选择状态）。 
+● 给予一名指挥官移动命令，需要左键点击你希望他移动到的省份。
+● 在军队设置界面中选择一个单位，需左键点击。
+因此在大多数界面中，左键用来选择，但主地图界面例外。主流策略游戏中常用的“左键选择，右键设置方向”在这里并不适用。右键在大多数情况下会给出进一步信息。举例来说： 
+● 在任何界面中或许某一单位的信息，只需右键点击这一单位。
+这一反转设置最常见的结果是，当玩家给予一个单位移动的指令，而后当这一单位依然处于被选择状态时，左键点击远方的省份以便选择它。由于左键点击用以获取单位的详细说明，而你点击的远方省份是你依然选择的将领无效的移动目标，这时你的将领将回到默认的防御状态。如果你没有注意到这一点，你以为已设置为移动的指挥官将会原地停留。另一个常见错误是没有注意到一名潜行指挥官正指挥着全部潜行的单位，这时，他们将潜行向目标省份（不发动进攻）而不是移动过去。参考下面的潜行单位以获取更多信息。潜行单位可以通过按住[Ctrl] 同时选择方向的方式进行常规移动。
 
-SCOUTING AND SCRYING
-Players will not necessarily have any information about a province besides what it depicted on the actual map. There are many ways to gather information about provinces, and these methods differ in what information is learned.
- Scout in province:
- Reveals owner, military info, fort construction, history.
- Reveals name and temperature of current and neighboring provinces
- Priest in province:
- As scout + dominion strength and dominion owner
- Spy in province:
- As scout + income, supplies, magic sites, unrest, province defense level and more accurate military info
- than an ordinary scout
- Dominion in province:
- Reveals owner, income, temperature
- Reveals dominion strength of neighboring provinces
- Scrying a province:
- Reveals name, owner, very accurate military info, income, supplies, magic sites, province defense level,
- history, temperature, dominion strength, dominion owner, fort constructions, unrest
- Owning a province:
- Reveals everything about the province.
- Reveals name for provinces 1-3 steps away. Early era only reveals names of neighboring provinces,
- middle era reveals name of provinces two steps away, late era reveals the names of provinces three steps
- away.
- Reveals owner, unreliable military info and temperature for neighboring provinces.
-       
-  
-From the tomes of the lore of Dominions
-During the subjugation of C’tis, lizard soldiers were recruited into the Ermorian ranks. Lizard Auxiliares have since been a regular part of the Ermorian army. The lizards are armed as Hastati, but wear ring mail cuirass of C’tissian design, and use round shields instead of the tower shields standard to the Imperial Legions.
+
+基本游戏功能 
+地图界面右侧的按钮面板构成了游戏的主要交互界面。他们分为四个部分。游戏按钮控制着全球游戏功能，例如结束回合、退出、改变设置或者阅读当回合游戏信息。魔法按钮本身并不是魔法，它们只是简单地使你能够进入游戏中的魔法系统。这些按钮不取决于你在哪个省份选择它们。随着你选择省份的不同，这些按钮中的一部分可能会处于非激活状态。举例来说，你不能在并未拥有的省份招募单位，所以选择这样的省份时点击这一按钮什么都不会发生。
+你可以点击“h”键隐藏游戏、魔法以及省份（单位）按钮。场景按钮总是处于显示状态。
+一些按钮可以处于激活状态但并不产生任何信息，比如统计按钮，如果在创建游戏时在游戏选项中关掉分数曲线的话。
+省份（场景）按钮只显示所选择省份的场景。如果你选择的省份中没有什么可供显示或者仅仅是你不知道它的存在，则什么都不会有任何显示。如果你拥有一个盖有神庙的省份，点击那个按钮能够显示进一步信息。如果是其他玩家的神庙，按钮将处于非激活状态。你也能够得到魔法遗迹的纤细，或者仅仅是它们存在的事实（但不包含进一步信息）。实验室按钮总是处于非激活状态，仅仅表示该省已经建造了一座实验室。
+这些按钮中的大部分将在后续篇章详细讨论。所有的快捷键都以[括号]列出。基础功能包括：
+结束回合 [e] 当你完成了你的回合，这一按钮将在里的游戏文件夹下保存你的行动，或者将其上传到服务器如果你正在进行在线游戏。你依然可以返回并调整你的行动，甚至完全擦掉重来。例外情况：在单人游戏中，点击结束回合（End Turn）自动主持当前回合。这一点与神域2不同——在单机游戏时不要通过点击结束回合保存你的指令！
+选项 [Esc] 调整音乐和影像设置，允许你保存和退出游戏。
+地图标识 [1-5,8,9 键] 切换军队，国家旗帜，神庙，城堡等的地图显示。
+统计 
+[F1] 国家概览 这一界面你单位和省份的全球图景。你可以在这一界面下购买省份防御或者直接进入某个省份。它也显示魔法遗迹的搜索状况。 
+[F2] 分数曲线 如果分数曲线打开，你能够看到各国力量的动态对比。项目包括拥有的省份数量，总神域，军队规模等。你同样可以看到所有伪神的名字和状态（人类或AI），以及是否他们还存在于游戏中。
+[F3] 名人堂 经历过最多战斗杀死最多敌人的指挥官会进入名人堂得到英雄能力。只要英雄在这里列出，这一能力就会不断增长。  
+[F4] 伪神 显示游戏中的伪神列表，除非当前游戏设置为所有其他玩家信息均不显示。 
+信息 允许你读 [m] 回合起始信息，向玩家发送 [s] 信息、道具或者金钱。 
+[F5] 研究 使你进入研究界面，在那里你可以进行咒语研究。
+[F6] 全球结界 显示当前正影响世界的全球结界魔法。
+[F7] 魔法资源 这里可以进入魔法资源库，资源库显示魔法宝石和宝石收入，并能够在指挥官之间交换宝石。 
+[F8] 魔法装备库 显示你找到或铸造的魔法装备。 
+[F9] 显示王座 这不是一个按钮，只是个通用快捷方式。它能够显示游戏中启用的升神王座（如果有的话）。
+[t] 军队设置 在这里你可以将单位划入指挥官麾下，改变阵型，以及将你的军力部署在战场上。打开 [49]页的军队设置部分获取更多信息。
+[b] 雇佣兵 玩家可在这里看到可供雇佣的雇佣兵。你可以点击想要雇佣的队伍名称进行出价。 
+[r] 招募单位 这里将开启该国的招募面板并显示选定省份的可招募单位。这仅对玩家控制的省份有效。
+剩余的按钮将在后面对应的部分详细说明。
+地图
+神域5中的地图有一个显著特征：他们分割为许多省份。这些省份由棕线勾画出来。然而，这些线仅供图像参考；游戏机制中并不使用它们。反而，重要的是省份与省份之间的相邻。你可以通过点击[8]键来切换邻省显示。
+一些地图并没有边界。你可以如上选择一个省份点击[8]键确认连接。下一页的表格显示了所有的显示切换。
+省份可通过名称或号码选定。如果你对某一省份没有任何影响（比如一个临近的友方省份或一名密探），你就无法知道它的名称，但你总能知道它的号码。一些特殊的省份会有固定名称，但大多数是在游戏开始时随机生成的。然而，对于给定的地图，省份编号总是不变的；Aran地图上的(12)省份在每局游戏中总是在相同的地点。
+神域5中的所有游戏机制均以省份为基础。移动由一个省份到一个省份完成。单位由一个接一个省份招募。每个省份有一些属性操控着对游戏的产出。
+省份属性
+选择了一个省份后，你可以在界面左上角的方框内看到它的属性，假如你有什么办法得到这些信息（无论通过密探还是临近的友方省份）。如果你没有任何方法收集这些信息，那么你能得到的仅仅是该省份的地图号码。你总是能够知晓省份的地形，即便它位于地图的另一端。一个省份的大多数信息将无法得到除非你实际上拥有它。（它对你友好，显示着你的国家旗帜）
+如果某一省份在你的神域中，你能够看到它的收入和名称，即便你并没有控制它。一旦你探查了某一省份，这个省份的名称将被记住而你总可以看到它，即便你在这一省份中没有友方单位。如果想要了解关于如何获取某一省份更多信息的内容，请查看[34]页的探查与占卜部分。 
+省份属性以如下划分方式显示在主要省份界面中：
+地形 地形显示在省份信息框的左下角。它对决定省份的收入、资源、补给以及魔法遗迹等项目的数值非常重要。农田意味着高人口（即高收入）但低资源以及较少的魔法遗迹。山地则恰恰相反。山地、森林、沼泽、洞穴、特别是荒地更可能包含魔法遗迹。地形同样允许或限制多省份移动。相关内容参见移动部分。
+箭头 Home Ctrl+Home End Insert Delete Page Up Page Down 1 2 3 4 5 8 9 移动地图 回到首都省份 找到伪神 视角升至x0.5 视角升至覆盖屏幕 视角升至适合全地图显示 视角推进 视角外拉 切换旗帜/城堡 切换军队 切换神域图标 切换收入/资源 切换神庙/遗迹 切换邻居 切换省份名
+陆地和水下省份有一个显著的区分。水下省份不允许缺乏相关特殊能力（比如两栖，水生或者水下呼吸）的单位进入，他们并不向相连的陆地城堡贡献资源，也不允许飞行单位跨越。 拥有航海能力的单位可以跨越水下省份，但在回合结束时不允许停留在那里。
+人口（Population） 人口决定收入，并且受许多因素影响： 生长/死亡 天平，巡逻，神域，掠夺，以及随机事件。省份的人口决定了省份的基础收入：基础收入=人口 / 100。
+收入（Income） 每个省份每回合都向所有者的国库贡献收入。收入在国库中累积。显示的数值是经过所有修正后的。收入取决于多种因素，包括人口，神域天平，城堡集中度以及动荡值。
+基础公式为 修正收入 = (人口/100) *(神域天平修正)*(1+省份集中度修正/200) 
+如果省份存在动荡，这个数值为 最终收入= 修正收入/ (1+(动荡值*0.02)
+如果某个省份无法以友方省份的连续线追溯回到某个友方城堡，那么这个省份该回合不产生收入。税收需要连接保障。
+注意： 谈到税收，注意金币收入收集的过程在这里被描述为税收，但在游戏中并不存在明确的“税收”机制或者按钮。这是与以往神域游戏的一处改变，在早期版本中你可以为每个独立的省份设置不同的税率。现在情况不同了。退税变得不那么容易了。
+资源（Resources） 省份的资源值，代表着制作武器和盔甲所需的原材料。与收入相同，资源也随动荡值减少。资源由城堡向周边省份收集。一个省份只生产潜在资源的一半以供该省使用，除非该省拥有一座城堡。显示的数值是实际生产的，而不是潜在数值。
+注意在简述界面中，资源以锤子显示。随着资源被分配与招募，简述界面中的锤子将逐步变灰。
+某省份中可用资源随动荡值降低依照如下公式
+资源% = 100/(100 + 动荡值) 
+因此，100动荡值时一个省份只能产出正常资源的一半。顺便说一句，动荡值达到100或更高时，该省份不能招募单位。
+在某省份中建造城堡能够显著地增加当地的资源数值。
+招募点（Recruitment） 招募点是神域5中的新概念。招募点代表着招募和装备军事力量时人口方面的影响以便使资源的影响更为集中。招募点取决于当前省份的人口，方式如下：
+人口 招募点 0-5,000 10+人口/100 5,000-10,000 10+50+(人口-5000)/200 10,000+ 10+50+25+(人口-10000)/400 
+而后，应用城堡的招募加成（例如山寨的加成为+50%）。秩序天平也以每级+10%的方式影响招募点。 
+神域值（Dominion） 这一项代表着进入当地的宗教统治力。一个省份只能受一位伪神的神域影响。如果神域值为正值，神域属于你而以白色蜡烛标识。负神域值表示其他人的神域，以黑色蜡烛标识。
+简述界面（Capsule Screen） 一个省份的收入，资源以及神域能够通过点击[5]键显示（或切换关闭）锤子（资源）和旗帜（招募点）在回合中随着玩家配置而逐渐变灰。打开简述界面是总览任意省份是否分配了资源生产的好办法。
+动荡值（Unrest） 动荡值代表一个省份的混乱度，该值会降低该地的收入和资源。动荡可能由随机事件，敌方间谍，血猎，魔法遗迹，一些指定魔法或全球结界引起。动荡值可以通过巡逻，省份防御，秩序天平，魔法遗迹以及随机事件降低。动荡值同样影响抓捕血奴的几率以及通过巡逻找出潜行单位的成功率。 
+来自神域知识之书
+希提斯是被黄沙荒漠环绕的沼泽河谷。在这片肥沃的河谷中，一个神圣的王国由如同蜥蜴般的人形生物建立。以人类的标准，这是一个古老的国家而它的智慧和魔力是强大的。整个社会的顶端是蜥蜴王和他的王室后裔。国王是希提斯的最高祭司。在国王之下是高阶祭司和他们的神圣巨蛇，以及谜一般的蜥灵法师——擅长死亡和重生的伟大法师。这些蜥蜴人都是素食者但却奴役着另一群肉食蜥蜴人，让他们从事士兵和工人的工作。希提斯人移动比较缓慢，但拥有厚实的皮肤保护自己不受武器的伤害。两个蜥蜴种族都是冷血动物，在寒冷地区会迅速疲劳失去行动能力。他们对毒素具有一定程度的抵抗能力。希提斯的居民偏好温暖的省份。  
+补给（Supplies） 省份的补给量决定了这个省份能为多少单位提供补给。如果使用该省份进行补给的单位数量超过了显示的补给量，饥饿就会发生。单位依体型不同消耗不同数量的补给（详见单位部分）。省份的补给量受多种因素决定。 
+以人口为基础的补给量由当前省的人口计算，受生长/死亡以及炎热/寒冷天平修正。某省第一个10000人口产生的补给值为每100人口提供1点补给。额外人口则为200人口1点。这一值首先受生长/死亡天平修正，而后受炎热/寒冷天平修正，然后得到以人口为基础的补给量数值。
+以城堡为基础的补给量取决于该省份与城堡的距离。如果讨论的省份在一座城堡的四个省份距离之内，以城堡为基础的补给值将增加到上述以人口为基础的补给量上。这一数值取决于城堡的集中度（参见下面城堡部分），使用公式 （集中度*4）/（距离+1），如果临近城堡多于一个，只取最高的以城堡为基础的补给值。
+示例：一个20000人口的省份神域为生长1以及炎热3。它的前10000人口能够产生400补给点，剩余的10000人口产生200补给点，总计600补给。补给受1级成长神域影响提高20%，总量提高到720。然而，炎热3神域将这一数值降低30%，即180补给点，于是以人口为基础的补给值为540。
+这个省份距离一座堡垒（Castle 集中度30）3省的距离。这将产生30点额外的补给值。这个省份最终的补给值为540 + 30 = 570。
+
+已使用补给值（Supply Usage） 当前位于该省的单位已使用的补给值在已使用补给值条目中显示。如果某省的补给不足以提供给所有位于该省的单位，饥饿将会发生。
+防御值（Defense）防御值意味着当前省份的防御能力。提高省份防御值需花费的金币数等同于所需购买的等级。（因此，1级花费1金币，1级提高到2级花费2金币，10级提高到11级花费11金币，以此类推。）在1级，10级，15级以及20级时有额外的收益。省份防御不消耗维护费，战斗后若省份没有失去控制则会完全恢复。
+在省份界面点击防御值（Defense）字样能够提高省份防御值。快捷键是[d]键。省份防御值无法向下手动调节。然而，每点省份防御点需要至少10人口支撑。省份人口不足时，省份防御值将自动向下调节达到省份人口足以支撑的水准。
+尸体（Corpses） 省份中未埋葬的尸体数。这对于某些魔法（乌鸦盛宴Raven Feast）以及复苏亡灵（Undead）十分重要。只有当你有死亡法师或者亡灵牧师在该省份时才能看到这一信息。如果该国的普通牧师能够复苏亡灵（某些特定国家），他们也能够看到尸体数。
+神域天平（Dominion scales） 神域天平与神域值相互分开， 虽然二者是相关的（参见神域一章获取更多信息）。省份神域天平的等级以图标/文字的方式显示在省份窗口。
+图标 天平 效果
+秩序 增加收入2%，资源+2%，招募点+10%，动荡值减值+1。减少2%随机事件。
+混乱 降低收入2%，资源-2%，招募点-10%，动荡值减值-1。增加2%随机事件。
+勤劳 增加收入3%，资源+15%。
+懒惰 降低收入3%，资源-15%。
+炎热/寒冷 偏离种族默认值每一个等级，降低税收收入5%，降低补给量10%
+生长 每个月增加人口0.2%，增加补给量by 15%，增加收入4%
+死亡 每个月减少人口0.2%，降低补给量by 15%，增加降低4%
+幸运 增加5% 随机事件。随机事件为幸运事件的几率增加10%
+不幸 增加5% 随机事件。随机事件为幸运事件的几率降低10%
+魔力 使魔法更难抵抗（对于该省份的所有单位每级天平-0.5魔抗，向下取整）。每级天平降低10%施法产生的疲劳。每级天平给予所有友方法师+1研究点。每级天平+50点起始科研点。*
+枯竭 使魔法更容易抵抗（对于该省份的所有单位每级天平+0.5魔抗，向下取整）。每级天平增加10%施法产生的疲劳。每级天平给予所有友方法师-1研究点。每级天平-50点起始科研点。*
+注意：中立天平的默认起始研究点为150点。
+上述大多数信息也可以通过国家总览界面（Nation Overview screen）[F1]看到，该界面同样显示指挥官以及他们的所在地。你可以在这一界面设置防御值以及发布指令，同样可以使用这一界面直接前往主地图的某一省份。这一点使之非常有用。新玩家应该将他们的手指放在[F1]上。控制着是否打开这一界面的手指是十分重要的。
+国家概要 
+无论选择哪一个省份，国家概要都将显示在省份信息的旁边。国库（Treasury）列出你的国家金钱的总值。总收入（Total income）是支付维护费前的收入，维护费在圆括号中显示。右上角以一个符号指示季节。将鼠标放在这个符号上会在游戏中显示确切的季节信息。 
+维护费（Upkeep） 游戏中所有的单位（除了大多数召唤单位）每回合都需要支付相当于招募金钱除以15的维护费。神圣单位维护费减半（招募金钱除以30）。
+魔法宝石清单（Magic gem inventory） 你的宝石清单显示在国家概要中，你可以通过点击任意宝石图标直接进入清单界面。
+城堡（FORTS） 
+城堡时出现在地图上且能够升级的建筑。城堡能够收集资源，堆积补给以分配给周边省份，在被围攻时为部队提供掩护。每种城堡类型有不同的属性。
+城堡类型 
+	名称	建造	集中度	指挥官点加成	招募点加成	贮藏补给	城墙值
+	山寨
+Palisades	600/4	15	0	50%	100	100
+	要塞
+Fortress	300/2	30	1	75%	500	250
+	堡垒
+Castle	300/2	45	1	100%	1500	500
+	城堡
+Citadel	450/3	60	2	125%	5000	750
+	大城
+Grand Citadel	600/4	70	2	150%	7500	1000
+
+“建造”一项中的数值表示所需的金钱/月份。因为每一个等级的城堡均需在前一等级基础上建造，所以列出的月份只针对当前阶段。所以建造一座山寨需要花费600金以及4个月的事件，而升级到城堡需要另外300金和两个月。属性值则不堆叠，所以前一级城堡的集中度、招募点、补给以及城墙值将被新一级的数值取代。
+游戏中的纪元（早期，中期或晚期）给出了大多数国家的可用城堡水平。标准城堡为：早期：要塞；中期：堡垒；晚期：城堡。一些国家（例如幽冥Yomi）只能建造原始城堡，而另一些（如早期厄尔莫Ermor）能建造较某一特定纪元更为先进的城堡。国家概览界面将显示你所查看的国家是否为原始或先进城堡。
+一些国家，比如中期的玛瑞格诺恩（Marignon）和乌尔姆（Ulm），拥有能够建造较正常等级高一级的城堡的石匠。这并不是特殊的国家特性，仅仅是那个时代那个国家可招募的特殊指挥官的特性。有石匠特性的指挥官能够用来建造更高等级的城堡。大城（Grand Citadel）只能由那些能够建造城堡（Citadel）并拥有一名石匠的国家建造完成。它的图标与城堡相同。
+集中度（Admin） 城堡集中度的数值决定了它从临近省份收集资源的百分比。它同样向周边省份周边省份发送补给。相关公式为(集中度 x 4) / (距离 + 1)。因此，一座集中度50的城堡向相连省份提供100补给。四个省份是向周边省份发送补给的最远距离。集中度也以集中度/2%的比率增加该省收入。因此，一座集中度数值为30的省份能在其所修建的省份增加15%的收入。
+防御值（Defense） 城堡的防御值指一座城堡被敌人围攻时在被攻击前必须克服的破坏点数。每个回合，城堡中围城的力量与被围攻的力量做一个比较。这两股力量的差值决定了对城堡防御值造成的破坏值。 
+补给值（Supply） 城堡的补给值只决定当被围攻时城内有多少单位能够维持补给。它不影响城堡向周边省份提供的补给值。被围攻的每一个回合，它的补给值除以被围城的时间长度决定了它能向被围攻单位提供的补给值。因此，一座补给值为100的城堡在被围攻的第5个回合，提供给被围攻单位的补给值为20。
+城墙防御者（Wall Defenders）
+城堡在被进攻时也会出现类似省份防御（Province Defense）的防御部队，被称为城墙防御者。当前的对抗围攻的防御值会被列出。城墙防御者有如下属性：
+贡献防御部队的围城力量值（参见围城，[82]页）
+永远不会用光弹药
+能够从城墙内部的楼梯攻击，或者被飞行或虚体单位攻击（或者投射武器，见下）
+增加20%投射范围
+城墙防御者也拥有一些投射防护（参见投射战斗，[76]页）。城墙的防御值与塔盾相同，但它的防护值为30。防御者使用他们自身盾牌与城墙防御值的较高者。
+城墙防御者的数量取决于城堡等级。
+距离 补给 0 400% 1 200% 2 133% 3 100% 4 80% 
+城堡属性
+当你在省份界面点击城堡按钮（或者[f]键）时，一座城堡的属性将会列出。一些城堡提供指挥官点以及招募点加成，这些将在省份类型一项列出。
+神庙 
+神庙是神域5中三种你能够建造的建筑中的第二种。神庙能够帮助你传播神域，无论是直接产生神域传播[例外：早期和晚期米特兰]还是提供提供血祭仪式的场所（只对一些国家有效——参见神域一章）。神庙也能为祭司提供传教加成。 
+神庙只能在友方省份建造。如果敌人控制了某个有着神庙的省份，神庙将立即被夷为平地。如果你占领了一个有神庙的省份，在回合事件中除了占领省份外还将显示对神庙的夷平。同一时间，一个省份中只能存在一座神庙。神庙需要400金来建造，尽管有些例外。马恩（Man）和马伯尔尼（Marverni）只需要花费一半价格建造神庙。潘加亚（Pangaea）在森林省份花费一半，而迦特（Gath）在任何地方都需要花费两倍价格。
+点击屏幕右下方的神庙按钮将告诉你每回合你能够传播多少神域以及它们成功的可能性有多少。这将决定每个月传播的几率。每一座神庙都能够传播神域，正如伪神，先知以及首都省份。所有这些都将在神域一章详细说明。
+实验室
+实验室是能够建造的最后一类建筑。实验室担任魔法宝石收集点以及研究中心的工作。它们允许所在省的法师执行研究指令，使宝石能够进入国家清单，并且允许施放仪式魔法。关于这些游戏内容的详细解释，参见魔法一章（从[84]页开始）。仪式魔法只能在拥有实验室的省份施放。
+实验室花费500金来建造，一些国家能够建造价格便宜的实验室，比如阿柯赛菲（Arcoscephale）以及森林省份中的潘加亚（Pangaea）。
+魔法遗迹
+魔法遗迹本质上并非建筑（虽然一些魔法遗迹如菲伯克要塞以及叶维兰墙是建筑），而是省份内一些拥有特殊属性的地点，特殊属性包括生产魔法宝石、招募独特兵种或者其他好处。一个省份可以拥有多个魔法遗迹，（最多8个），它们并不都是立刻可见的。相对于农场和平原省份，魔法遗迹更容易在山地、森林、沼泽、荒地和洞穴省份中找到。魔法遗迹并不一定在你占领该省份时呈现。这时，必须通过搜寻找到这些遗迹。它们共分四个难度等级。当使用搜寻魔法遗迹（Search for Magic Sites）指令时，法师需要在遗迹所在魔法道系上拥有等同于遗迹难度等级的魔法等级才能够找到它。因此，一位自然3级的法师搜寻时能够在省份中找到难度等级为1，2或3的遗迹，但不能找到难度等级4的遗迹。在搜寻时，某一道系的4级是找出遗迹所需的最高等级。一些魔法能够自动揭示一个省份中指定道系的所有遗迹（例如内脏占卜Haruspex揭示所有自然魔法遗迹），甚至同时揭示所有魔法遗迹（阿卡西学识Acashic Knowledge）。
+一些遗迹（例如虚空之门Void Gate) 允许特定类型的单位进入以取得一些回报。进入这类遗迹是合乎条件的指挥官能够执行的一条移动指令。
+允许招募国有单位的遗迹（例如阿瓦隆森林Forest of Avalon) 只对相应国家有效(这个例子中为马恩 Man)。敌对玩家夺取这个遗迹后依然可以收集魔法宝石（如果有的话）但并不能招募这些特殊单位。 
+遗迹并不确保对找到它的玩家有用。一个洞穴允许血系法师招募恶魔，但如果玩家没有血系法师，他就无法使用它。
+魔法遗迹可能需要额外的条件才能变得有用。例如，图书馆允许招募贤者（sages），但你必须建造一座实验室。这显然是一些角色扮演方面的原因。
+并不是所有的魔法遗迹都提供正面影响。也有一些是混乱、死亡或者其他负面力量的根源。这些能够造成动乱或者其他不良效果，并且无论是否发现这一遗迹都能够造成麻烦。
+省份防御
+省份防御（PD）是不在某省驻留一支部队时保护该省份的一种方式。购买防御花费的价格为新的防御水平的数值。所以购买第一级省份防御花费1金，而购买第10级花费为10（为了到达10级，你不得不同样购买介于其间的点数，所以最终10点PD花费为1+2+3+4+5+6+7+8+9+10 = 55)。
+防御1级时，该国得到1名指挥官和一些部队。此后的每一级防御水平都给你更多的部队，这些将随着你省份防御的增加而显示出来。省份防御的最高水平为100。在20级时，你得到附加的指挥官和部队类型。
+每10点省份防御每回合在该省降低1点动荡值。所以53点省份防御每回合降低5点动荡值。
+从15级开始，省份防御将有机会侦测到该省份的潜行单位。超过15点的每一点省份防御得到一点巡逻强度，所以25级PD提供巡逻强度11。这与相同数量的步兵单位巡逻效果差不多。 
+只有人口充足时省份才能支撑省份防御值。每一点省份防御，必须对应10人口。如果达不到要求，省份防御将会在回合结束时相应降低。这是除省份被征服及交换（门徒模式）外唯一的降低省份防御的方式，被征服时所有存在的省份防御将被清除，交换时省份防御将降低25%。一旦你建成了省份防御，你将不能在未来的回合中降低它。那时，向下的箭头将不再生效。
+动荡值 
+动荡值代表民众对该省统治者的不满。这可能是多种不同造成不满的事件带来的结果。控制该省份的国家与向该省份施加神域影响的国家不同将造成不满，因为民众崇拜一位神但却被另一位统治。猎捕血奴当然也会造成动荡——想象一下当一些人来到你的城镇并围捕年轻的处女以供血祭时你的心情。敌人的间谍和诗人会造成动荡，因为这是他们的职业。你同样需要考虑是否有不祥之兆令你坐立不安。
+动荡值降低省份产生的收入和资源的数值。动荡值达到或超过100的省份无法招募新单位。因此，你能够通过破坏他省份的稳定停止他的生产。
+雇佣兵
+雇佣兵是愿意为金钱而战斗的单位。他们向出价最高者售出他们的服务。他们的每次雇佣时间为三个月（回合）。点击雇佣兵（Mercenaries）按钮将显示可供雇佣的雇佣兵，他们的雇主（以国家旗帜标识）以及剩余的服务时间。当一个雇佣兵团队的合同到期，它将再一次允许被雇佣，仅仅在那个回合，之前雇主的出价将被视为两倍。这一优势仅在那个回合有效，如果雇佣兵被其他人雇佣，这一优势将会失去而新的雇佣国将在雇佣兵完成合同的那一回合得到这一优势。
+
+侦查与占卜 
+除了实际地图中描绘的那些外，玩家无法必然获得某个省份的任何信息。有许多方式能够收集某个省份中的信息，这些方法的区别决定了哪些信息能够获得。 
+省份中有密探： 
+揭示所有者，军事信息，城堡建造，历史。 
+揭示当前省份及相邻省份的名称及当前温度。
+省份中有祭祀： 
+等同于密探+神域强度及神域所有者 
+省份中有间谍： 
+等同于密探+收入，补给，魔法遗迹，动荡值，省份防御水平以及相对普通密探更为精确的军事信息。
+省份中有神域： 
+揭示所有者，收入，温度 
+揭示相邻省份的神域强度 
+占卜某个省份： 
+揭示名称，所有者，非常精确的军事信息，收入，补给，魔法遗迹，省份防御水平，历史，温度，神域强度，神域所有者，城堡建造，动荡值
+拥有某个省份： 
+揭示该省的全部信息。 
+揭示1-3格外的省份名称。早期仅揭示相邻省份的名称，中期揭示两格内的省份名称，晚期揭示三格内的省份名称。 
+揭示相邻省份的所有者，并不可靠的军事信息以及温度。
+来自神域知识之书
+镇压希提斯（C’tis）期间，蜥蜴战士被征召进入厄尔莫（Ermor）的战争序列。蜥蜴人辅助兵（Lizard Auxiliares）从此成为厄尔莫军队的常规组成部分。蜥蜴人辅助兵的武装与青年兵 ( Hastati )相同，但却身着希提斯人设计的连锁胸甲，使用圆盾而不是帝国军团的塔盾。
