@@ -1,193 +1,171 @@
-Dominions 5 is all about units. These range from weak, lightly armed militia to giant monsters of unspeakable horror and magnitude. In between there are bards, mages, bandits, dragons, and many others. Some units become available as the results of summoning spells, while others are recruitable through the basic provincial population. Each province has its own recruitable units. Some units may require a structure such as a temple or laboratory before they can be recruited. Some can only be recruited in a province with a particular magic site.
-Each nation has a unique set of units that can only be accessed in provinces with a friendly fort. At the start of the game, this will be the starting fort in a nation’s home province. Later, as you build new fortresses, you’ll be able to recruit those units in those provinces, too, although some units are recruitable only in your capital, from a magic site located there.
-There is a basic distinction between units and commanders: units are the troops that make up your squads, while commanders are the individuals who either lead these squads or perform other tasks like research or item crafting. Some attributes are exclusive to commanders, like leadership and the ability to change equipment inventory or carry gems. The list below summarizes all of these attributes.
-You can get further information about an ability simply by clicking on it. This will bring up a window which shows how this value has been modified. For example, a unit may have a base morale value of 12, but due to experience (+1) and friendly dominion (+1) the modified value is 14. Clicking on the attribute will show its modifications.
-Some attributes show further attributes
-Basic attributes
-Hit Points: Everyone knows what this is.
-Size: Size determines how many units can be in a single square on the battlefield (a maximum of 6
-points). It also determines how many supplies a unit needs each turn (Size minus 1). Strength: This determines how much damage a unit does when it successfully strikes a target. Attack: This determines the unit’s chances of successfully striking a target with melee weapons. Defense: This determines the unit’s chances of avoiding a strike by melee weapons.
-Protection: This is the unit’s armor rating. It can be different on different parts of the body,
-depending on equipment worn or simply the nature of the creature’s hide. These separate values
-will be shown when you click on Protection.
-Morale: This measures a unit’s likelihood of running from battle.
-Magic Resistance: Think of this as Protection, only against magic. Not all spells have to penetrate
-Magic Resistance, though.
-Precision: This is how accurate a unit is, either with missiles or with magic.
-Encumbrance: A unit will incur Fatigue equal to its Encumbrance on each turn it attacks. Moving
-—by itself—does not incur this.
-Map Move: This determines how far a unit can move on the world map, subject to the movement
-costs listed under Movement on page [54].
-Combat Speed: This determines how far the unit can move in combat. Each point of combat speed
-corresponds to roughly one square on the combat map. 
-Fatigue: A unit’s Fatigue causes it to be more susceptible to critical strikes. Once a unit reaches 100 fatigue, it becomes unconscious and is unable to attack or defend. A unit at 200 fatigue starts taking regular hit point damage instead of fatigue damage from additional fatigue.
-Age: The first number is the unit’s age in years. The number in parentheses is the age at which the unit will start suffering penalties and become susceptible to afflictions due to old age. This attribute is displayed when you click on Fatigue. The age when you start suffering penalties is referred to as max age. It is modified by the following (in order of priority):
-● undead creatures have their max age increased by 50% per point of Death magic
-● inanimate creatures have their max age increased by 50% per point of Earth magic
-● demons have their max age increased by 50% per point of Blood magic
-● everyone has his or her max age increased by 50% per point of Nature magic
-● creatures whose max age is modified by Nature have it reduced 5% per point of Fire magic (burn bright, burn fast)
-There are three kinds of Leadership, and apply to Commanders only.
-Leadership: This is the number of units a commander can lead.
-Undead Leadership: Like leadership, but for undead beings. A commander can lead 30 undead
-beings per level of Death magic skill and 5 per level of Blood magic skill he or she has. Magical leadership: As above, but for magical beings. This is determined by indirect magic
-bonuses (see Indirect Magic chart – not all paths confer the same benefits). Units also may have special abilities. Some of these are summarized below. Special abilities
-Units in Dominions 5 can have a wide variety of special abilities. In fact, there are over 350 such abilities in the game. Each modifies the unit’s attributes or capabilities in some way. A mouse-over or right-click on the ability in the stats screen will give an explanation of what it does. Some of these attributes bear further explanation, which appear below.
- Ambidextrous Berserker
-Ethereal Glamour Recuperation Sailing
-Unit classes
-There is no icon for this ability, but you will find it if you click on Attack. It reduces the penalty for wielding two weapons by an amount equal to the Ambidextrous level.
-A unit with this ability goes berserk when wounded if it passes a morale check vs. 12. Berserk units fight until dead – they do not rout. A unit with +Berserk ability gets that number as a bonus to its berserk attributes.
-Very difficult to hit with non-magical weapons. 75% of such strikes will miss. These units gain Mirror Image in combat, and are undetectable in friendly provinces. This unit can heal its battle afflictions over time, unless it has the Old Age icon.
-Can cross (but not remain in) water provinces when moving.
-Some special ability divide units into classes. The classes may have special requirements for leadership.
-Magic being Mindless
-Undead
-These units require a mage to lead them. They rout if left without magical leadership. Mindless beings suffer mindless dissolution on the battlefield if left without a commander. Mindless units cannot be in the same squad as non-mindless units.
-Undead units are subject to banishment, as are demons. Undead and demon units require undead leadership, which is generally conferred by skill in Death magic (or being an
-undead commander). Zombies aren’t going to take orders from just anybody. A squad that mixes undead and non-undead gets a -1 morale penalty, for obvious reasons.
-Several abilities have detailed effects.
-Awe Units with Awe force enemies to take a morale check against 10 + Awe in order to be able to attack them. Thus, a unit with Awe +4 would force attackers to pass a morale check against 14, or be awestruck and unable to attack the awe-inspiring monster on that combat round. There is a special kind of Awe called Sun Awe which does not work underground, or when it is dark.
-Fear Units in a monster’s Fear area of effect get their morale temporarily lowered and their entire squad must take a morale check against the monster’s Fear, or rout. The basic Fear effect requires a check against 10. Unlike Awe, the bonus to Fear indicates the additional area of effect, not the Fear strength. So a Fear +4 monster has normal Fear that radiates to 4 additional squares. The Fear strength itself is increased for every full +5 Fear, so a Fear +10 unit would radiate to ten additional squares, and force a morale check against 12. The base area of effect (Fear +0) is 6 squares.
-Heat Units with this ability radiate heat into adjacent squares. You will see this as little black smoke. This causes 5 armor-negating points of fatigue damage. It is considered fire damage, so units with fire resistance have protection. A fire resistance of 5 or greater negates the effects of a heat aura. The default size of a heat aura is 3 squares and is increased by Fire magic. Some monsters may have a greater heat aura, which has a larger area of effect.
-Chill This is exactly the same as Heat, except the stun damage is cold, and thus units with cold resistance have protection. It looks like bluish-white smoke. The default size of a chill aura is 3 squares and is increased by Water magic.
-Poison cloud This is the green smoke. Each turn the area of effect is blasted by poison, and anyone in this area takes 2 points of armor-negating poison damage. This effect actually lasts for two turns, so a single unit can take multiple poison damage effects from a single source.
-Heat, Chill, and Poison Cloud effects stack, so if a unit is in a square where three Abysians are radiating heat, that unit will take damage from each.
-Stun Stun prevents a unit from taking any action for one round.
-Invisibility Units that are invisible cannot be seen. You suffer a -10 penalty to Attack when attacking a unit you cannot see in melee. In order to see invisible units you must have the ability Spirit Sight. Units that are blind anyway are not further penalized when attacking invisible enemies.
-Petrification This is the medusa's special ability. Anyone attacking her is petrified if the attacker fails a magic resistance roll. After about 3-6 rounds, the petrification is lost. If the unit passes a magic resistance check upon losing its petrification, it returns to normal. If it does not, it dies.
-Seduction Some units can seduce and make enemy commanders of the opposite gender switch sides. Nagini and succubi have versions of this power. The nagini must be adjacent to a friendly province into which the target is taken. A succubus flies with a seduced target to her master’s capital.
-With the succubus, the target makes a magic resistance check against 16. If it fails, the dream manifestation is successful and the succubus tries to seduce the commander. If the commander fails a morale check vs. the seduction ability, the commander and succubus fly to the capital. If the seduction fails, the commander is attacked by the succubus in an assassination attempt.
-The procedure is the same for the nagini, although that unit has a lower seduction ability (10). If successful, the lovers will sneak to a neighboring province instead of the capital.
-Lure of the sirens works in a similar way. First there is a magic resistance check, followed by a morale check against the lure ability (10). The lure can only be used in coastal provinces. Failure doesn’t cause an assassination battle, which makes the siren’s attempt rather safe. If successful, the target drowns himself, or enters the sea and attacks the siren in an assassination attempt if he is able to breathe underwater (and returns to land if he survives).
-Standard The standard ability increases the morale of the entire squad it is in. Only the best standard for every squad will have a morale increasing effect.
-Horror Marking A horror mark is a condition which can lead to dire results. A horror mark will result in a small chance each month that a unit will be attacked by a horror. A unit can be horror-marked more than once which will increase this chance, but there is no way of knowing how bad the mark is. Certain spells will cause a horror-marked unit to be attacked. In battle Horrors always attacked a horror-marked unit first. Stronger horror marks also attract stronger horrors.
-Trample Trample is exactly what it sounds like – a large unit runs over a smaller one. Smush! A trampling unit displaces all of the units in the square it enters to an adjacent square. These units have to take a Defense – (fatigue / 10) check against 10. If they fail this check, they take 5 + 2xSize trample damage. This is an armor-piercing attack, so Protection is halved. A trampled unit will always take at least one point of damage, regardless of Protection. A unit which successfully passes the defense check is still displaced, but just takes one point of damage, total.
-Swallow Some monsters are able to swallow the target of a successful trampling attack. The swallowed monsters are removed from the battlefield until the swallowing monster is killed. Some monsters are able to digest swallowed targets, which does damage to the swallowed target each turn, and some monsters can even incorporate the swallowed target into their own bodies and get extra hit points from the damage they do to swallowed creatures.
-Additional abilities
-There are many other unit attributes, which you can get information on by right-clicking on or mousing over the effect in the unit’s stat window. An ability granted by a magic item, such as Regeneration or Fire Resistance, will be listed with the other abilities, and information about it can be found in the same way.
-You can see a (nearly) full list of abilities in the Modding Manual included with the game.
-XP: Experience Points
-Units which survive the world of Dominions for a period of time are likely to get experience. Units usually gain 1 XP per month, but can gain more through combat. Each level gives a bonus to Prec, Att, Def, and Morale.
-Heroic Abilities
-Non-pretender commanders who join the Hall of Fame get heroic abilities. These are denoted by a yellow star in a red circle, and can grant increased attributes, such as strength, leadership, magic resistance, and the like. Unique beings such as the Elemental Royalty cannot enter the Hall of Fame.
-Afflictions
-Units may suffer battle affliction when they suffer damage. The chance is simply the percentage of its total normal hit points a unit suffers on that strike. In other words, an infantry unit with a healthy strength of 10 hp will have a 20% chance of suffering an affliction upon taking 2 hp damage. The location of hits is important! Loss of an arm or an eye depends on being hit in the right place.
-Afflictions are denoted by a red heart. A unit may suffer from multiple afflictions. Diseased units may gain additional afflictions each turn. Afflictions can be healed by the following methods:
-● Units with the Recuperation special ability heal afflictions over time (unless they have Old Age).
-● Units that are Immortal (or Dominion Immortal) may heal afflictions when they reform after dying.
-● Units with an involuntary shapechange mechanic (such as Jaguar Warriors of Mictlan) can sometimes heal afflictions when they change back to their normal shape. This is checked every time they change back to their first shape, but it is not a reliable method of healing.
-● Units with the autohealer ability will cure a number of afflictions up to the value of the ability automatically in the same province every turn.
-● Units with the disease healer ability will automatically cure a number of diseases equal to the value of the ability in the same province every turn.
-● The global enchantment Gift of Health will automatically cure afflictions in the dominion of its owner (including allied nations in disciple games as long as dominion is positive).
-● The artifact The Chalice will automatically cure up to 5 afflictions in the same province.
-● There are a few magic sites that can heal afflictions like a healer
-● Afflictions have a difficulty level that is checked against when subjected to healing. If the healing check succeeds, the affliction is cured.
-● Undead beings cannot heal afflictions unless they have Recuperation or Immortality, except through Gift of Health.
-● Afflictions caused by cursed items such as Eye of Aiming and The Black Heart cannot be healed unless the item is removed first.
-Afflictions are different from Curses or Horror Marks. The later two entities cannot be removed. Horror marks may be lessened by staying dead.
-RECRUITING UNITS
-Recruiting units is the main method of adding troops to your armies. Recruitment is done per province, so as you capture provinces, you gain the ability to recruit new types of troops. In some coastal provinces, these troops may be amphibious.
-● Each province has its own pool of units.
-● Some national units can only be recruited in a nation’s capital
-● Building a fort in a province adds a nation’s non-capital troops to that province’s pool. ● Gold and resources are spent to produce units.
-● Some nations can recruit additional units outside their forts, depending on terrain
-Recruitment costs
-Units have two costs: gold and resources. In the world of Dominions, a unit’s training is reflected in its gold cost, while its equipment requires the resources. Expect highly skilled units to cost a lot of gold, heavily equipped units to cost a lot of resources, and highly skilled, heavily equipped units to cost a fortune.
-Sacred units also have a Holy point cost, which is always 1 per unit (including sacred commanders, which was not the case in Dominions 3).
-Recruitment restrictions
-There are some restrictions not only on how many units of a type can be recruited in one turn, but how they can be queued as well.
-Commanders: Gold: Resources:
-Holy: Limited:
-You can only recruit as many commanders in a province in a turn as you have available recruitment points. Commanders can cost more than one point.
-Units may only be recruited up to the limit of that nation’s current treasury. Units cannot be queued up for the next turn based on gold cost.
-Units may only be recruited in a province in a given turn based on that province’s current resources, but they may be queued for following turns. This makes it possible players to recruit units in provinces that don’t produce enough resources to fulfill that unit’s resource requirement in a single turn. Units that cannot be built in the current turn, but are in the queue, are dimmed in the recruitment area. Sacred units can only be recruited up to the home province’s Holy limit, which is the same as the current maximum dominion. Units can be added to the queue beyond the Holy limit.
-Some units may have a recruitment limít that only allows a certain number to be recruited per turn (e.g. maximum of 5 Troglodytes per turn, regardless of available gold or resources).
-Units are recruited at the beginning of the turn resolution, so units in a province being attacked in the same turn they are recruited will fight to defend the province. If they are recruited in a fortress then they will stay in the fortress and become besieged.
-Recruited units go into the unassigned unit pool of units at the top of the Army Setup screen. Below them you will see all your commanders in that province.
-Holding down [SHIFT] while selecting a unit for recruiting will choose ten of that unit. Up to 250 units may be queued in a province.
-ARMY SETUP
- Garrison units
-At the top of the screen, below the province name, is a single row where all unassigned, or garrison units, are shown. Newly recruited units get placed here, and stay there until they are assigned to a commander (or the province is invaded and they are killed in battle). If the province contains a fortress, these units are considered inside the walls and don’t join any patrolling units in combat. If the province has no fortress, they do participate in combat, and form one large squad at the center of the battlefield.
-Squads
-Squads are the basic organizational unit of combat. They can contain anywhere from 1 unit to the limit of their commander’s leadership value. A commander cannot lead more units than this value, no matter how many or few squads they are split into. A commander can lead a maximum of five squads, although depending on the commander's leadership, additional squads may suffer a morale penalty. Thus, the maximum number of squads in an army is five times the number of commanders. Some units require their commanders to have special abilities in order to lead them, like undead leadership for undead and demons or magical leadership for magical beings. Units that are both undead and magic beings require undead leadership.
-All commanders in a province will appear with their icons on the far left side of the Army Setup screen, with their placement window next to them followed by their name and squad information. Their squads will be arranged below them, with a battle placement box, a unit count, and the Set Battle Orders menu.
-The Army Setup screen is where you deploy your units for battle. When said battle occurs, units will be placed on the map in accordance with their squad’s arrangement in the Position squad box. They will attempt to follow the battle orders given (see Set Battle Orders below). The screens works like this:
-To place a unit into a squad, click on the unit, and then either click on the squad box of a currently existing squad (if you want to add that unit to the squad), or click on the icon of the commander himself (if you want to create a new squad. When a new squad is created, a new box will open below the commander’s box and the unit will appear there. If a commander has no units assigned yet, this is how you start—just add the first unit to a new squad by clicking on the unit, then on the commander. Units can be added to a commander up to the limit of his Leadership value.
-The limits on number of units and number of squads is displayed at the far right of the Army Setup screen.
-Selection shortcuts can help you sort through the different units in the Army Setup screen.
-Thus, you can more easily go through and find all the limping units, and put them elsewhere so that holes do not open up in your squads as they advance because the limping units are falling behind. You can likewise make elite squads of experienced troops that will have higher morale than other squads of their type.
-Battle Position
-There are green boxes to the right of each commander’s icon on the left side of the Army Setup screen are Position Commander and Position Squad boxes, which for short this manual will call the Battle Position box when it is talking about both. Similar boxes appear to the right of each squad (on the right edge of the Army Setup screen). These boxes define where a unit will appear on the battlefield initially. The box shows all of the units currently occupying the province. Commanders are shown in blue, and squads in orange. The currently selected unit (either squad or commander) is highlighted in white. By clicking on the green area in the Battle Position box, you can move the icon of the squad or commander around. At the top of the screen, the words “Back...” and “...Front” show that the left side is the back of your formation, and the right side is the front. Note that the size of a squad or commander is reflected in the size of its box. The predominant unit icon is displayed to help you keep track of which squad contains what type of units.
-When a battle begins, a squad will appear on the battlefield according to its location in the Position Squad box.
-Battle Orders
-Because players don’t control units directly in combat, squads have to be issued orders which they then attempt to follow once combat is joined. Each squad can be issued a different order, even if it is under the leadership of the same commander. Squads can be assigned general orders, or general and target orders. The ones indicated by an asterisk (*) require target orders – the remainder do not.
-     Double-click to select all units of the same type
-Shift-click to select multiple units
-Hover mouse over a squad and hit ‘w’ to select all units with afflictions
-Hover mouse over a squad and hit ‘e’ to select all units with 2+ experience stars Hit ‘Enter’ after you’ve already clicked on a unit(s) to deselect the unit(s) Press ? to see the complete list of keyboard shortcuts
-General orders None
-Attack*
-Fire*
-Guard commander
-Hold and attack*
-Fire and keep distance* Retreat
-This simply turns the control of this squad over to the computer. It will decide what is best.
-This will engage an enemy in melee
-Missile units will fire at a target until they are out of missiles.
-The unit will move toward the commander and protect him or her from harm. If there is an assassination attempt on the commander, these units have a chance of fighting in the assassination battle with their commander.
-The squad will hold in place for two turns. If it is armed with missile weapons, it will fire at targets in range. After two rounds, it will advance to melee combat. The squad will fire missile weapons until their target gets close, and then attempt to withdraw to a safe range and keep firing.
-The squad retreats off the battlefield. This is treated exactly like a rout and the units may scatter to adjacent provinces.
- If you have chosen Attack/Hold and Attack or Fire/Fire and keep distance, you must specify who you that squad is attacking, or at whom that squad is firing.
-Target orders None
-Archers Cavalry Fliers
-Large monsters
-Closest Rearmost
-Targets one random enemy and his squad
-Targets a random enemy archer and its squad
-Targets a random enemy cavalry unit and its squad
-Targets a random enemy unit which can fly, and its squad
-Targets one random enemy of size 5 or 6 and its squad. If no enemy of this size exists, a size 4 unit will be treated as a large monster.
-The squad will target the closest enemy squad
-The squad will target a random enemy at the rear of the enemy battle formation.
- No matter what orders a squad is given, it may not get there if it gets stuck in the zone of control of an enemy unit that gets in the way.
-     Question: Can’t my soldiers be ordered to just sit back and defend indefinitely?
-Answer: No. Hold and Attack will have your troops stay in place for 2 rounds, but after that, they attack.
-         
-From the tomes of the lore of Dominions
-A Niefel Giant is a frost giant descended from the old Rimtursar. They have sprung from the glaciers of Niefelheim, the land of eternal frost. Niefel Giants are constantly surrounded by an icy wind and their bodies temper and strengthen in cold lands. They are led by ancient Jarls skilled in the use of magics of frost and death. All Niefel Giants are sacred to the Jotuns.
-Commander orders
-Commanders can be given orders just like squads. In the commander battle orders menu, the top four orders are specific, while the bottom four are general orders. Specific orders last for one turn, while general orders guide the commander’s actions for the rest of the combat.
-Up to five specific orders can be scripted for a single commander. If a commander receives no orders, the AI will assign them to him.
-Scripts of orders can be copied from one commander to another. Hold the mouse over the script you wish to copy and hold down the [Ctrl] key, and then hit a number key. The script will be stored under this number. Then, place the mouse over the <set battle orders> text of a commander to whom you wish to copy the script, and hit the same number key (without holding down [Ctrl]). The script will be copied
-to the new commander. You can store multiple scripts by using the 0-9 keys.
-Specific orders
-Hold one turn Hold position for one turn
-Hold or Fire missile weapon
-  Hold or Cast a spell
-Cast a specific spell
-Attack one turn
-General orders Stay behind troops
-Attack
-Same as hold position, except that commander will fire a missile weapon.
-Same as hold position, except that commander will cast a spell (chosen by the AI) if possible. Only available for spellcasters.
-Cast a spell specified by the player if the commander has sufficient gems and there is a valid target in range. If one of those two conditions is not met, the AI will choose a spell to cast.
-Commander will move toward a random enemy for one turn and engage it in
-melee
-if possible
-The commander will cast spells, fire missile weapons, and attempt to place himself or herself in the rearmost part of the army.
-The commander will move towards enemies and attempt to engage them in melee
-The commander will cast spells chosen by the AI
-The commander will advance to be close to the front and cast spells. If possible, a few spells will be cast while advancing as well.
-The commander will attempt to rout off the map.
- Cast spells
-Advance and cast spells Retreat
-Checking the box "conservative gem use" will ensure that the mage uses his gems as sparingly as possible and for scripted spells only. This can be useful if you want to save gems for later battles.
-UNIT INVENTORIES
-Commanders’ inventories are important places for equipment. Clicking on an empty inventory slot takes you directly to your nation’s magic item inventory (if you are in a province with a lab), and selecting an item in this screen will equip that slot with it. Magic items can grant the wearer all sorts of benefits, which are given in the Magic Item section of the appendix. Not all units will have all inventory slots, though. The example shown below is for a typical human commander. A non-human commander may not have a head slot, for instance. Or no feet. Cavalry commanders do not have a foot slot, because they use a horse or other mount for transport instead of their own feet.
-A unit can be upgraded with better armor and weapons simply by giving him or her a superior item. However, the unit’s standard items cannot be removed, and when the new item is withdrawn, the standard item re-appears.
-Magic gem inventory
-Commanders may also carry magic gems, which mages can use for a variety of purposes. Gems can be transferred between commanders in the same province by clicking on the Magic Resource Treasury [F7] in the main screen and then clicking on “Transfer gems to commanders” button, or simply clicking on a commander’s personal magic items inventory slot, which goes directly to the Transfer Magic Resources screen, shown below.
-Up to two commanders in the province will be shown. If there is a laboratory in the province, the right-hand column will show the nation’s magic gem inventory. Otherwise, this right-most column will be greyed out.
-Gems can be moved between columns by right- or left- clicking on the number in a particular column: left-clicking will increase it, while right-clicking will decrease it.
-Any commander can carry gems, even if he or she cannot use them. Because the gem-carrying limit is 30, sometimes it can be helpful to have a commander accompany a mage as a “gem squire.”
+军事单位
+神域5的世界里有各式各样的生物。从弱小的轻装民兵到拥有无可名状的力量与体型的巨大怪物都属于军事单位。在这两种极端之间，还有吟游诗人、法师、强盗、巨龙，以及其他无数种单位。
+在游戏中，有些军事单位可以通过召唤魔法获得，而其它一些则可以从省份人口中招募而来。每个省份都有一些可招募的单位。有些军事单位需要一个建筑——例如神庙或是实验室——建好之后才能招募。有些则只能从拥有特定遗迹的省份招募。
+每个国家都有一个独有的军事单位列表，只能通过位于己方省份的己方城堡招募。在游戏开始时，这将是一个国家的首都省份的起始城堡，但随着游戏进行，当你建立新的要塞的时候，你将同样能够从那些省份招募这些单位。尽管还有一些单位只能从首都特有遗迹招募。
+“指挥官”与“军事单位”的基本差别是，“军事单位”指的是组成你的分队的部队，而“指挥官”是领导这些分队，或者执行研究、铸造之类命令的单独个体。有些属性是指挥官特有的，例如领导力、物品栏以及携带宝石的能力。下面的表总结了所有这些属性。
+你可以通过简单的点击某个属性来获取它的详细信息。这样做会打开一个窗口，详述这个属性值是如何调整的。例如，一个军事单位有基础的士气值12，但是由于经验（+1）和友方神域（+1），调整后的实际值是14。点击属性会详述这些调整。
+某些属性点开可以显示更多的属性。
+基础属性
+生命值：人人都知道这个属性是什么意思
+体型：体型值决定战场上一格能站多少个单位（最大6点）。它同时也决定一个单位每回合消耗多少点补给（最小1）。
+力量：这个属性影响单位在成功命中对手时造成多少伤害。
+攻击技能：这个属性影响单位在近战中成功命中对手的几率。
+防御技能：这个属性影响单位在近战中成功闪避对手攻击的几率。
+甲防：这是一个单位的护甲值，在身体的不同部位可能不一样，取决于这个单位穿的装备或者天生的厚皮。这些数值可以在点击甲防属性后看到。
+士气：这个属性决定军事单位在战斗中逃跑的可能性
+抗魔：这个属性类似防御，只不过是针对魔法生效。不过并非每个魔法都会被抗魔抵抗。
+精准：这是表示单位精确度的属性，无论是使用远程武器时的精确度还是释放法术时的精确度。
+负重：一个军事单位在每个它执行攻击行动的回合都会增加等同于它的负重的疲劳值。移动本身并不会产生疲劳。
+地图移动：这个属性决定一个单位能在世界地图上移动多远，同时受制于地形移动力消耗，这部分列表可以在54页“移动”章节找到。
+战场速度：这个属性决定一个单位能在战场上移动多远。
+疲劳：一个单位的疲劳导致它更容易遭到致命一击。当一个单位的疲劳满100时，它将失去知觉，不再能够进攻与防守。一个到200疲劳的单位再增加疲劳的时候，就会转化成生命值伤害。
+年龄：第一个数值是军事单位的当前年龄，括号中的数值是单位开始受到老年惩罚，出现老年战伤的年龄。这个属性在点击疲劳属性的时候可以看到。开始承受老年惩罚的年龄被称为单位的最大年龄，它会被以下因素调整（优先度从高到低）
+*亡灵生物的最大年龄随每级死亡魔法等级增加50%
+*无生命生物的最大年龄随每级地魔法等级增加50%
+*恶魔生物的最大年龄随每级血魔法等级增加50%
+*任何生物的最大年龄随每级自然魔法等级增加50%
+*被自然魔法调整过年龄最大值的生物每级火魔法减少5%的生命最大值。（烧得越旺，烧得越快嘛）
+一共有三种领导力，仅对指挥官生效：
+领导力：这是一个指挥官能带领的部队数量
+亡灵领导力：与领导力相似，但领导的是亡灵生物。指挥官的死亡魔法每级可以提供30点亡灵领导力，而血魔法等级每级提供5点亡灵领导力。
+魔法领导力：同上，但领导的是魔法生物。这个属性由间接的魔法修正决定（见间接魔法表，不同的魔法道途path提供不同的修正）
+军事单位还可能有特殊能力，下面总结了一部分比较常见的特殊能力
+特殊能力
+神域5中的军事单位有很多不同的特殊能力。事实上总共有超过350种不同的特殊能力。每个属性都从某些方面调整了单位的属性或者能力。在属性界面，把鼠标放在特殊能力图标上，或者右键点击图标，都会得到该特殊能力的说明。有些属性需要详细说明，如下所示
+双巧手（Ambidextrous）：这个属性减少属性显示值的双持武器惩罚。
+狂战士（Berserker）：有这个属性的单位在受到伤害时如果通过一个对抗难度12的士气检定就会进入狂暴状态。狂暴的单位将奋战至死——他们不会逃跑。狂暴的数值会在单位进入狂暴后加到单位的属性里。一个狂暴的单位在失去知觉时会失去狂暴属性，但他们还可以再次狂暴。
+灵体（Ethereal）：用非魔法武器命中有这个属性的单位将非常困难，75%的几率这种攻击会落空。
+魅影（Glamour）：有这个能力的单位会在战场上获得镜影魔法效果，并且在友方省份的时候无法被发现。
+复原（Recuperation）：这个单位可以随时间推移治疗受到的战伤，除非它还有“年老”标签。
+航海（Sailing）：可以跨越（但不能停留在）海洋省份。
+单位类型
+有一些特殊能力把单位划分为不同的类型，不同的类型需要不同的领导力
+魔法生物：这种单位需要法师来领导，如果战场上没有魔法领导力，它们会溃逃。
+无心智：在战场上没有相应领导力时，无心智单位会开始解体。无心智单位不能和普通单位编在同一个分队里。
+亡灵：亡灵单位可以被放逐。亡灵和恶魔需要亡灵领导力，这种领导力通常由亡灵魔法提供（或者一个亡灵指挥官）。僵尸们完全不会被普通人挥来呼去。一个分队如果同时编有亡灵和非亡灵会因为显而易见的原因受到-1士气惩罚。
+部分特殊能力有更详细的效果。
+敬畏（Awe）拥有敬畏能力的单位强迫敌人在尝试攻击它们前过一个难度等级10+敬畏等级的士气检定。因此一个敬畏+4的单位可以迫使其对手过一个难度等级14的士气检定，否则就会在那回合无法出手攻击这位令人敬畏的对手。有一种特殊的敬畏叫太阳敬畏，它在地下或者黑暗的时候不起作用。
+制造恐惧（Fear）处在一个怪物制造恐惧技能作用范围内的单位的士气会暂时降低，同时他所在的整个分队必须过一个士气检定，否则就会溃逃。基础的恐惧检定难度是10。与敬畏不同，恐惧的数值提升的不是恐惧的强度，而是恐惧的作用范围。所以一个恐惧+4的怪物有基础的恐惧效果和+4格作用范围。恐惧等级每比基础高5级，恐惧的强度提升1，所以一个恐惧+10的单位的恐惧会有额外10格的作用范围，并强制所有范围内的敌人过难度等级12的士气检定。基础的恐惧影响范围（恐惧+0的时候）是6个方格。
+散发热气（Heat）有这个能力的单位向外辐射热量，你会看到一些淡淡的黑烟。这会导致5点无视护甲的疲劳伤害。这是一种火焰伤害，因此拥有抗火的单位对此有所抵抗。默认的发热光环范围是3个方格，在炎热神域下会增加而寒冷神域下会减少。有些怪物有更高的散发热气光环数值，导致有更大的影响范围。
+散发寒气（Chill）这个能力与散发热气几乎完全相同，除了它是寒冷伤害因此需要抗寒来抵抗。它看起来像是蓝白色的烟雾，基础的冷气光环是3个方格，寒冷神域下增加范围而炎热神域下减少范围。
+毒云（Poison Cloud）这个技能的效果是绿色的烟雾。每个回合，它的作用范围被毒气充盈，任何在作用范围内的生物受到2点无视护甲的毒伤害。这个效果实际上会持续两回合，因此一个单位有可能从单一来源承受多次毒伤害。
+散发热气、冷气与毒云效果都可以叠加，因此如果一个单位所在的格子里有三个abysia士兵散发热气，这个单位会受到三次疲劳伤害。
+眩晕（Stun）眩晕会让一个单位在一回合内不能采取任何行动。
+隐形（Invisibility）隐形的单位无法被看到。近战攻击无法被看到的单位时承受-10攻击技能惩罚，要看到隐形单位必须有精魂视野（Spirit Sight）能力。本来已经失明的单位在攻击隐形单位时不会受到额外惩罚。
+石化（Petrification）这是美杜莎的特殊能力。任何单位攻击她时如果抗魔检定失败就会被石化。在3-6回合后，石化状态会消失，如果单位在石化消失的时候通过了抗魔检定，就会恢复正常。如果失败了，它立即死去。
+诱惑（Seduction）有些单位可以通过诱惑让敌对的异性指挥官转投己方阵营。Nagani和魅魔拥有不同版本的这种能力。Nagani必须在一个临近友方省份的敌对省进行诱惑，成功后会来到该友方省份。一个魅魔可以直接带着成功诱惑的指挥官飞到己方首都。
+使用魅魔诱惑时，目标必须对抗一个难度16的抗魔检定，如果它失败了，梦境会成功出现，而魅魔会尝试诱惑目标。如果目标对抗诱惑等级的士气检定失败，就会和魅魔一起飞到首都。如果诱惑失败，魅魔会尝试刺杀目标。
+使用Nagani诱惑的步骤基本相同，尽管诱惑的难度等级更低（10），诱惑成功后这对狗男女会溜到临近的省份而非首都。
+海妖（Siren）的迷诱（Lure）生效方式有些类似，先进行一次抗魔检定，然后是一次对抗10难度的士气检定。迷诱只能在海岸省使用。迷诱失败并不会导致刺杀，所以海妖的迷诱尝试相对更安全。如果成功，目标会淹死自己，或者如果目标能够在水下呼吸的话会进入海中尝试刺杀海妖（然后回到岸上，如果目标从刺杀行动中存活的话）。
+旗手（Standard）旗手能力增加该单位所在整个分队的士气。只有每个分队中数值最高的旗手会生效。
+骇灵标记（Horror Marking）骇灵标记是一个有着残酷后果的状态。每层骇灵标记都会导致该单位在每个月有很小的几率被骇灵攻击。一个军事单位可以被多次标记，每层标记都会增加骇灵攻击的几率，但是没有办法知道自己到底被标记了多少层。某些特定法术会导致被骇灵标记的单位被攻击。在战场上，骇灵总是优先攻击有骇灵标记的单位。更强的标记也会吸引更强的骇灵来攻击。
+践踏（Trample）顾名思义，践踏就是大体型的单位踩过小体型的单位。啪叽，扁了！一个践踏中的单位会挪开所有它进入的邻接方格中的敌军单位，这些单位必须过一个防御技巧-（疲劳/10）的对抗难度10的检定，如果检定失败，他们就要承受5+2*体型差的践踏伤害。这是一次穿甲攻击，所以甲防减半。一个被践踏的单位总是至少承受1点伤害，无论甲防如何。一个成功通过防御技能检定的单位仅仅被移开，同时承受总共1点伤害。
+活吞（Swallow）有些怪物可以在成功践踏目标单位时将其囫囵吞下，被活吞的单位从战场上移除，直到吞下他们的怪物被击毙。有些怪物可以消化被它们吞下的目标，每回合对被吞下的单位造成伤害，甚至还有怪物可以将被吞下的目标吸收进自己身体，将对被吞噬者造成的伤害转为自身生命值。
+其它能力
+还有更多单位特性，只需将鼠标放在技能图标上或者右键点击图标来了解其能力。魔法物品提供的特殊能力，比如重生（Regeneration）或者抗火（Fire Resistance），会与其它特殊能力列在一起，也可以用同样的方式获得信息。
+你可以在mod手册上找到（几乎）完整的游戏内特殊能力列表。
+XP：经验点（Experience Points）
+一个在神域的世界里存活了一段时间的军事单位很可能会得到经验。通常而言一个单位会每个月得到1点经验，但通过参与战斗可以得到更多。每个经验等级会提供精准、攻击技巧、防御技巧、士气等方面的加值。
+英雄能力（Heroic Ability）
+进入名人堂（Hall of Fame）的非伪神（Pretender）指挥官们会获得英雄能力，它们用一个红圈包裹的黄星表现，可以提供属性增加，比如力量、领导力、抗魔等等。唯一生物例如元素王族不能进入名人堂。
+战伤（Affliction）
+军事单位在承受伤害的时候可能会承受战伤。基础的几率是单位受到的伤害占总生命值的比例。换句话说，一个10点生命的轻步兵在承受2点伤害时有20%几率承受一个战伤。被击中的位置也是很重要的！失去一个手臂或者一只眼睛取决于哪里被击中。
+战伤用一个红色的心形表示，一个单位可能承受复数战伤。得了疾病的单位每回合都可能承受额外战伤。一个战伤可以被以下方法治疗：
+*有复原（Recuperation）能力的单位可以随时间推移治疗战伤（除非他们同时有老年标签）
+*拥有不朽（Immortal）或者神域内不朽（Dominion Immortal）的单位在它们死后重组自己时可以治疗战伤。
+*拥有非自主变形能力的单位（例如mictlan的美洲虎武士）有时候可以在变回他们原始形态的时候治疗战伤。每次他们变回原始形态时都会检定一次治疗，但这并非靠谱的治疗战伤手段。
+*拥有治疗者（Healer）能力的单位每回合会自动治疗位于同一省份的单位等同于技能数值数量的战伤。
+*全球结界生命礼赠（Gift of Health）会自动治疗位于结界所有者神域内的战伤（包括门徒模式下友方国家，只要神域是己方的）
+*圣杯这一神器可以每回合自动治疗位于同一省份的5个战伤。
+*少数魔法遗迹可以像治疗者一样治疗当地战伤。
+*战伤都有个难度等级，治疗时会进行检定，如果治疗检定成功，战伤就被治好了。
+*亡灵生物的战伤无法被医治，除非它们有复原能力或者是不朽的。再或者通过生命礼赠可以治疗。
+*诅咒物品，比如精准之眼或者黑心造成的战伤无法被治疗，除非先想办法移除该诅咒物品。
+战伤与诅咒（Curse）和骇灵标记不同，后两者无法被移除。如果保持死去状态，骇灵标记可以减轻。
+招募单位
+招募是将部队加入你的军队的主要方式。招募是按省份进行的，所以你占领新的省份，就能在该省份招募新的部队。在某些海岸省份，可招募的部队也许是两栖的。
+*每个省有自己的招募池。
+*有些国有部队只能在首都招募。
+*在一个省份建造要塞可以将该国的国有非首都部队加入该省份招募池。
+*在招募过程中花费黄金、资源和招募点。
+*有些国家可以在他们城堡之外招募额外单位，取决于省份地形。
+招募花费
+招募军事单位花费三种资源：黄金、资源、招募点。在神域的世界里，一个单位的训练花费用黄金表示，它的装备花费用资源表示，而招募点是指高级的单位需要在人口更稠密的地区招募，因为能胜任高级职位的人才相对更稀少。你可以期望见到训练有素的单位消耗很多金币，装备精良的单位消耗很多资源，而同时具备两者的单位更为昂贵。
+招募神圣单位还要消耗神圣点，每个单位始终消耗1点（包括神圣指挥官）
+招募限制
+以下列出的不仅仅是限制某种单位每回合能招募的量的因素，还有它们在资源不足时招募队列的规则。
+指挥官点	你每回合在每个省份只能招募等同于该省份指挥官点数的指挥官。指挥官可能消耗超过一点。
+黄金	招募单位最多用完国库上限。黄金不足时不能把单位加入下回合招募队列。
+资源	一个省份每回合招募的数量受该省份当前资源限制，但可以把单位加入队列下回合用下回合资源招募出。这使得玩家可以在一个省份资源不够一回合招募一个单个单位时依然可以在当地招募。一个不能在这回合招募出，处在待招募队列的单位在招募区用淡化视觉效果处理。
+招募点	单位可以基于招募点加入队列，与资源规则一样。
+神圣点	神圣单位最多可以招募当地神圣点上限个，这个数值等同于当前最高神域值。超过神圣点上限的单位可以加入队列。
+限制招募	有些单位有招募限制，每回合只能招募一定数量（例如Sobek神圣卫队限制一回合最多招募5个，无论黄金和资源有多少）。
+单位招募发生在回合计算的最开始，所以一个省份在招募部队的同时被攻击的话这些单位会加入防御省份的战斗中。如果它们是在要塞里招募的，那它们会留在要塞内，被敌人围城。
+被招募的单位位于军队设置界面上方未分配单位池，在他们下面是你在该省份的所有指挥官。按住Shift键再点击招募可以一次招募10个单位。一个省份招募和加入队列的单位加起来不能超过250个。
+军队设置
+军队设置界面是你设置军队准备战斗的界面，当战斗打响时，单位会被布置在设置界面上分队方格的位置。他们会试图按照你设置的战场命令行事。
+驻防单位
+在屏幕最上方，省份名称下有一个单行的士兵是未分配单位池，或者说是驻防单位。刚刚招募出的单位会被放在这个位置。如果没有被分配至某个指挥官麾下就会一直待在原地（除非该省份遭到攻击，他们阵亡或者溃逃）。如果该省份有一个要塞，这些单位就是在要塞的城墙内，不会加入城外巡逻队的战斗。如果该省份没有要塞，他们会加入当地战斗，并在战场己方区域中央形成单一方阵。
+分队
+分队是战斗中的基础组织单元。它们可以包括最少1个单位，最多该指挥官的领导力上限个单位。一个指挥官不能领导多于领导力上限的单位，无论他把麾下单位分配至多少个分队。一个指挥官最多可以领导5个分队，尽管基于指挥官的领导值，分配更多的分队会导致士气减值。因此一支军队的最大分队数等于其中指挥官的数量的5倍。有些单位需要指挥官有一些特殊能力才能领导他们，例如亡灵领导力领导亡灵和恶魔，魔法生物领导力领导魔法生物。如果一个单位既是魔法生物又是亡灵，它们需要亡灵领导力。
+位于同一个省份的所有指挥官的图标都会出现在军队设置界面的最左边，紧接着是他们的战场位置窗口，然后是他们的名字和分队信息。他们的分队会列在他们下方，还包括战场位置窗口，单位统计和预设战场命令菜单。
+要把一个军事单位放进分队，首先点击单位，然后点击某个已有分队的队伍窗口（如果你想把这个单位加入这个分队），或者直接点击该指挥官图标（如果你想建立一个新的分队）。当一个新的分队建立起来时，一个新的窗口出现在指挥官窗口下方，单位会出现在那里。如果一个指挥官没有部队在他手下——这是你初始的状态——那么只要把单位加进一个新的分队即可，点击单位，然后点击指挥官。指挥官最多可以有等同于他的领导力的单位加入他。
+最大单位数限制和最大分队数限制显示在军队设置界面的最右边。
+选择快捷键可以帮助你在军队设置界面下快速选择特定单位。
+双击选择所有同类单位
+Shift点击选择多个单位
+鼠标放在一个分队上方然后按“w”选择所有有战伤的部队。
+鼠标放在一个分队上方然后按“e”选择所有有经验（2星以上）的单位。
+已经选中一个单位是按下回车键会取消选择。
+按下“？”键可以显示完整的快捷键列表。
+据此你可以更容易的选择所有瘸腿的单位，把他们放在别的位置上以免你的分队在前进的时候他们落在后面而出现缺口。同样你也可以选择建立都是高经验单位组成的士气更高的精锐分队。
+战场位置
+军队设置界面下每个指挥官图标的右边有个绿色窗口是战场上指挥官位置与单位位置窗口，在这个手册里把它们都简称战场位置窗口。每个分队的类似的窗口在分队的右边（军队设置界面最右边）。这些窗口决定单位在开战的时候的初始位置。这个窗口会显示当前省份的所有单位，指挥官是蓝色，分队是橙色。当前选择的单位（分队或者指挥官）会白色高亮显示。点击战场位置界面的绿色区域会将当前选中的分队或者指挥官的图标移到相应位置。左边是你的战线的后方，右侧是前线。注意分队或者指挥官的大小会由代表他们的方块的大小反映。该分队的主要单位类型会显示在方块附近，以便你可以判断分队的组成。你可以右击未选中方块来选择该分队，而不用退到军队设置界面。
+当战斗开始的时候，分队会出现在战场上你放置它们的位置。
+战场指令
+由于玩家在战场上不能直接指挥单位，分队需要提前分派好指令，一旦开战他们会努力遵照命令行事。对每个分队可以单独下达指令，哪怕他们都在同一个指挥官麾下。可以给分队下达通用指令，或者通用指令与目标指令。下表中打星号的指令需要配合目标指令，否则不需要。
+通用指令
+无	这么做只是把命令权交给电脑，电脑会自动决定最合适的行为模式
+攻击*	单位将会对敌人进行近战攻击
+射击*	远程单位会向目标射击直到用完弹药。
+保护指挥官	单位会把指挥官围在中间，保护他或者她（或者它）不被伤害。如果有人试图刺杀指挥官，这些单位会有一定几率与他们的指挥官一起对抗刺杀。
+等待后攻击*	该分队会原地待命两回合。如果他们装备着远程武器，则会向射程内的敌人射击。两回合后，他们将冲锋并进行近战。
+射击并保持距离*	该分队会使用远程武器射击目标直到目标逼近，此时会向后撤退至安全距离再重新开始射击。
+撤退	该分队会撤退出战场。这个行动与溃逃一样，会导致单位分散至周边省份。
+当你选择了带星号的指令：攻击/等待后攻击或者射击/射击并保持距离，你还需要指定分队的攻击目标，或是射击目标。
+目标指令
+无	选择一个随机的单位及其分队作为目标
+弓箭手	选择一个随机的弓箭手单位及其分队作为目标
+骑兵	选择一个随机的骑兵单位或者最快的单位及其分队作为目标。
+飞行单位	选择一个随机的能够飞行的单位及其分队作为目标
+最大的怪物	选择一个随机的体型5或者6的单位及其分队作为目标。如果敌人没有这么大体型的单位，一个体型4的单位会被作为最大的单位选中
+最近	这个分队会攻击离它最近的敌军分队。
+最远	这个分队会把一个敌军阵线最后的随机分队选为目标。
+无论你给这个分队什么指令，它都可能因为陷入另一个单位的控制区域而无法抵达目标位置。
+问题：难道单位不能被命令等在后方无限防御么？
+回答：不行，等待后攻击可以让你的单位等待2回合，但之后仍然会攻击。
+指挥官指令
+指挥官也可以像分队一样给与指令。在指挥官战斗指令菜单，前四个指令是详细指令，而后四个则是通用指令。详细命令持续一回合，而通用指令在战斗余下的回合中指导指挥官的行为。
+一个指挥官可以最多预设5个详细指令。如果一个指挥官没有接到任何指令，电脑会自动给他设置指令。
+预设指令可以从一个指挥官复制给另一个。鼠标放在你希望复制的指令上方然后按下Ctrl+数字键，该指令就被存在这个数字键下了，然后把鼠标放在一个指挥官的<设置战斗命令>文本位置，按下相应的数字键（不按Ctrl），就可以把指令复制给这个指挥官。通过数字键0-9你可以最多储存10个预设指令。
+详细指令
+等待一回合	坚守阵地一回合
+等待或发射一次远程武器	与坚守阵地相同，但是指挥官会用远程武器射击一次。
+等待或施放一次法术	与坚守阵地相同，但是指挥官如果可以会施放一次法术（由电脑决定），只有施法者有这个命令。
+施放一个特定法术	如果有所需的宝石，射程内也有有效的目标时，施放一个玩家指定的特定法术。如果两个前提条件有任何一个不满足，电脑会自动选择另外一个法术施放。
+攻击一回合	指挥官会向前方某随机敌人移动一回合，如果可能则进入近战
+通用指令
+坐镇后方	指挥官会施放法术，发射远程武器，并尝试让自己待在己方军队的最后方。
+攻击	指挥官会向敌人移动，并尝试近战攻击敌人。
+施放法术	指挥官会施放电脑自动选择的法术。
+前进并施法	指挥官会向前移动到靠近前线的地方并施放法术。如果可能，在前进的过程中也会施放少量法术
+撤退	指挥官会尝试逃离战场。
+点选选项“保守使用宝石”会确保指挥官尽可能节省使用宝石，并且只会在预设的法术中使用宝石。如果你想把宝石保留给以后的战斗使用，这个选项会非常有用。
+在给指挥官一个指令后，同样的指令可以按“x”重复。
+装备物品栏
+指挥官的物品栏对于装备而言是重要位置。点击一个空的物品位置，直接会打开国家的魔法物品仓库（如果你在一个有实验室的省份的话），在这个界面下点击合适的装备就会把它装备到该装备栏。魔法装备会给装备者各式各样的好处，细节会在附录的魔法物品一节里详细说明。然而并不是所有单位都有所有装备栏，典型的人类指挥官有一个武器栏，一个副手栏，一个头盔栏，一个盔甲栏，一个鞋栏，两个附件栏。一个非人类指挥官可能没有头盔栏，或者没有脚。骑兵指挥官不能使用脚部装备，因为他们使用马或者其它坐骑来行动而不是他们自己的脚。通过给指挥官更好的装备，可以把他们的装甲和武器之类升级。然而他们的基础装备并不会被取下，如果取走给他们的装备，旧的默认装备又会出现。
+魔法宝石栏
+指挥官还可以携带魔法宝石，法师可以拿宝石做各种事。位于同一个省份的指挥官之间可以转移宝石，打开主菜单的魔法资源库栏（F7），然后点击“把宝石传递给指挥官”按钮，或者直接点击指挥官的魔法宝石栏，也会直接转到转移魔法资源界面。
+最多通过两竖列显示两个当地的指挥官。如果当地有一个实验室，第三列会是你的国家宝石库存。如果没有的话，第三列会是灰色不可点击状态。
+宝石可以在各竖列之间传递，通过左键或者右键点击某列上的数字：左键增加，右键减少。
+任何指挥官都可以携带宝石，即使他或她并不能使用这些宝石。由于宝石携带上限是30个，有时候让一个携带宝石的指挥官伴随法师当对方的“宝石侍从”会是个很有用的方案。
