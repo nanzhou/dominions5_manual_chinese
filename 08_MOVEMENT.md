@@ -1,241 +1,561 @@
-Dominions 5 is a game of provinces. However, moving through them has changed significantly from previous versions of the game. This is because things were discovered to be different from what we thought before.
-Movement still consists of going from one province to another, and depends on several things: the movement speed of the unit(s), the terrain in the province, and whether or not the province is friendly or enemy. In general, you can only move from one province to another if they are connected. To see a province's connections, hit the [8] key. These connections will be color-coded.
-However, it is now possible to move through multiple provinces of enemy territory if your movement allowance is high enough.
-The basic concepts regarding movement are as follows:
-● Movement takes place as a series of “half-steps”: you move out of one province and into another.
-● When you do this, you pay movement costs for each half-step according to the Movement Cost Table ● Stopping in an enemy province triggers combat, unless all entering units are Stealthy (like scouts).
-● Armies with multiple units move at the speed of the slowest unit.
-● Only commanders may move. Armies may not move if they are not led by a commander.
-● Movement into or out of difficult terrain (forest, mountains, swamp) is affected by units' survival abilities.
-General rules governing movement
-Movement in Dominions 5 occurs from province to province, and is determined by a unit's map movement factor. If you right-click on any unit, you will see this factor next to the word "Map Move" in the unit attributes. A unit with "Map Move 12" has 12 movement points for moving on the strategic map. Even if a unit has a movement greater than 1, however, it is subject to certain restrictions.
-Movement is calculated in “half-steps” which must be made to calculate the cost to leave, and then enter, each province. Each terrain has an associated movement cost:
-Plains: 3
-Forest: 5
-Waste: 5
-Sea: 5
-Highlands: 6
-Cave: 6
-Swamp: 7
-These are modified as follows:
-Enemy province (moving unit does not have stealth): +4 Enemy province (moving unit has stealth): +3 Snow: +1 Roads: -2
-(min. 2)
-54
- Flying units Most terrain: Cave:
-Enemy province:
-If a unit has a survival ability, such as forest through that terrain with a -2 cost.
-have different movement costs entirely:
-    , swamp
-Movement points for troops are based on the following general parameters:
-There are two special terrain types which are properties of the borders between provinces rather than the provinces themselves: rivers and mountain passes.
-Rivers may not be crossed unless the Cold scales in the provinces on both sides of that river border are +1 or greater (the river is frozen). Flying and floating units may cross rivers without penalty regardless of scales, as may units with the ability to enter water.
-Mountain passes may be crossed if the Heat scales in the provinces on both sides of that river border are +1 or greater (the passes are open). Flying and floating units may cross mountain passes without penalty regardless of scales, as may units with the Mountain Survival ability.
-Additional details about movement are listed below.
-● Unless a unit is amphibious or aquatic it cannot enter an underwater province. [Poor amphibians are included, but differ from amphibians in combat.] Amphibians (poor or otherwise) may cross rivers without penalty.
-● Aquatic units cannot enter land.
-● A unit with the sailing ability may cross water provinces, but may not remain in such a province at the end of the turn. It may cross rivers.
-Commanders are the only units which can be given orders to move.
-, waste
-3
-5 +1
-, or mountains
-it moves
-Heavy infantry:   8
-Light infantry: 14
-Light cavalry:   20
-Unicorn: 26
-Slow flier:   14
-Flier: 20
-Fast flier:   26
-All commanders: +2
-Each unit has a specific map movement allowance but these are the general parameters.
-All units (both the commander and his or her troops) must have the abilities listed above in order to take advantage of them. Just because a commander can fly doesn't mean his troops can. [Exception: some commanders can give their troops water-breathing abilities, and commanders with sailing can transport non-sailing units.]
-Stopping in an enemy province triggers combat. [Exception: Stealthy units]
-Armies move at the speed on the slowest unit in the army. Thus, forming armies composed of units with widely varying speeds will slow the whole group down.
-Example of movement:
-Aethelwald the Knight Commander of Avalon is leading his troop of knights (of Avalon) on a raid from the Canese Plain. He wants to strike into the Atlantian province of Ard. He has a map move of 22. Moving from Canese Plain to Trisia costs 3 to leave the plains province which is reduced to the minimum of 2 due to the road, and then entering Trisia costs 3 reduced to 2 (plains/road) as well. So far he has expended 4 movement points. Moving from Trisia to Sottera, however, costs 3 for the half-step to exit Trisia (total so far is 7 movement points expended), but the half-step to enter Sottera costs 3 for the plains, plus 4 for the fact that Sottera is an enemy province. That is 7 movement points to enter Sottera, making the overall total 14. To get to Ard, Aethelwald would have to spend 3 points to leave,
-plus 4 for the enemy province, and then 3 to enter Ard, plus 4 for the fact that Ard is an enemy province as well. That would costs 28 points, and Aethelwald only has 22 (and the Knights of Man under his command only have a move of 20). He stops in Sottera and will fight the forces of Agartha.
-Stealthy Units with the Stealth ability can move unseen from province to province. All movement restrictions apply normally.
-Stealthy units ordered to sneak (the default order) move as normal but do not join in combat if they enter an enemy province that turn. Units already hiding in an enemy province can be given orders to attack that province in that turn. Certain special stealthy units have the ability to perform other tasks while in an enemy province, such as Instill Uprising or Assassinate Commander.
-Units moving with Stealthy commanders must also be stealthy or the commander loses his ability to sneak while with them, and moves normally.
-Stealthy units can be ordered to move normally by issuing the movement order while holding down the [Ctrl] key.
-Glamour Units with the Glamour ability cannot be seen at all when in a friendly province. Glamour also gives units the Mirror Image ability in combat.
-Darkvision Units with the Darkvision ability are less affected by darkness, depending on the level of their Darkvision attribute. Penalties for darkness affect a unit's Attack, Defense, and Precision. For normal units these are all reduced as follows: night -3, Utterdark -6, blind -9. Darkvision does not help you if you are blind.
-Initiation of combat.
-Combat in Dominions 5 is resolved between any mutually discovered enemy forces in a province where neither side has the benefit of a fortress. This means that you can have a scout or spy in a province with the enemy, but if he remains undiscovered, combat is not initiated. If one side is in a fortress, it cannot be assailed until the fortress is besieged and broken [see Sieges], or the defending force chooses to sortie [Break Siege].
-More than two enemies in combat. If forces from different sides occupy the same province at the end of a turn (and neither one is in a fortress), they fight. If three or more sides have forces in a province at the end of a turn, the game will determine in which order they entered, and will fight the battles sequentially, with the survivors of each battle being the defenders in the next battle. There will never be more than two sides (attacker and defender) in a single battle.
-Armies which are allied can occupy the same province. The above applies to allied armies as well. However, if allied armies are attacked, and thus the defenders in a battle, the attacker will fight each
-        Example: Jotunheim, Marignon, and Pythium all enter Robber Home in the same turn. The game determines that Marignon got there first, followed by Pythium and Jotunheim. The first battle will therefore be Pythium attacking Marignon. Whichever side wins will then defend against the attack of Jotunheim, but only with those units that survived the first battle.
-battle sequentially, and if he wins the first then the survivors will fight against the second defender, and so on. The order of the defenders is random.
-ORDERS
-Units can be given a variety of orders. A movement order is given simply by left-clicking on the commander’s icon, and then left-clicking on the destination province, whereupon a movement arrow will extend between the two provinces. This arrow is point-to-point and does not mean the moving unit will enter each province the arrow crosses. If the move is illegal (move too far, intervening rough terrain blocks, etc.) then the order will not be issued, and no arrow will be displayed. If the move order is legal but becomes illegal before hosting the turn (e.g. removing Flying Boots from a commander crossing difficult terrain), the move arrow remains, but the commander will not move, because the changed move order is validated during turn hosting.
-Move
-Move to another province. If it is an enemy province, combat will occur. This is the default move for when left-clicking on another province while an active non-stealthy commander is selected.
-Sneak
-Sneaking is movement into enemy provinces without being detected. Only Stealthy units can attempt such moves. Their chance of success (and of staying hidden in an enemy province once they are there) depends on their Stealth rating, the number of units trying to hide, and the number of units looking for them. Provincial defense automatically searches for hidden units in its province each turn as long as the defense level is 15 or greater. A commander, however, must be set to the Patrol order. Fast units, like cavalry, or units which fly, are better at revealing hidden units than slow units or non-flying units are.
-Units with a Patrol bonus   are also better, as you might expect. Units may also Sneak and attack, which allows stealthy units hiding in an enemy province to attack an adjacent enemy province.
-Combat will not occur unless the unit is discovered by patrollers or other means. This is the default move for stealthy units. To give a stealthy commander the order to move normally (and thus attack the province it enters), hold down [Ctrl] while left-clicking on the destination province.
-A stealthy commander will not sneak unless all units under his or her command are stealthy as well.
-Removing non-stealthy units from the commander will not automatically change his move back to sneak.
-Patrol
-Patrolling a province both reduces unrest and has a chance to discover hidden units. Some units are
-better at patrolling than others (fast units, flying units, or units with patrol bonus ). For each point of unrest eliminated in a province by patrollers, the population is reduced by 10. This represents the permanent elimination of the troublemakers. The larger the patrolling force, the more effective it is. A provincial defense level of 15 can act as a patrolling force for purposes of detecting stealthy units, but it is not as effective as an actual army. If there is no unrest in a province, nobody gets hurt by patrollers. Patrollers will fight an attacking army, just like the order below.
-The success of the Patrol order depends on the Stealth ability of the units that are hiding, their number, the provincial defense (if any), and the “Destealth strength” of the patrolling units. Destealth is affected by unrest.
-Stealth strength: Stealth value of leader -1 per stealthy unit in his army (or zero if unit has >=+50 in stealth)
-Destealth strength: Sum of Destealth strength of all patrolling units - unrest/2 (capped at unrest 100) + (province defence - 14 if province defence is 15 or greater)
-The stealthy units are found if the Destealthy strength + 2d25 (open-ended) > Stealth strength + 2d25 (open-ended).
-The individual Destealth strength of a given unit = (Precision + (AP value, or 30 if flying)) / 20. Units with a Patrol bonus   add the Patrol bonus to their individual Destealth strength.
-Defend Province
-This is exactly the same as the Patrol order except that there is no patrolling going on. Units will simply enter combat against any non-Stealthy units entering the province. Unrest is not reduced, but the province is still defended. This is the default order.
-The difference between “Patrol” and “Defend” in a province with a fortress is that patrollers will engage in combat outside the fortress, while defenders will concede the province and become besieged.
-Stealthy units given the Defend order will fight enemies attacking the province, rather than hiding.
-Defend Castle
-Units ordered to defend a castle will not fight an enemy force entering the province containing the castle. Instead, they will become besieged. (See Combat section.)
-Movement is carried out in two steps.
-● First, all units moving to a friendly province do so.
-● Afterward, movement takes place in which units are moving to an enemy province.
-Thus, if you are moving an army to one of your provinces, and an enemy is moving an army to that same province, your army will get there first, and thus be able to join with any forces that are already there to try and repel the invasion. Of course, the enemy might be able to prevent your army from moving at all, through various other actions.
-However, if you are each attacking the province of a third nation, one of you will get there first. This is determined randomly.
-Likewise, if you give an army the order to move into an adjacent enemy province, and on the same turn an army in that province gets the order to move into yours, then one of three things can happen:
-● There is a battle in the enemy province between the two armies; ● There is a battle in your province between the two armies;
-● The armies miss one another and exchange places.
-Which event occurs depends on the size of the armies in question and the terrain involved.
-Important: If you order a force into a friendly province containing a fortress, it will automatically "enter" the fortress and behave as though it has the order "Defend Castle." Thus, if you have one army defending a province with a castle, but it is assigned the Patrol order, and you move another army into that province to reinforce it, and then an enemy army attacks, the first army will fight, but not the second. If the first army loses, the enemy will besiege the second army in the castle.
-If you want to have the second army join the first, or if you only have one army moving to a province and you don’t want to have it just go into the fortress, but want to battle in the province itself, you must use Move and Patrol.
-Move and Patrol
-This order only become available to a unit once it has been given an order to move into a friendly province with a fortress in it. After giving the initial move order, you can click on the commander’s orders again, and “Move and Patrol” will now appear as a choice. Selecting this will instruct the commander to move to the province and then patrol, and will cause it to engage enemy units entering that province in combat.
-Blood Hunt
-This is how blood slaves are collected for the sacrifices required for blood magic. In order to successfully blood hunt in a province, a blood hunter must pass three successive checks.
-● First, a level check: % chance of success = 10 + (blood level x 40)
-● Second, a population check: % chance of success = province’s population / 50 ● Third, an unrest check: % chance of failure = province unrest / 4
-If all of these are successful, the number of slaves the blood hunter will find is: d6 + blood level
-and the unrest in the province will increase by d(slaves x 3 +4). That’s a random number between 1 and three times the number of blood slaves found, plus 4.
-If any of those checks fails, the result is no slaves found, and a d6 – 1 increase in unrest.
-Break Siege
-This orders units besieged in a fortress to fight a battle against the enemy units in that province. Units which retreat flee back into the castle, or into a neighboring friendly province. If both options are possible, there is a 50% chance of going into the castle and 50% chance to go somewhere else.
-Maintain Siege
-This is the default order for any units besieging a fortress. It does not have to be given unless you change such a commander’s order, and then need to change it back.
-Storm Castle
-This order is only available if you have successfully reduced a castle’s defenses to zero. On the next turn, you will be given the opportunity to storm the castle. This initiates a battle in which the defenders begin behind their own castle walls. Because castle storming occurs after movement, a besieging force may be forced to fight a battle against an enemy relieving force arriving from outside the besieged
-province, and if the relieving force wins, the castle is not stormed. If the relieving force is defeated, the besieging force may still be left with a significantly reduced strength when storming the castle.
-Assassinate
-A random enemy commander in that province is targeted for assassination. The assassin will fight a battle with the commander, plus any bodyguards assigned to that commander. Each bodyguard has a 50% chance of being present at the time of the assassination attempt, and this chance is increased by the Bodyguard ability. The Assassin's Patience value can decrease the chance of bodyguards being present. The target of an assassination is considered to be surprised and will not follow any scripted orders he or she may have. Assassinations have a 50% chance of happening at night. If so, darkness penalties apply.
-Preach
-This allows priests to increase dominion in a province. The formula is involved, and explained fully in the dominion chapter. In short, the chance of success depends on the level of the preacher.
-Pillage
-Pillaging a province increases unrest and kills population in a province, decreases that province’s supplies, and gains gold and food for the pillaging army. The larger the pillaging force, the greater the chance of success. Fast units and large units are better than others at pillaging, while barbarians and units with the Fear ability are exceptionally good. The supplies gained last only one month.
-Raid
-A raid is a move that can only be performed by a commander with the Pillage ability if all of the units under his command also have this ability. The force under his command can raid an adjacent province, killing population, causing unrest, and gaining gold. It is essentially the same as the Pillage order except it is performed from an adjacent province. The raiding force returns to its starting province after the raid.
-Reanimate
-This is an order available to many undead priests, some nations (Ermor, Lanka), and some units (Carrion Lords and their servants). Asphodel gets manikins instead of normal undead. Asphodel cannot choose what to reanimate – they just get random types of manikins and undead.
-Reanimation table
-Contact Allies Some commanders are able to gather more troops by spending the month gathering them. Draconians are an example.
-     Raiders may be discovered by province defense or patrollers. A limited combat is initiated if the raiders
- are caught. In this case it will be a battle between PD + patrollers and raiders. Winning the battle will not
- conquer the province and there will be no pillaging done that turn regardless of outcome.
-      Priest Longdead
-level Ghouls Soulless Longdead horsemen Lictors
-168300 2 7 16 5 1 0 3 8 24 7 2 1 4 9 32 9 3 2 5 10 40 11 4 3
-Perform Blood Sacrifice A blood sacrifice may only be performed in a province with a temple, by a nation which has the ability to perform such sacrifices because it has been part of their history. These nations are:
-Early age: Mictlan, Marverni, Sauromatia, Abysia, Pangaea, Vanheim, Helheim, Hinnom, Berytos Middle age: Abysia, Vanheim
-Late age: Marignon, Mictlan, Abysia, Midgård, Gath
-Capture Slaves This order is only available to Mictlan. A 1d6 + 4 number of slaves are rounded up and forced to join the armies of Mictlan. They are weak and cowardly soldiers but are free to recruit.
-Become Prophet This order designates the unit as the one and only prophet of the nation’s pretender god. The unit’s priest level is increased by 1 or to 3, whichever is higher, and the prophet will start spreading dominion like a temple. There are other effects as well, such as increased hit points in friendly dominion (and decreased hit points in enemy dominion). If a prophet is killed, the nation must wait half a year (6 turns) before designating a new prophet.
-Instill Uprising This order is only available to certain units, such as spies and bards. It will increase the level of unrest in the enemy province they occupy.
-Hide
-Stealthy units who are not moving will get the default order of Hide. A unit hiding in a province (including a friendly province) will not participate in any combat in that province, unless discovered, in which case a separate battle will be fought.
-Attack Current Province
-This order is available to Stealthy units which are hiding in an enemy province. The unit will join with friendly units attacking the province, if there are any. It is treated as a movement order of distance zero.
-Turn resolution sequence
-All players’ turn orders are resolved simultaneously when a turn is hosted. During the hosting process, the game resolves orders in the following order:
-       1. Send messages
-2. Research
-3. Empowerment 4. Recruitment
-Messages sent by using the Send Messages button are dispatched. This means that gold, gems, and items are always sent, because everything that could stop this from happening occurs later in the turn.
-Mages perform their research. Even if a mage is assassinated or otherwise killed, he will contribute his research points to his nation that turn.
-Increased magic paths due to Empowerment are conferred here.
-New units and commanders are recruited. This means that recruits will always be available during the turn, as nothing that happens beforehand can stop them.
-5. Forge items
-6. Preach
-7. Heretic preaching
-8. Claim thrones
-9. Quick special orders
-10. Magic rituals 11. Magic battles
-12. Lost in other planes
-13. Site searches 14. Prophets
-15. Call God
-16. Awakening 17. Blood hunting 18. Horrors
-19. Assassinations
-20. Raid
-21. Relinquish province
-22. Friendly movement
-23. Other movement 24. Resolve battles 25. Castle storming
-New items are forged and placed in their nation’s magic item inventory. Priests preach the word of their god, and dominion is adjusted accordingly. Heretics, insane commanders and commanders with shattered soul preach. Thrones of Ascension are claimed now.
-A few special orders are quicker than others, such as Enter Site to Scry and Cultivate Pearls
-All mages cast their rituals in a random order.
-All battles caused by magic are resolved. For example, commanders taken
-away by Wind Ride or teleporting to an enemy province fight now.
-If a unit becomes lost in another plane, it happens now. This includes resolving battles fought in other planes.
-Magic site searches are resolved.
-Prophets are declared.
-Priests call their gods who have been banished.
-Pretenders awaken (dormant or imprisoned)
-The hunt for blood slaves takes place.
-Units are visited by Horrors now, if such a misfortune should befall them. Assassination attempts are resolved. The battles are fought immediately. Units with the Raid order perform that here.
-Commanders with the Relinquish Province order will relinquish the province to any non-stealthed allied commander already present in the same province.
-All movement ending in a friendly province takes place now. If you are trying to get to a friendly province before an enemy does, you will do it if you are not stopped by an event that takes place in steps 1 through 21.
-All other movement, including Break Siege, takes place. All battle resolution from movement happens here. Castles are stormed and battles resolved.
-26. Global enchantments
-27. Random events
-28. Resolve any battles 29. Magic items/monsters
-30. Sneak discovery 31. Change besieger
-32. Building construction 33. Special orders
-34. Pillage 35. Income
-36. Unrest alterations 37. Starvation
-38. Upkeep / Desertion 39. Dominion spread 40. Dominion effects
-41. Site effects
-42. Overpopulation
-43. Aging
-Global enchantments take effect on the world. Note that the casting takes place during the Rituals step (10), though.
-Like it says. This is where those Fortune/Misfortune events happen. Battles caused by these events happen now.
-Special effects from magic items (or monsters) take place. The items themselves are forged during the Forge step (5), though. If any of these effects result in any battles, they are resolved now.
-Stealthy units have been discovered! If so, they fight now for their lives.
-If two allies are besieging the same castle, the one who is besieging is decided now. Larger armies take precedence.
-Fortresses, temples, and labs are built (or demolished).
-Special order like Reanimate or Summon Allies are performed. Thus, allies summoned during a turn will not be available for that turn’s battles.
-The Pillage order increases unrest and kills population.
-All nations collect income for their provinces. Note that this comes after Pillage, meaning that if you pillage a province you conquered, you will gain reduced income from it, or perhaps no income at all.
-Changes in unrest from dominion, scales, and patrolling are reflected.
-Units without supplies suffer starvation effects. This means that the first turn an army goes without supplies, it will fight its battles without starvation effects, since all battles occur in previous steps.
-Unit upkeep is paid for. Note that this is after income is collected for the turn. Desertion happens now as well.
-All dominion spread (for whatever reason) is conducted now.
-Special effects of dominion (population death, insanity, spreading heat or cold etc.) are applied.
-Magic sites spread disease, unrest, and the like, if they have such an effect.
-A rare occurrence: if there are over 150,000 units in the world, some of the most numerous ones will be killed to keep the game running smoothly.
-Units age.
-44. Resolve battles 45. Heal / Disease
-46. Insanity
-47. Mercenaries
-48. New random heroes 49. Kill lone units
-50. Reclaim provinces
-51. Scouting
-52. Elimination
-53. Victory
-54. Update stats
-55. Heroic abilities
-56. Reform Immortals 57. Reduce PD
-58. Aftermath
-Any leftover battles caused by previous events are resolved.
-All units regain lost hit points, unless they are diseased, in which case they suffer more damage instead and may incur more afflictions.
-Units may go insane, from certain dominion or other effects. Mercenaries are bought or maintained.
-Heroes may appear at a nation's capital gates.
-Lone units (non-commanders) in enemy provinces are killed. If there are units without commanders inside enemy territory they will be killed here to prevent them from making any pointless attacks.
-If a fort does not own the province it is in and it is not under siege, it will take ownership of the province. This can happen in team games where the province and the fort might have different owners from the same team. This step is resolved in favor of the owner of the fort.
-New scouting reports are generated for each player.
-Players without any provinces or dominion are eliminated from the game.
-If a victory condition is fulfilled, the game declares a winner and ends.
-Hall of Fame and scoregraphs are updated.
-Units gain and improve heroic abilities.
-Immortals that are due to return will reform their bodies here.
-Province defense is reduced if the population cannot support the current level. At least 10 population is required for each point of province defense.
-The game validates orders and items, changes shapes if necessary, etc.
+神域5是一个关于省份的游戏，而在省份之间移动的规则较前几代有了巨大的变化。这些变化的起因是一些考古发现了改变我们之前的想法。
+
+地图移动是指从一个省份移动到另外一个省份，移动能力取决于几个因素:单位的地图移动力，途经省份的地形，途经省份是否是友方省份。大体上讲，只有出发地和目的地之间有路径连接的情况下才可能进行移动。点击\[8\]键可以在战略界面里显示一个省的路径连接，这些连接是有颜色编码的。
+
+在神域5中，只要你的军队地图移动力足够的高，即使在敌方领土中，一回合也有可能移动超过1个省份。
+
+移动系统的基本概念如下:
+
+-   地图移动的基本单位是半移动(half
+    step)。一个半移动指移动出一个省份或者移动入一个省份。
+
+-   进行半移动时，需要按照移动力消耗表格计算所需的移动力。
+
+-   在敌方省份停下会触发战斗，除非所有的单位都有隐秘(Stealthy)的能力，例如探子。
+
+-   一支有多种单位的军队按照最慢的单位的地图移动力进行移动。
+
+-   只有指挥官可以进行移动。没有指挥官的军队无法进行地图移动。
+
+-   有各种地形生存(森林，山地，沼泽等)的单位在相应地形上移动力消耗会有调整。
+
+ {#sec:2}
+
+神域5中的移动由单位的地图移动力决定，如果你右键单击一个单位，你会看到单位的地图移动力。一个地图移动力12的单位有12个移动点数在大地图上移动。
+
+进入或离开一个省均需要花费移动点数，也就是半移动(HS/half-step)。每种地形有各自的移动力消耗值
+
+  ****   ****
+  ------ ------
+         
+         
+         
+         
+         
+         
+         
+
+根据各省情况有以下修正值
+
+  ****   ****
+  ------ ------
+         
+         
+         
+         
+
+飞行单位有完全不同的移动消耗
+
+  ****   ****
+  ------ ------
+         
+         
+         
+
+拥有相应的生存能力的单位可以降低2点消耗，如森林，沼泽，荒地，山地(高原)生存。
+
+部队的移动力值有以下普遍参数，指挥官比对应的单位+2移动力。
+
+  **单位**                  
+  ------------------------- --
+  重步兵 (Heavy infantry)   
+  轻步兵 (Light infantry)   
+  轻骑兵 (Light cavalry)    
+  独角兽 (Unicorn)          
+  飞行单位（Slow Flier)     
+  常规飞行单位（Flier)      
+  快飞行单位（Fast Flier)   
+
+有2种特殊的地形，并不是省份的地形，而是省份间边界的地形: 河流和山口。
+
+**河流**只有在分隔的两个省份气候都至少是寒冷1时才能被一般部队通过。飞行或飘浮的单位，能够进入水下的部队都可以随意通过河流，没有惩罚。
+
+**山口**只有在分隔的两个省份气候都至少是炎热1时才能被一般部队通过。飞行或飘浮的单位，有山地生存的单位都可以随意通过山口，没有惩罚。
+
+其他关于移动的信息如下
+
+-   只有两栖(amphibians)，或者水生(aquatic)的单位可以进入水下省份(poor
+    amphibians 被认为是两栖)。两栖的单位可以随意通过河流，没有惩罚。
+
+一支军队里必须所以的单位都有上述能力之一才能进入水下，正如飞行的指挥官无法使部下也飞行。不过有一些指挥官有水下呼吸(water
+breathing)能力，可以带领一些普通单位进入水下。
+
+-   水生单位无法上岸。
+
+-   有航海(sailing)能力的指挥官可以带领军队穿过水省，通过河流，但是不能在回合结束时停留在水省。
+
+-   回合结束时停留在地方省份中会引发战斗，除非全军都有隐秘能力。
+
+-   一支军队以其中最慢的单位的移动力进行移动，所以组建一支包含各种移动力的单位的部队可能会使整体的移动力下降。
+
+###  {#sec:3}
+
+阿瓦隆骑士指挥官(Knight Commander of Avalon)
+Aethelwald指挥一群阿瓦隆骑士(Avalon knights)从Canese
+Plain出发袭击亚特兰蒂斯的Ard省份。Aethelwald地图移动力为22，从平原省Canese
+Plain离开消耗3点移动力，因为有道路而降低到最低值2，进入Trisia因为平原省加道路消耗也为2。到此为止他消耗了4点移动力。从平原省Trisia离开消耗3点移动力，但是进入敌方平原省份Sottera将消耗3+4=7点。到此Aethelwald消耗了14点移动力，要到达Ard，他需要再消耗3+4+3+4=14点移动力，一共是28点。因为Aethelwald只有22点移动力，他无法进入Ard，只能进入Sottera和Agartha战斗。
+
+**隐秘 (Stealthy)**
+
+隐秘的单位可以在省份之间移动而不被敌方发现，移动力规则按正常情况处理。
+
+隐秘单位默认进行潜行(sneak)移动，不会加入战斗。已经在敌方省份隐藏的隐秘单位可以攻击所在省份。一些特殊的隐秘单位可以进行别的任务，如煽动动荡
+(Instill Uprising)或暗杀 (Assassinate)。
+
+隐秘指挥官指挥的单位如果没有隐秘能力，则隐秘指挥官失去潜行能力，进行一般的移动。
+
+隐秘单位可以被指派一般的移动，在左键单击的同时按着\[Ctrl\]键即可。
+
+**幻影 (Glamour)**
+
+幻影单位在友方省份中不会被敌方被看到，在战斗中有镜像 (Mirror Image)
+能力。
+
+**暗视 (Darkvision)**
+
+有暗视能力的单位受到黑暗的影响以百分比减小，黑暗对单位的攻击，防御和精准都有惩罚。对普通单位夜战-3，黑暗-6，失明-9。暗视对失明并没有帮
+助。
+
+###  {#sec:4}
+
+神域5中，两支不同势力的军队在同一个省份互相发现，且没有城堡阻隔，就会进入战斗。这意味着间谍或者探子只要没有被发现，就不会进入战斗。如果一方在城堡内防御，则只有攻城方攻破城堡(见
+围攻城堡 章节)，或者防御城堡方选择突破围城时才会发生战斗。
+
+### 2 {#sec:2}
+
+如果超过2国的军队同时出现在一个没有城堡的省份中，游戏程序会自动决定每支军队进入省份的顺序，*战斗将按照此顺序进行结算，上一场战斗的获胜者和接下来进入省份的军队作战*。同一场战斗中只有2方(进攻方和防御方)。
+
+(1,0)[250]{}
+
+例子: Jotunheim, Marignon, 和 Pythium 同一回合进入了 Robber
+Home。游戏程序决定Marignon先到达该省，之后是Pythium，最后是Jotunheim。第一场战斗将是Pythium进攻Marignon。获胜的一方残存的部队将防御Jotunheim的进攻。
+
+(1,0)[250]{}
+
+*同盟的军队可以同时出现在一个省份中。*但是上述规则在作战时一样起效。如果一个省份中的几支同盟军队受到攻击，进攻军队会按照游戏程序决定的顺序依次进攻每一支防御军队。如果进攻军队第一场战斗获胜，则残存的部队继续进攻下一支防御军队。防御方的顺序是随机的。
+
+ {#sec:5}
+
+可以给一个单位指派很多命令。左键单击选中一个指挥官，再左键单击想移动到的目的地省份，就可以指派一个移动命令。如果一个箭头出现在出发省和目的地省，则移动会在一回合后结束，并不会经过途中的每一个省。如果移动不合规则(移动太远，通过险峻的地形)，则移动命令不会被指派，箭头不会出现。如果命令本来是合规则的，但是之后的操作使得命令不合规则了(比如拿走一个指挥官的飞靴)，则箭头和移动命令会照常显示，但是命令不会被执行。因为在结算回合时移动命令是不合规则的。
+
+###  Move {#sec:_move}
+
+移动到另一个省，如果是一个敌方省份，则会有战斗爆发。左键单击的默认命令是让一个非潜行的指挥官移动到点击的省份。
+
+###  Sneak {#sec:_sneak}
+
+隐秘单位可以进入敌方单位而不被觉察。只有隐秘单位可以使用这个命令，成功进入(以及继续隐藏在敌方省份)的概率取决于单位的隐秘值(Stealth)和试图找出隐秘单位的巡逻值(Patrol)。地方守备队高于15点以后会自动巡逻。也可以给指挥官指派巡逻的命令。快速的单位，如骑兵或者飞行单位的巡逻能力比普通单位更强。
+
+有巡逻加值的单位巡逻能力更强，命令允许隐藏在地方省份的隐秘单位潜行到邻接省份并攻击该邻接省份。
+
+除非被发现，隐秘单位不会进入战斗。隐秘单位的左键单击默认命令是潜行，要指派一个隐秘单位正常移动并且攻击目的地省，需要按下Ctrl键的同时左键单击目的地省份。
+
+###  Patrol {#sec:_patrol}
+
+巡逻可以降低所在省的动荡度，并且有机会发现隐秘的单位。一些单位比别的单位更善于巡逻(骑兵，飞行单位或者有巡逻加值)。巡逻每降低一点动荡度，所在省的人口会减10。这代表了永久的处理掉了引起麻烦的人口。巡逻的军队越多，巡逻的效果越好。地方守备队高于15点以后会自动巡逻，有可能发现隐秘单位，但是不如实在的军队有效。如果所在省动荡度为0，则没有人口会被巡逻队伤害。巡逻队会攻击任何来袭的敌方军队。
+
+发现隐秘单位的概率取决于巡逻值和隐秘单位的隐秘值。
+
+**隐秘值**: 隐秘指挥官的隐秘值 - 下属中隐秘值 &lt;= 50 单位总数
+
+**巡逻值**: 所有巡逻单位的巡逻值之和 - 动荡度/2 (最高只计到100动荡度) +
+地方守备队点数 (&gt;=15的情况下) - 14
+
+如果
+
+*巡逻值+ 2d25 (开放骰) &gt;隐秘值 + 2d25 (开放骰)*
+
+则隐秘单位被发现。
+
+一个单位的巡逻值=**(精准 + (战场移动力值 如果是飞行单位则计30))/20**
+
+有巡逻属性的单位将得到各自的加值。
+
+###  Defend Province {#sec:_defend_province}
+
+这和巡逻命令几乎一样，除了没有巡逻发生。单位将会和进入省份的敌方非隐秘单位战斗，但是不进行巡逻，所在省份的动荡度也不会降低。这是单位的默认命令。
+
+隐秘的单位被指派防御省份的命令后会和进攻省份的单位战斗，而不是隐藏。
+
+当所在省份有城堡时，巡逻的单位会在城堡外和进攻省份的军队战斗，防御的单位将会在城堡内部防御。
+
+###  Defend Castle {#sec:_defend_castle}
+
+被指派防御城堡的单位不会和进入省份的敌方军队战斗，而是在城堡中防御城堡(参见
+战斗系统 的章节)。
+
+移动分成2步进行
+
+-   首先，所有移动到友方省份的单位进行移动。
+
+-   之后，移动到敌方省份的单位进行移动。
+
+所以如果你将一支军队移动到友方省份，而敌人在同一回合将一支军队移动到同一省份，你的军队总是比敌方先到达，可以本来就在该省份的军队汇合，共同抵抗敌方军队。当然，敌人可以通过各种手段来阻止你的军队移动。
+
+如果你和敌方同时攻击一个第三方省份，某一支军队会先到达，这个顺序是随机的。
+
+类似的，如果你命令你的一支军队移动到一个敌方省份，而在这个敌方省份的敌方军队同一回合向你的军队所在的省份移动，则有以下3种可能性:
+
+-   两支军队在敌方省份发生战斗。
+
+-   两支军队在你的省份发生战斗。
+
+-   两支军队没有发生战斗，各自移动到了目的地省份。
+
+发生何种情况取决于两支军队的大小，特性和涉及省份的地形。
+
+**重要**:
+如果你命令一支军队移动到一个有城堡的友方省份，军队会默认进入城堡，执行防御城堡命令。所以如果你有一支军队在有城堡的省份巡逻，保卫省份，你移动第二支军队到该省份，当有敌方军队进攻省份时，第一支巡逻的军队会进入战斗，而第二支军队会进入城堡，不参加战斗。如果第一支军队战斗失败了，敌人会围城在城堡中的第二支军队。
+
+如果你希望第二支军队加入第一支军队，保卫省份，则必须指派移动并巡逻命令。
+
+###  Move and Patrol {#sec:_move_and_patrol}
+
+移动并巡逻命令只有在一个单位被指派了移动到一个*有城堡的友方省份*时才会出现在菜单里，在指派了初始的移动命令以后，再次点击指挥官的命令界面，移动并巡逻命令就会出现。选择这个命令会使指挥官和下属的军队移动到有城堡的省份后开始巡逻，和进入省份的敌方军队战斗。
+
+###  Blood Hunt {#sec:_blood_hunt}
+
+这是捕捉血奴，给血系魔法提供牺牲品的手段。要成功的捕捉血奴，一个指挥官必须通过3个检定。
+
+1.  等级检定: 成功率 = 10 + 血系魔法等级 \* 40
+
+2.  人口检定: 成功率 = 省份人口/50
+
+3.  动荡度检定: 失败率 = 省份动荡度/4
+
+如果这些检定都成功了
+
+捕捉的血奴数量 = d6 + 血系魔法等级
+
+血猎省份的动荡度上升 = d(捕获血奴数量 \* 3 +4)
+
+如果这些检定中有任何一个失败的，则没有捕获血奴
+
+血猎省份的动荡度上升 = d6 - 1
+
+###  Break Siege {#sec:_break_siege}
+
+这个命令使在一个城堡中被围城的军队出城和围城敌方军队进行战斗。如果突破的军队撤退了，则有可能撤回城堡，也有可能撤退到邻接的友方省份。如果这两个都有可能性，则有50%的概率撤回城堡，50%的概率撤退到别的省份。
+
+###  Maintain Siege {#sec:_maintain_siege}
+
+这是在敌方城堡围城的单位的默认命令，一般不用指派。除非你之前更改过一个指挥官的命令，现在要改回来围攻城堡。
+
+###  Storm Castle {#sec:_storm_castle}
+
+只有在围攻城堡成功的把敌方城堡的防御值降低到0以后，这个命令才会出现。这会使攻入城堡的军队和在城堡的城墙后防御的敌方军队进行一场战斗。注意攻入城堡的结算是在一般移动之后的，所以攻入城堡的军队有可能需要先在城堡外和来支援的敌军进行一场战斗。如果支援的敌军胜利了，则攻入城堡不会发生。如果支援的敌军解围失败了，则攻入城堡的军队会在受到战斗损失后继续攻入城堡进行战斗。
+
+###  Assassinate {#sec:_assassinate}
+
+刺客所在省份的一个随机的敌方指挥官成为暗杀的目标。刺客会和目标以及目标的保镖进行一场战斗。每一个被指派,,保卫指挥官“的保镖单位有50%的概率进入暗杀导致的战斗，如果有,,Bodyguard”属性则概率更高。刺客的耐心(Assassin’s
+Patience)值可以降低保镖出现的概率。被暗杀的目标被认为是意外进入战斗的，所以你指派的命令脚本不会起作用。暗杀有50%的概率发生在晚上，在晚上的战斗会有相应的黑暗惩罚。
+
+###  Preach {#sec:_preach}
+
+这个命令使牧师有可能提高所在省份的神域，公式在神域章节里有详细的解释。简而言之，成功率取决于传教牧师的等级。
+
+###  Pillage {#sec:_pillage}
+
+掠夺一个省份导致动荡度提高，人口减少，补给减少。进行掠夺的军队会得到收入和补给。进行掠夺的单位越多，掠夺成功的概率就越高。战场移动力高和体型大的单位更善于掠夺，而野蛮人和有恐惧(Fear)属性的单位更是异乎寻常的善于掠夺。掠夺得到的补给只能在一回合内有效果。
+
+###  Raid {#sec:_raid}
+
+袭击命令只有有掠夺(Pillage)能力的指挥官带领有掠夺能力的单位才能进行。这支军队可以袭击邻接的省份，杀死人口，制造动荡，获取收入。这个命令和掠夺几乎一样，只是影响的是邻接的省份，在袭击的军队在命令结束时回到起始的省份。
+
+进行袭击的军队有可能被地方守备队或巡逻队发现。此时会进入一场战斗，由进行袭击的军队对地方守备队加巡逻队。即使进行袭击的军队获胜，也不会征服被袭击的省份，而且此次袭击不会有掠夺的效果。
+
+###  Reanimate {#sec:_reanimate}
+
+这是一个很多不死牧师、国家(Ermor, Lanka)，单位(Carrion
+lords及下属)能使用的命令。Ashpodel国有可能复苏manikin而不是普通的不死生物,但是不能选择复苏哪种单位，manikin还是一般不死生物。
+
+复苏表格
+
+  -- -- -- -- -- --
+                 
+                 
+                 
+                 
+                 
+  -- -- -- -- -- --
+
+###  Contact Allies {#sec:_contact_allies}
+
+一些指挥官有特殊能力，可以花费一个回合聚集一些单位到自己麾下，例如Draconian。
+
+###  Perform Blood Sacrifice {#sec:_perform_blood_sacrifice}
+
+血祭只能在有寺庙的省份，由有血祭能力的国家的牧师来进行。血祭能力是一个国家历史的一部分，包括以下国家:
+
+Early age: Mictlan, Marverni, Sauromatia, Abysia, Pangaea, Vanheim,
+Helheim, Hinnom, Berytos
+
+Middle age: Abysia, Vanheim
+
+Late age: Marignon, Mictlan, Abysia, Midgård, Gath
+
+###  Capture Slaves {#sec:_capture_slaves}
+
+这个命令只有Mictlan可以使用，可以强迫 1d6+4
+个奴隶加入Mictlan的军队。奴隶弱小且士气低下，但是招募是免费的。
+
+###  Become Prophet {#sec:_become_prophet}
+
+这个命令让被指派的单位成为全国唯一的先知。单位的牧师等级如果
+&lt;=3，则提升到3，如果牧师等级&gt;=3，则牧师等级+1。先知会像1个寺庙一样传播神域。先知的各种属性在友方神域里会有加成(同理在敌方神域中会有减值)。如果一个先知被杀，需要等待半年(6个回合)才能指派新的先知。
+
+###  Instill Uprising {#sec:_instill_uprising}
+
+这个命令只有特定的单位可以使用，如间谍和吟游诗人。这个命令会使单位所在的地方省份动荡度上升。
+
+###  Hide {#sec:_hide}
+
+没有移动的隐秘单位的默认命令是隐藏。隐藏的单位不会参与所在省份(友方省份也一样)的一般战斗，除非被敌方巡逻队发现，进入一场单独的战斗。
+
+一个回合进行结算时，所有国家的回合命令被同时处理，处理顺序如下。
+
+### 1 send message {#sec:1__send_message}
+
+用Send
+Message按钮发送的消息被发送，这是第一个被处理的命令，发送的黄金、宝石、血奴和魔法物品总是会被发出，没有任何方法来妨碍。
+
+### 2 Research {#sec:2__research}
+
+法师们进行研究,即使之后的步骤中法师被刺杀或者因为某种原因死亡，此回合的研究点数还是被计算的。
+
+*此外，因为研究比战斗处理的早，所以新研究出的法术是可能在战斗中被自动施法施放的。*
+
+### 3 Empowerment {#sec:3_empowerment}
+
+通过增强魔力提高的魔法等级(path)在从这一步开始生效。
+
+### 4 Recruitment {#sec:4__recruitment}
+
+招募新的单位和指挥官，在本回合开头这些部队就已经存在，所以没有城堡的省份里新招募的单位和指挥官会参加本回合的战斗。
+
+### 5 Forge items {#sec:5__forge_items}
+
+新物品被锻造，进入各国的魔法物品仓库。妨碍本回合的锻造基本上不可能。
+
+*注意：每个物品锻造的顺序是随机的。锻造唯一物品(unique
+item)时，随机顺序最早的法师将得到唯一物品，更晚的法师将会锻造失败，花费的宝石和血奴将被归还*
+
+### 6 Preach {#sec:6__preach}
+
+牧师传教，神域作相应的变化。
+
+*这一步处理的很早，产生的效果对本回合的战斗会产生影响，例如神和先知的能力会受神域强度变化的影响。这一步的效果不受各种手段的影响，当然传播神域本身是以概率进行的。
+寺庙、先知和神的神域扩散是在很靠后的步骤里处理的，所以传教的结果在回合结算完时会有很多变化。但是这些变化对本回合的战斗基本没有影响*
+
+### 7 Heretic preaching {#sec:7__heretic_preaching}
+
+异端(heretic)、疯狂(insane)的指挥官和灵魂破碎(shatter
+soul)的指挥官传教。
+
+### 8 Claim thrones {#sec:8__claim_thrones}
+
+这一步宣称上升王座。
+
+### 9 Quick special orders {#sec:9__quick_special_orders}
+
+一些特殊命令比其他命令处理的早，比如进入遗迹占卜、培育珍珠。
+
+### 10 Magic rituals {#sec:10__magic_rituals}
+
+所有法师按*随机顺序*发动仪式魔法。
+
+### 11 Magic battles {#sec:11__magic_battles}
+
+因为仪式魔法导致的战斗在这步结算。例如， 被Wind Ride带走
+或者传送到敌方省份的指挥官在这一步战斗。
+
+### 12 Lost in other planes {#sec:12__lost_in_other_planes}
+
+迷失在异位面的单位在这回合处理发生的战斗，以及是否能返回正常世界。
+
+### 13 Site searches {#sec:13__site_searches}
+
+处理搜索遗迹的结果。
+
+### 14 Prophets {#sec:14__prophets}
+
+被指命为先知的指挥官在这一步生效。
+
+### 15 Call God {#sec:15__call_god}
+
+牧师呼唤死亡的本国的伪神回归。
+
+### 16 Awakening {#sec:16__awakening}
+
+沉睡或者囚禁的伪神在这步苏醒。
+
+### 17 Blood hunting {#sec:17__blood_hunting}
+
+血猎在这一步处理。
+
+### 18 Horrors {#sec:18__horrors}
+
+如果有单位不幸被惧魔拜访，在这一步处理。
+
+### 19 Assassination {#sec:19__assassination}
+
+暗杀在这一步发生，导致的战斗立即处理。
+
+### 20 Raid {#sec:20__raid}
+
+进行袭击(raid)命令的单位在这一步进行。
+
+### 21 Relinquish province {#sec:21__relinquish_province}
+
+收到移交省份命令的指挥官们会把所在省份交给非隐秘的盟友指挥官。
+
+### 22 Friendly movement {#sec:22__friendly_movement}
+
+所有结束于友方省份的移动在这一步进行，如果你想在敌人之前进入一个友方省份，只要1到21步中没有妨碍你进行移动，你就能比敌人先到达。
+
+### 23 Other movement {#sec:23__other_movement}
+
+其他移动，包括突破围城，在这一步进行。
+
+### 24 Resolve battles {#sec:24__resolve_battles}
+
+所有因为前几步移动导致的战斗在这一步结算。
+
+### 25 Castle storming {#sec:25__castle_storming}
+
+攻入城堡的战斗结算在这步进行。
+
+### 26 Global enchantments {#sec:26__global_enchantments}
+
+全球结界在这一步起效果，注意施放GE是在第10步发生的。
+
+### 27 Random events {#sec:27__random_events}
+
+这是幸运(Fortune)/不幸(Misfortune)事件发生的步骤。
+
+### 28 Resolve any battles {#sec:28__resolve_any_battles}
+
+随机事件导致的战斗在这一步处理。
+
+### 29 Magic itemsmonsters {#sec:29__magic_itemsmonsters}
+
+魔法物品和怪物的特殊效果在这一步处理，在第5步锻造的魔法物品也一样被处理。如果特殊效果导致任何战斗，也在这一步处理。
+
+### 30 Sneak discovery {#sec:30__sneak_discovery}
+
+潜行的单位可能被巡逻队发现。如果被发现，他们得为自己的性命战斗
+
+### 31 Change besieger {#sec:31__change_besieger}
+
+如果两支盟军在围攻同一个城堡，这一步决定谁在围攻。由比较大的军队进行围攻。
+
+### 32 Building construction {#sec:32__building_construction}
+
+城堡，寺庙，实验室被建造或者捣毁。
+
+### 33 Special orders {#sec:33__special_orders}
+
+一些召唤类的特殊命令，例如复苏死者(reanimate)或者召唤盟友(summon
+allies)被处理。所以这些召唤的单位不会进入当前回合的战斗。
+
+### 34 Pillage {#sec:34__pillage}
+
+掠夺所在省份，降低收入，提高动荡度。
+
+### 35 Income {#sec:35__income}
+
+所有国家获得省份的税收。注意这一步在掠夺之后进行。被掠夺的省份税收会降低，甚至归零。
+
+### 36 Unrest alterations {#sec:36__unrest_alterations}
+
+因为神域效果，巡逻导致的动荡度变化在这一步结算。
+
+### 37 Starvation {#sec:37__starvation}
+
+得不到补给的单位受到饥饿的效果。这意味着受到饥饿效果的第一个回合单位在战斗中不受影响。
+
+### 38 Upkeep Desertion {#sec:38__upkeep__desertion}
+
+维持费在这一步扣除，注意税收已经在35步收到，得不到维持费的逃兵也在这一步发生。
+
+### 39 Dominion spread {#sec:39__dominion_spread}
+
+因为各种原因导致的神域传播在这一步结算。
+
+### 40 Dominion effects {#sec:40__dominion_effects}
+
+神域的特殊效果,如杀死当地人口，疯狂，传播炎热或寒冷，在这一步进行。
+
+### 41 Site effects {#sec:41__site_effects}
+
+魔法遗迹传播各自的效果，如疾病，动荡等。
+
+### 42 Overpopulation {#sec:42__overpopulation}
+
+一个非常少见的情况，如果全世界有超过150，000个单位，其中的一些单位会被杀掉以保证游戏顺畅地运行。
+
+### 43 Aging {#sec:43__aging}
+
+单位年龄增长。
+
+### 44 Resolve battles {#sec:44__resolve_battles}
+
+所有剩余的战斗在这一步结算。
+
+### 45 HealDisease {#sec:45__healdisease}
+
+所有单位恢复失去的生命值，除非单位染上了疾病。有疾病的单位会受到进一步的伤害，还有可能得战伤。
+
+### 46 Insanity {#sec:46__insanity}
+
+因为特定神域的效果或者其他效果，一些单位在这一步疯狂。
+
+### 47 Mercenaries {#sec:47__mercenaries}
+
+佣兵被雇佣，续约或者解约。
+
+### 48 New random heroes {#sec:48__new_random_heroes}
+
+英雄会随机在所属国家的首都出现。
+
+### 49 Kill lone units {#sec:49_kill_lone_units}
+
+没有指挥官的孤立部队单位如果处在敌方省份，则全部被自动杀死，以防止出现没有意义的战斗。
+
+### 50 Reclaim provinces {#sec:50__reclaim_provinces}
+
+如果一个城堡没有占领所在省份，同时也没有被围攻，则它会获取所在省份的占领权。这在门徒局中也可能发生，一个省份和省份上建立的城堡可能属于同一队的不同的国家，这一步使拥有城堡的国家获得整个省份。
+
+### 51 Scouting {#sec:51__scouting}
+
+探子收集情报，报告最新的情况。
+
+### 52 Elimination {#sec:52__elimination}
+
+失去所有省份或者神域为0的国家被清除出游戏。
+
+### 53 Victory {#sec:53__victory}
+
+如果一个胜利条件被满足，游戏将宣布胜利者。
+
+### 54 Update stats {#sec:54__update_stats}
+
+更新名人堂和国家报表。
+
+### 55 Heroic abilities {#sec:55__heroic_abilities}
+
+在名人堂中的指挥官获得或者增强英雄能力。
+
+### 56 Reform Immortals {#sec:56__reform_immortals}
+
+应当重生的不朽单位在这一步重构身体。
+
+*注意此时侦查情报步骤已经结束，探子的报告里不会有新出现的不朽单位。*
+
+### 57 Reduce PD {#sec:57__reduce_pd}
+
+省份人口数量不足以维持地方守备队时，地方守备队将在这一步减弱。每一点地方守备队强度至少需要10人口来维持。
+
+### 58 Aftermath {#sec:58__aftermath}
+
+游戏验证命令和物品，进行一些内部处理。
